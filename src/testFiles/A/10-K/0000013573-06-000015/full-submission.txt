@@ -1,0 +1,1900 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ MBgYxD9Zmhx1QCgJuNuL3FMZR4ZUfNjRCl8pfskjFH/Iy3yBmlFKzFLkdYFVExlD
+ M2hkSB3l2jg9YKMOwZMsoQ==
+
+<SEC-DOCUMENT>0000013573-06-000015.txt : 20060929
+<SEC-HEADER>0000013573-06-000015.hdr.sgml : 20060929
+<ACCEPTANCE-DATETIME>20060928174223
+ACCESSION NUMBER:		0000013573-06-000015
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		2
+CONFORMED PERIOD OF REPORT:	20060702
+FILED AS OF DATE:		20060929
+DATE AS OF CHANGE:		20060928
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			BOWL AMERICA INC
+		CENTRAL INDEX KEY:			0000013573
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-AMUSEMENT & RECREATION SERVICES [7900]
+		IRS NUMBER:				540646173
+		STATE OF INCORPORATION:			MD
+		FISCAL YEAR END:			0627
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-07829
+		FILM NUMBER:		061114976
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6446 EDSALL RD
+		CITY:			ALEXANDRIA
+		STATE:			VA
+		ZIP:			22312
+		BUSINESS PHONE:		7039416300
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 1288
+		CITY:			SPRINGFIELD
+		STATE:			VA
+		ZIP:			22151
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>rf10k606.txt
+<DESCRIPTION>FORM 10-K AND ANNUAL REPORT FOR PERIOD ENDED JULY 2, 2006
+<TEXT>
+
+
+                        SECURITIES AND EXCHANGE COMMISSION
+                              Washington, D.C. 20549
+
+                                   FORM 10-K
+
+                ANNUAL REPORT PURSUANT TO SECTION 13 or 15(d) OF
+                      THE SECURITIES EXCHANGE ACT OF 1934
+
+  For the fiscal year ended July 2, 2006         Commission file Number 1-7829
+
+                             BOWL AMERICA INCORPORATED
+               (Exact name of registrant as specified in its charter.)
+
+          MARYLAND                                       54-0646173
+  (State of Incorporation)                (I.R.S. Employer Identification No.)
+
+              6446 Edsall Road, Alexandria, Virginia         22312
+             (Address of principal executive offices)     (Zip Code)
+
+                                (703)941-6300
+              Registrant's telephone number, including area code
+
+            Securities Registered Pursuant to Section 12(b) of the Act:
+
+     Title of Class                                    Name of Exchange on
+                                                         which registered
+
+Common stock (par value $.10)                        American Stock Exchange
+
+     Indicate by check mark if the registrant is a well-known seasoned issuer,
+as defined in Rule 405 of the Securities Act.   YES [ ]  NO [X]
+
+     Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act.   YES[ ]  NO [X]
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+registrant was required to file such reports), and (2) has been subject to
+such filing requirements for the past 90 days.  YES [X] NO [ ]
+
+     Indicate by check mark if disclosure of delinquent filers pursuant to
+Item 405 of Regulation S-K, Section 229.405 of this Chapter, is not contained
+herein, and will not be contained to the best of registrant's knowledge, in
+definitive Proxy or information statements incorporated by reference in Part
+III of this Form 10-K or any amendments to this Form 10-K.  YES [X] NO [ ]
+
+     Indicate by check mark whether the registrant is a large accelerated filer
+an accelerated filer, or a non-accelerated filer.  See definition of
+"accelerated filer and large accelerated filer" in Rule 12b-2 of the Exchange
+Act.
+
+Large Accelerated Filer [ ]  Accelerated Filer [ ]  Non-accelerated Filer [X]
+
+     Indicate by checkmark whether the registrant is a shell company (as
+defined by Rule 12b-2 of the Exchange act).  YES [ ]  NO [X]
+
+     As of January 1, 2006, which was the last business day of the
+registrant's most recently completed second quarter, 3,668,518 Class A common
+shares were outstanding, and the aggregate market value of the common shares
+(based upon the closing price of these shares on the American Stock Exchange)
+of Bowl America Incorporated held by nonaffiliates of the registrant was
+approximately $32 million.  As of that date 1,468,462 Class B common shares
+were outstanding.  Class B common shareholders have the right to convert their
+Class B common to Class A common stock on a share for share basis. If the
+Class B shares were converted to Class A shares as of January 1, 2006, the
+total aggregate market value for both classes of common stock held by
+nonaffiliates would be approximately $34 million.
+
+     Indicate the number of shares outstanding of each of the issuer's classes
+Of common stock, as of the last practical date:
+
+                                          Shares outstanding at
+                                             September 1, 2006
+     Class A Common Stock
+         $.10 par value                         3,668,430
+     Class B Common Stock
+         $.10 par value                         1,468,462
+
+<PAGE>
+
+                         DOCUMENTS INCORPORATED BY REFERENCE
+
+     Portions of registrant's definitive proxy statements, which will be filed
+with the Commission not later than 120 days after July 2, 2006 are
+incorporated into Part III of this Form 10-K. Portions of Bowl America's 2006
+Annual Report to shareholders are incorporated by reference in Part II,
+Items 5,6,7 and 8.
+
+<PAGE>
+
+
+
+                            BOWL AMERICA INCORPORATED
+
+                        INDEX TO FISCAL 2006 10-K FILING
+
+                                    PART I
+                                                                          Page
+Cover Page
+Documents Incorporated by Reference
+Index
+ITEM 1.  Business
+         (a)   General Development of Business                               1
+         (b)   Financial Information about Industry Segments                 1
+         (c)   Narrative Description of Business                             1
+         (d)   Foreign Operations                                            1
+
+ITEM 1A. Risk Factors                                                        1
+
+ITEM 2.  Properties                                                          2
+
+ITEM 3.  Legal Proceedings                                                   2
+
+ITEM 4.  Submission of Matters to a Vote of Security Holders                 2
+
+                                    PART II
+
+ITEM 5.  Market for Registrant's Common Equity and Related Stockholder
+         Matters                                                             2
+
+ITEM 6.  Selected Financial Data                                             2
+
+ITEM 7.  Management's Discussion and Analysis of Financial Condition and
+         Results of Operations                                               2
+
+ITEM 7a. Quantitative and Qualitative Disclosure About Market Risk           3
+
+ITEM 8.  Financial Statements and Supplementary Data                         3
+
+ITEM 9.  Changes in and Disagreements with Accountants and
+         Financial Disclosure                                                3
+
+ITEM 9A. Controls and Procedures                                             3
+                                    PART III
+
+ITEM 10. Directors and Executive Officers of the Registrant                  3
+
+ITEM 11. Executive Compensation                                              3
+
+ITEM 12. Security Ownership of Certain Beneficial Owners and Management
+         and Related Stockholder Matters
+
+         (a) Security Ownership of Certain Beneficial Owners                 3
+         (b) Security Ownership of Management                                3
+         (c) Changes in Control                                              3
+         (d) Securities Authorized for Issuance Under Equity
+             Compensation Plans                                              3
+
+
+<PAGE>
+
+                           BOWL AMERICA INCORPORATED
+
+                        INDEX TO FISCAL 2006 10-K FILING
+
+                                   PART III
+                                  (Continued)
+                                                                          Page
+ITEM 13. Certain Relationships and Related Transactions
+         (a) Transactions with Management and Others                         3
+         (b) Certain Business Relationships                                  3
+         (c) Indebtedness of Management                                      3
+         (d) Transactions with Promoters                                     3
+
+ITEM 14. Principal Accountant Fees and Services                              4
+
+                                   PART IV
+
+ITEM 15. Exhibits and Financial Statement Schedules
+         (a)1. Financial Statements                                          4
+         (a)3. Exhibits                                                      4
+
+Signatures                                                                 5-6
+
+
+<PAGE>
+
+
+
+                                   PART I
+ITEM 1.  BUSINESS
+
+         (a)   General Development of Business
+         Bowl America Incorporated (herein referred to as the Company) was
+incorporated in 1958.  The Company commenced business with one bowling center
+in 1958, and at the end of the past fiscal year, the Company and its wholly-
+owned subsidiaries operated 19 bowling centers.  The Company's newest location,
+a 40 lane center in metropolitan Richmond, Virginia, opened January 27, 2006.
+
+         (b)   Financial Information about Industry Segments
+         The Company operates in one segment.  Its principal source of
+revenue consists of fees charged for the use of bowling lanes and other
+facilities and from the sale of food and beverages for consumption on the
+premises.  Merchandise sales, including food and beverages, were approximately
+29% of operating revenues.  The balance of operating revenues (approximately
+71%) represents fees for bowling and related services.
+
+         (c)   Narrative Description of Business
+         As of September 1, 2006 the Registrant and its subsidiaries operated
+10 bowling centers in the greater metropolitan area of Washington, D.C., one
+bowling center in the greater metropolitan area of Baltimore, Maryland, one
+bowling center in Orlando, Florida, three bowling centers in the greater
+metropolitan area of Jacksonville, Florida, and four bowling centers in the
+greater metropolitan area of Richmond, Virginia.  These 19 bowling centers
+contain a total of 756 lanes.
+         These establishments are fully air-conditioned with facilities for
+service of food and beverages, game rooms, rental lockers, and playroom
+facilities.  All centers provide shoes for rental, and bowling balls are
+provided free.  In addition, each center retails bowling accessories.  Most
+locations are equipped for glow-in-the-dark bowling, popular for parties and
+non-league bowling.
+         The bowling equipment essential for the Company's operation is
+readily available.  The major source of its equipment is Brunswick Corporation.
+         The bowling business is a seasonal one, and most of the business takes
+place from October through May.  It is highly competitive, but the Company has
+managed to maintain its position in the field.  The principal method of
+competition is the quality of service furnished to the Company's customers.
+Its primary competitors are two large bowling equipment manufacturers,
+Brunswick Corporation and AMF Bowling Worldwide, Inc.
+         Compliance with federal, state and local environmental protection laws
+has not materially affected the Company.
+         The number of persons employed by the Company and its subsidiaries is
+approximately 750.
+
+         (d)   Foreign Operations
+
+         The Company has no foreign operations.
+
+Item 1A. RISK FACTORS
+
+         General economic, social and political conditions may adversely impact
+revenue.   The Company's revenues may be affected if customers' discretionary
+income declines as a result of a downturn in the economy.  Competition from
+other forms of recreation can affect the popularity of bowling and could
+adversely affect revenues.  Political events such as a terrorist attack could
+cause people to avoid public places where large crowds gather.
+
+         Adverse weather conditions can affect revenues.  Especially during
+the busy winter months, revenues from open play bowling, generally on weekends
+and holidays, can be affected by severe weather conditions that limit
+customers' ability to travel.
+
+         High energy costs could adversely affect operating income as heating
+and air conditioning are a significant expense of center operations.
+
+
+<PAGE>
+
+         We depend on key personnel for our performance.  Our performance
+significantly depends upon the continued contributions of our President and
+Chief Executive Officer, General Manager and certain other key employees.  The
+loss or unavailability of any such persons, or the delay and disruption that
+could be associated in the event of a need to replace any such persons, could
+adversely affect us.
+
+         We may not be able to expand our operations.  We are endeavoring to
+increase the number of our bowling centers through the acquisition or
+construction of new centers.  No assurance can be given that we will be able
+to effect such expansion on terms favorable to us or that we will be able to
+profitably operate any such new centers.
+
+         We qualify as a "controlled company" under American Stock Exchange
+rules.  We qualify as a "controlled company" under the rules of the AMEX as a
+result of the fact that our President and Chief Executive Officer and his
+family beneficially own shares possessing more than 50% of our outstanding
+shares' total voting power, and we are consequently exempt from certain AMEX
+corporate governance listing requirements.  Furthermore, such controlling
+shareholders would be able to determine the outcome of certain matters that
+could be submitted for shareholder approval, rendering the minority
+shareholders unable to control such matters.
+
+ITEM 2.  PROPERTIES
+
+         The Company's general offices are located at 6446 Edsall Road,
+Alexandria, Virginia 22312.
+
+         Two of the Company's bowling centers are located in leased premises,
+and the remaining seventeen centers are owned by the Company.  The Company's
+leases expire from 2009 through 2014.  The specific locations of the bowling
+centers are discussed under Item 1 (c).
+
+ITEM 3.  LEGAL PROCEEDINGS
+
+         There are no material pending legal proceedings other than ordinary
+routine litigation incidental to the business.
+
+ITEM 4.  SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+         No matters were submitted to a vote of security holders during the
+fourth quarter ended July 2, 2006.
+
+                                   PART II
+
+ITEM 5.  MARKET FOR THE REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+         MATTERS
+
+         (a) The information set forth in the section entitled "Market
+Information", "Holders", and "Cash Dividends" under "Selected Financial Data"
+on page 3 of the Company's July 2, 2006 Annual Report is incorporated by
+reference herein.
+         (b) Not applicable
+
+ITEM 6.  SELECTED FINANCIAL DATA
+
+         The information set forth in the section entitled "Selected Financial
+Data" on page 3 of the Company's July 2, 2006 Annual Report is incorporated by
+reference herein.  Such information should be read in conjunction with the
+audited financial statements.
+
+ITEM 7.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND
+         RESULTS OF OPERATIONS
+
+         The information set forth in the section entitled "Management's
+Discussion and Analysis of Financial Condition and Results of Operations" on
+page 2 of the Company's July 2, 2006 Annual Report is incorporated by
+reference herein.
+                                     -2-
+
+<PAGE>
+
+ITEM 7a. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+         Interest Rate Risk.  Our short-term investments and certain cash
+equivalents are subject to interest rate risk.  We manage this risk by
+maintaining an investment portfolio of available-for-sale instruments with
+high credit quality and relatively short average maturities.  The fair value
+of marketable debt securities held was $7,990,636 and $11,273,191 at July 2,
+2006 and July 3, 2005, respectively.  The fair value of certain fixed rate
+debt securities will change depending on movements in interest rates.  Declines
+in interest rates will affect our interest income.  Based on our portfolio of
+debt securities at July 2, 2006, a 10% decline in the average yield would not
+have a material impact on our interest income.
+
+
+ITEM 8.  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+         The Consolidated Financial Statements and related notes thereto, the
+Report of Independent Registered Public Accounting Firm and the Selected
+Quarterly Financial Data (unaudited), as contained on pages 2 through 11 of the
+Company's July 2, 2006 Annual Report, are incorporated by reference herein.
+
+ITEM 9.  CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+         AND FINANCIAL DISCLOSURE
+
+         None
+
+ITEM 9A. CONTROLS AND PROCEDURES
+
+         The Company's Chief Executive Officer and Chief Financial Officer have
+concluded that the Company's disclosure controls and procedures are effective
+based on their evaluation of such controls and procedures as of July 2, 2006.
+There was no change in the Company's internal control over financial reporting
+identified in connection with the evaluation that occurred during the fourth
+quarter of the Company's fiscal year ended July 2, 2006 that has materially
+affected, or is reasonably likely to materially affect, the Company's internal
+control over financial reporting.
+
+                                   PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+         Pursuant to General Instruction G(3) of Form 10-K, the information
+called for by this item regarding directors is hereby incorporated by reference
+from the Company's definitive proxy statement to be filed pursuant to
+Regulation 14A not later than 120 days after the end of the fiscal year covered
+by this report.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+         Pursuant to General Instruction G(3) of Form 10-K, the information
+called for by this item is hereby incorporated by reference from the Company's
+definitive proxy statement to be filed pursuant to Regulation 14A not later
+than 120 days after the end of the fiscal year covered by this report.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+         AND RELATED STOCKHOLDER MATTERS
+
+         Pursuant to General Instruction G(3) of Form 10-K, the information
+called for by this item is hereby incorporated by reference from the Company's
+definitive proxy statement to be filed pursuant to Regulation 14A not later
+than 120 days after the end of the fiscal year covered by this report.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+         Pursuant to General Instruction G(3) of Form 10-K, the information
+called for by this item is hereby incorporated by reference from the Company's
+definitive proxy statement to be filed pursuant to Regulation 14A not later
+than 120 days after the end of the fiscal year covered by this report.
+
+                                     -3-
+
+<PAGE>
+
+ITEM 14.  PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+          Pursuant to General Instruction G(3) of Form 10-K, the information
+called for by this item is hereby incorporated by reference from the Company's
+definitive proxy statement to be filed pursuant to Regulation 14A not later
+than 120 days after the end of the fiscal year covered by this report.
+
+                                   PART IV
+
+ITEM 15. EXHIBITS AND FINANCIAL STATEMENT SCHEDULES
+
+         (a)1.  Financial Statements
+                The following consolidated financial statements of Bowl America
+         Incorporated and its subsidiaries are incorporated by reference
+         in Part II, Item 8:
+
+               Report of Independent Registered Public Accounting Firm
+
+               Consolidated balance sheets - July 2, 2006 and July 3, 2005
+
+               Consolidated statements of earnings and comprehensive earnings
+               - years ended July 2, 2006, July 3, 2005, and June 27, 2004
+
+               Consolidated statements of stockholders' equity - years ended
+               July 2, 2006, July 3, 2005, and June 27, 2004
+
+               Consolidated statements of cash flows - years ended
+               July 2, 2006, July 3, 2005, and June 27, 2004
+
+               Notes to the consolidated financial statements - years ended
+               July 2, 2006, July 3, 2005, and June 27, 2004
+
+         (a)2. Exhibits:
+               3(a) Articles of Incorporation of the Registrant and amendments
+               through December 1988 thereto (Incorporated by reference from
+               exhibit number 3 to the Annual Report for 1989 on Form 10-K for
+               fiscal year ended July 2, 1989.)
+
+               3(b) Amendment to and restatement of Article FIFTH (b) III 2.2
+               of the Registrant's Articles of Incorporation (Incorporated by
+               reference from the Registrant's Form 8-K filed December 9, 1994.)
+
+               3(c) By-laws of the Registrant (Incorporated by reference from
+               exhibit 3 to the Annual Report for 1989 on Form 10-K for fiscal
+               year ended July 2, 1989.)
+
+               10(a) Extension of employment agreement with Leslie H. Goldberg
+               (Incorporated by reference from the Registrant's Form 8-K filed
+               June 22, 2006)
+
+               10(b) Employment agreement, dated December 31, 2005, between
+               Registrant and Irvin Clark.  (Incorporated by reference from
+               Registrant's Form 8-K filed January 10, 2006)
+
+               10(c) Employment agreement, dated December 31, 2004, between
+               Registrant and Cheryl A. Dragoo.  (Incorporated by reference
+               from Registrant's Form 8-K filed December 30, 2004)
+
+               21  Subsidiaries of registrant (Incorporated by reference from
+               exhibit number 1 to the Registrant's Annual Report on Form 10-K
+               for fiscal year ended June 30, 2002.
+
+               31.1  Written statement of Chief Executive Officer (Rule 13a-14a
+                     Certification)
+               31.2  Written statement of Chief Financial Officer (Rule 13a-14a
+                     Certification)
+               32    Written statement of Chief Executive and Chief Financial
+                     Officers (Section 1350 Certifications)
+
+                                     -4-
+
+<PAGE>
+
+                             BOWL AMERICA INCORPORATED
+
+                                   SIGNATURES
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed
+on its behalf by the undersigned thereunto duly authorized.
+
+BOWL AMERICA INCORPORATED
+
+
+Leslie H. Goldberg
+President and Principal Executive
+& Operating Officer
+
+Date:  September 28, 2006
+
+
+
+Cheryl A. Dragoo
+Chief Financial Officer,
+Assistant Treasurer and Controller
+Principal Accounting Officer
+
+Date:  September 28, 2006
+
+
+
+                                     -5-
+
+
+<PAGE>
+
+                           BOWL AMERICA INCORPORATED
+                                 SIGNATURES
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+registrant and in the capacities and the dates indicated.
+
+Name, Title, Capacity
+
+
+Leslie H. Goldberg
+President, Principal Executive
+& Operating Officer & Director
+
+Date:  September 28, 2006
+
+Ruth Macklin                                A. Joseph Levy
+Senior Vice President-Treasurer             Senior Vice President-Secretary
+and Director                                and Director
+
+Date:  September 28, 2006                   Date:  September 28, 2006
+
+Warren T. Braham                            Stanley H. Katzman
+Director                                    Director
+
+Date:  September 28, 2006                   Date:  September 28, 2006
+
+Allan L. Sher                               Merle Fabian
+Director                                    Director
+
+Date:  September 28, 2006                   Date:  September 28, 2006
+
+Irvin Clark
+Director
+
+Date:  September 28, 2006
+
+
+
+
+
+
+
+                                     -6-
+
+ <PAGE>
+
+
+
+                           BOWL AMERICA INCORPORATED
+                              PRESIDENT'S LETTER
+
+September 22, 2006
+
+Dear Fellow Owners:
+
+  More and more people are coming to Bowl America.  They are spending more
+money.  Our sales for bowling related activities and food and beverages were
+higher than last year, even though we had one fewer fiscal week.  This is true
+even without the sales at our new center.
+
+  But the earnings were not up.  What we charged did not keep up with what we
+have to pay for the good and services we provide our customers.  Economists
+say the pressure of rising costs is abating.  If, like me, you go to a local
+grocery or hardware store, you are not as sanguine.  If you have a light switch
+in your home, you know what is happening with energy costs.  Just convert that
+to thousands of square feet in the bowling centers that must be brightly lit
+and ventilated almost year round.  Watching our costs will have to be a top
+priority this year.
+
+  Also, some of our best business is done in locations that have been actively
+used for almost 50 years.  This year, some of the oldest buildings required
+expensive and unpredicted repairs.  These buildings, however, are well located
+for future growth.  My guess is you would probably include almost all of our
+neighborhoods on your list if you were starting to build a new bowling chain.
+Think how often you read about economic growth and low unemployment in Fairfax
+and Loudoun Counties and in Richmond.
+
+  Another growing item is our dividend.  This was the 34th consecutive year of
+increased dividends per share, which resulted in our being ranked 21st among
+19,000 public companies in a recent survey.  We are not prepared, however, to
+view our situation as static.  Elsewhere you will see the photographs of our
+spectacular new Richmond, Virginia area facility.  It is located in what we
+believe to be the fastest growing section of that city and the photos hardly do
+justice to its visual impact.  This blend of the new with continued development
+of our existing properties is what is required to accomplish our objective of
+continuing to increase the real rewards of owning shares in our company.  We
+have long argued that shareholders are best served if they can share in their
+companies' success without having to sell their stock.
+
+  Future success won't simply flow from bricks and mortar.  It will be
+determined by the skills of our people and customs we have developed over the
+years.  I am particularly reminded of this because of the recent death of Paul
+Mudd.  Paul and I had actually worked together at the old Clarendon Bowling
+Center during World War II.  When Bowl America was founded, Paul became its
+first manager, opening Shirley Bowl in January 1958.  He continued with the
+company until his retirement in 1989.  Paul's relationship with Bowl America
+will not, however, be limited by dates.  Even today, when discussing the things
+that the best bowling center managers do, we always come back to talking about
+how Paul Mudd did it.  In this respect, he was part of our past and will be
+part of our future.
+
+                                        Regards,
+                                        Leslie H. Goldberg, President
+
+
+
+<PAGE>
+
+
+          MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+                         AND RESULTS OF OPERATIONS
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+    Cash flow provided by operating activities in fiscal 2006 was
+$4,293,000 which was sufficient to meet day-to-day cash needs.  Short-
+term investments consisting mainly of U.S. Government securities, cash
+and cash equivalents totaled $9,046,000 at the end of fiscal 2006
+compared to $12,980,000 at the end of fiscal 2005.  The decrease of
+approximately $3,934,000 is primarily the result of internally funding
+the building of Bowl America Short Pump which opened to the public on
+January 27, 2006.
+
+    During fiscal year 2006, the Company expended approximately
+$1,118,000 for the purchase of bowling equipment and restaurant
+equipment and amusement games, continuing to upgrade current
+facilities.  Approximately $4,201,000 was expended in the fiscal year
+for building and equipping the new location.  All contracts for the
+site were paid in full except a $10,000 balance due on one contract.
+In July 2006, the Company signed purchase agreements totaling
+approximately $290,000 for bowling pins and point-of-sale cash
+systems.  In August 2006 all pins and equipment were delivered and
+payment in full was made.
+
+    The Company is actively seeking property for the development of new
+bowling centers.  The Company has made no application for third party
+funding as cash and cash flows are sufficient to finance all
+contemplated purchases and to meet short-term purchase commitments and
+operating lease commitments.  The table below summarizes these
+obligations as of July 2, 2006.  The Company's holdings of marketable
+equity securities, primarily telecommunication stocks, are an
+additional source of expansion capital.  These marketable securities
+are carried at their fair value on the last day of the year.  The value
+of the securities on July 2, 2006 was approximately $4.5 million
+compared to $4.2 million at July 3, 2005.
+
+
+   CONTRACTUAL       Total       Less than      1-3       3-5      More than
+   OBLIGATIONS                     1 year      years     years      5 years
+   -------------------------------------------------------------------------
+   Operating lease
+    obligations     $1,265,416   $  272,459   $544,918   $191,372   $256,667
+
+   Purchase
+    obligations         10,000       10,000       -         -           -
+   -------------------------------------------------------------------------
+   Total            $1,275,416   $  282,459   $544,918   $191,372   $256,667
+   =========================================================================
+
+    Cash dividends of $.56 per share, totaling $2.9 million, were paid to
+shareholders during the 2006 fiscal year making this the thirty-fourth
+consecutive year of increased dividends per share.  In June 2006, the Company
+declared a $.14 per share dividend to be paid in August 2006.  While no factors
+requiring a change in the dividend rate are yet apparent, the Board of Directors
+decides the amount and timing of any dividend at its quarterly meeting based
+on its appraisal of the state of the business and estimate of future
+opportunities.
+
+RESULTS OF OPERATIONS
+
+    With the opening of Bowl America Short Pump during the third quarter of
+fiscal year 2006, the number of locations in operation increased from eighteen
+to nineteen.  Eighteen centers were in operation during both fiscal 2005 and
+2004.  Fiscal years 2006 and 2004 each consisted of 52 weeks.  Fiscal year
+2005 was a 53-week year.  All comparisons in this discussion and throughout
+the report are affected by the change in the number of centers in operation
+in fiscal year 2006 and the additional week of business in fiscal year 2005.
+
+    Operating revenues increased $1,713,000 or about 6% in fiscal 2006 and
+$173,000 or about 1% in fiscal 2005.  Bowling and other revenue increased
+$1,207,000 or 6% in fiscal 2006 and $274,000 or 1% in fiscal 2005.  Food,
+beverage and merchandise sales rose $506,000 or 6% in the current fiscal year
+versus a decrease of 1% in fiscal 2005.
+
+    Total operating expense increased $1,975,000 or 8% in fiscal 2006 compared
+to a slight decline in fiscal 2005.  Costs for employee compensation and
+benefits were up 6% in the current fiscal year and down less than 1% in the
+prior year period.  In fiscal year 2006, health insurance costs increased 8%,
+up from a 2% increase in the prior year.  The increase was primarily the
+result on higher premiums.  Included in this category of expense are
+contributions to our two benefit plans, both of which are defined contribution
+plans.  There is no additional obligation beyond the current year contribution.
+
+    Cost of bowling and other services increased 11% and 2% in the current and
+prior year periods, respectively.  Maintenance expense increased $234,000 or
+35% in fiscal 2006 due primarily to major plumbing repairs at several locations.
+In fiscal 2005 the same category was down 12% due primarily to fewer building
+and air conditioning repairs than in fiscal 2004.  Supplies expense was up 8%
+in fiscal 2006 and flat in fiscal 2005.
+
+    Advertising costs increased $60,000 or 9% in the current year and $171,000
+or 38% in the prior year period.  Utility costs were up 17% in fiscal 2006 and
+4% in fiscal 2005.
+
+    Rent expense was flat in fiscal year 2006 and decreased 4% in fiscal 2005.
+The prior year decline was primarily due to lower common area maintenance costs.
+Insurance expense, excluding health and life, declined 13% in fiscal 2006 and
+increased 10% in fiscal 2005.
+
+    Depreciation expenses increased $202,000 or 14%, primarily attributable to
+the purchase of assets for the new location, and decreased by $69,000 or 4%
+in fiscal 2005.
+
+    Operating income in fiscal 2006 decreased approximately 6% to $4.9 million
+from $5.2 million in fiscal 2005.  Fiscal 2005 operating income increased 7%
+over fiscal year 2004 operating income of $4.9 million excluding the gain of
+$2.2 million on the sale of a facility.
+
+    Interest and dividend income increased 7% in the current year period and
+47% in the prior year due to higher interest rates on investments.  Investment
+balances in fiscal 2006 were lower than in fiscal 2005 as the new location was
+partially funded with these investments.
+
+    Investment earnings of $152,000 on the mandatory exchange of AT&T Wireless
+stock for cash from Cingular Wireless were recorded in fiscal 2005.
+
+    Effective income tax rates for the Company were 34.9% for fiscal 2006,
+35.8% for fiscal 2005, and 37.4% for fiscal 2004, the difference from statutory
+rates being primarily for the partial exclusion of dividends received on
+investments and the state tax exemption for interest on U.S. Government
+obligations.
+
+    Net earnings in fiscal 2006 were $3.6 million or $.71 per share, compared
+to $3.8 million or $.75 per share in fiscal 2005, and $4.7 million or $.91 per
+share in fiscal 2004.
+
+CRITICAL ACCOUNTING POLICIES
+
+     We have identified accounting for marketable investment securities
+under SFAS 115 "Accounting for Certain Investments in Debt and Equity
+Securities" as a critical accounting policy due to the significance of
+the amounts included in our balance sheet under the captions of Short-
+term investments and Marketable equity securities.  The Company
+exercises judgment in determining the classification of its investment
+securities as available-for-sale and in determining their fair value.
+The Company records these investments at their fair value with the
+unrealized gain or loss recorded in accumulated other comprehensive
+income, a component of stockholders' equity, net of deferred taxes.
+Additionally, from time to time the Company must assess whether write-
+downs are necessary for other than temporary declines in value.
+
+     We have identified accounting for the impairment of long-lived
+assets under SFAS 144 Accounting for the Impairment or Disposal of
+Long-Lived Assets as a critical accounting policy due to the
+significance of the amounts included in our balance sheet under the
+caption of Land, Buildings and Equipment.  The Company reviews long-
+lived assets whenever events or changes indicate that the carrying
+amount of an asset may not be recoverable.  In making such evaluations,
+the Company compares the expected future cash flows to the carrying
+amount of the assets.  An impairment loss equal to the difference
+between the assets' fair value and carrying value is recognized when
+the estimated future cash flows are less than the carrying amount.
+
+
+                                     -2-
+ <PAGE>
+
+
+
+
+
+
+                   BOWL AMERICA INCORPORATED AND SUBSIDIARIES
+
+                       CONSOLIDATED SUMMARY OF OPERATIONS
+
+Selected Financial Data
+<TABLE>
+<CAPTION>
+                                      For the Years Ended
+                        July 2,     July 3,    June 27,     June 29,    June 30,
+                         2006        2005        2004        2003         2002
+                     __________________________________________________________
+<S>                  <C>         <C>         <C>         <C>         <C>
+Operating Revenues   $30,320,251 $28,607,145 $28,433,689 $29,375,692 $29,901,142
+Operating Expenses    25,410,113  23,435,145  23,539,032  24,262,944  24,507,566
+Interest and dividend
+ Income                  655,818     609,963     413,738     475,598     598,982
+Investment Earnings         -        151,817        -           -           -
+Gain on Sale of Land,
+ Buildings and
+ Equipment                23,028      65,531   2,201,240        -           -
+                      __________  __________  __________  __________  __________
+Earnings before pro-
+ vision for income
+ taxes                 5,588,984   5,999,311   7,509,635   5,588,346   5,992,558
+Provision for income
+ taxes                 1,949,409   2,150,030   2,807,896   2,005,000   2,174,000
+                      __________  __________  __________  __________  __________
+Net Earnings         $ 3,639,575 $ 3,849,281 $ 4,701,739 $ 3,583,346 $ 3,818,558
+
+Weighted Average
+ Shares Outstanding
+ Basic & Diluted       5,136,968   5,137,773   5,138,559   5,145,934   5,132,083
+
+Earnings Per Share
+ Basic & Diluted          $.71        $.75        $.91        $.70        $.74
+
+Net Cash Provided by
+ Operating Activities $4,292,512  $5,503,187  $5,501,857  $5,450,867  $5,954,909
+Cash Dividends Paid   $2,876,696  $2,774,419  $2,672,062  $2,470,081  $2,371,121
+Cash Dividends Paid
+ Per Share-Class A        $.56        $.54        $.52        $.48        $.46
+          -Class B        $.56        $.54        $.52        $.48        $.46
+Total Assets         $43,130,385 $42,548,998 $40,579,581 $37,536,507 $36,562,578
+Stockholders' Equity $37,088,954 $36,191,662 $34,896,581 $32,953,150 $32,682,139
+Net Book Value Per
+ Share                   $7.22       $7.04       $6.79       $6.41       $6.35
+Net Earnings as a %
+ of Beginning Stock-
+ holders' Equity         10.1%       11.0%       14.3%       11.0%       11.7%
+Lanes in Operation         756         716         716         716         746
+Centers in Operation        19          18          18          18          19
+
+</TABLE>
+All share and per share amounts (excluding Net Book Value Per Share) have been
+adjusted to reflect the 5% stock dividend distributed on July 26, 2001.
+
+
+
+Market Information
+The principal market on which the Company's Class A Common Stock is traded is
+the American Stock Exchange.  The Company's Class B Common Stock is not listed
+on any exchange and is not traded.  This stock can be converted to Class A
+Common Stock at any time.  The table below presents the price range of the
+Company's Class A stock in each quarter of fiscal 2006 and 2005.
+<TABLE>
+<CAPTION>
+       2006        1st Qtr     2nd Qtr     3rd Qtr     4th Qtr
+       _________________________________________________________
+       <S>         <C>        <C>          <C>         <C>
+       High         14.36      13.73        14.60       14.79
+       Low          13.37      13.03        13.50       14.40
+</TABLE>
+<TABLE>
+<CAPTION>
+       2005        1st Qtr     2nd Qtr     3rd Qtr     4th Qtr
+       _______________________________________________________
+       <S>         <C>         <C>         <C>         <C>
+       High         14.60       14.30       14.41       14.35
+       Low          14.00       13.95       13.55       13.40
+</TABLE>
+
+Holders
+The approximate number of holders of record of the Company's Class A Common
+Stock as of July 2, 2006 is 405 and of the Company's Class B Common Stock
+is 25.
+
+Cash Dividends
+The table below presents the cash dividends per share of Class A and Class B
+stock paid, and the quarter in which the payment was made during fiscal 2006
+and 2005.
+<TABLE>
+<CAPTION>
+                        Class A Common Stock
+              Quarter            2006              2005
+              ____________________________________________
+              <S>              <C>              <C>
+              First             14 cents        13.5 cents
+              Second            14 cents        13.5 cents
+              Third             14 cents        13.5 cents
+              Fourth            14 cents        13.5 cents
+</TABLE>
+<TABLE>
+<CAPTION>
+                        Class B Common Stock
+              Quarter            2006              2005
+              _____________________________________________
+              <S>              <C>              <C>
+              First             14 cents        13.5 cents
+              Second            14 cents        13.5 cents
+              Third             14 cents        13.5 cents
+              Fourth            14 cents        13.5 cents
+</TABLE>
+                                     -3-
+
+
+                  BOWL AMERICA INCORPORATED AND SUBSIDIARIES
+                         CONSOLIDATED BALANCE SHEETS
+<TABLE>
+<CAPTION>
+                                             July 2, 2006         July 3, 2005
+<S>                                           <C>                  <C>
+ASSETS
+Current Assets
+  Cash and cash equivalents (Note 2)          $ 1,055,687          $ 1,707,385
+  Short-term investments (Note 3)               7,990,636           11,273,191
+  Inventories                                     625,467              626,452
+  Prepaid expenses and other                      968,289              491,647
+  Income taxes refundable                         172,873              132,467
+  Current deferred income taxes (Note 7)           46,910                 -
+                                               __________           __________
+  Total Current Assets                         10,859,862           14,231,142
+Land, Buildings and Equipment, Net (Note 4)    27,053,704           23,440,265
+
+Other Assets
+  Marketable equity securities (Note 3)         4,540,061            4,208,421
+  Cash surrender value-officers'life insurance    505,664              516,248
+  Other                                           171,094              152,922
+                                               __________           __________
+  Total Other Assets                            5,216,819            4,877,591
+                                               ----------           ----------
+
+TOTAL ASSETS                                  $43,130,385          $42,548,998
+                                               ==========           ==========
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Current Liabilities
+  Accounts payable                            $   910,550          $ 1,130,017
+  Accrued expenses                              1,214,780            1,127,639
+  Dividends payable                               719,165              719,177
+  Other current liabilities                       395,919              372,932
+  Current deferred income taxes (Note 7)             -                 247,936
+                                               __________           __________
+Total Current Liabilities                       3,240,414            3,597,701
+Long-Term Deferred Compensation                    66,221               71,475
+Non-current Deferred Income Taxes (Note 7)      2,734,796            2,688,160
+                                               __________           __________
+TOTAL LIABILITIES                               6,041,431            6,357,336
+
+Commitments and Contingencies (Note 5)
+Stockholders' Equity (Note 8)
+  Preferred stock, par value $10 a share
+   Authorized and unissued 2,000,000 shares
+  Common stock, par value $.10 per share
+   Authorized 10,000,000 shares
+    Class A outstanding
+     3,668,430 and 3,669,311                      366,843              366,932
+    Class B outstanding 1,468,462 shares          146,846              146,846
+  Additional paid-in capital                    7,480,615            7,479,072
+  Accumulated other comprehensive earnings-
+    Unrealized gain on available-for-sale
+     securities, net of tax                     2,338,565            2,194,714
+  Retained earnings                            26,756,085           26,004,098
+                                               __________           __________
+TOTAL STOCKHOLDERS' EQUITY                    $37,088,954          $36,191,662
+
+TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY    $43,130,385          $42,548,998
+<FN>                                          ===========           ==========
+The accompanying notes to the consolidated financial statements are an integral
+part of these financial statements.
+</TABLE>
+                                     -4-
+
+
+<PAGE>
+
+
+
+
+                    BOWL AMERICA INCORPORATED AND SUBSIDIARIES
+
+           CONSOLIDATED STATEMENTS OF EARNINGS & COMPREHENSIVE EARNINGS
+
+<TABLE>
+<CAPTION>
+                                                   For the Years Ended
+                                 July 2, 2006     July 3, 2005    June 27, 2004
+                                 ______________________________________________
+<S>                               <C>              <C>              <C>
+Operating Revenues
+ Bowling and other                $21,635,492      $20,428,291      $20,154,568
+ Food, beverage and
+   merchandise sales                8,684,759        8,178,854        8,279,121
+                                   __________       __________       __________
+                                   30,320,251       28,607,145       28,433,689
+
+Operating Expenses
+ Compensation and benefits         13,355,702       12,617,207       12,688,709
+ Cost of bowling and other          6,743,507        6,058,703        5,925,753
+ Cost of food, beverage and
+   merchandise sales                2,707,000        2,492,677        2,603,609
+ Depreciation and amortization      1,665,637        1,463,188        1,532,587
+ General and administrative           938,267          803,370          788,374
+                                   __________       __________       __________
+                                   25,410,113       23,435,145       23,539,032
+Gain on sale of land, buildings
+   and equipment                       23,028           65,531        2,201,240
+
+Operating Income                    4,933,166        5,237,531        7,095,897
+ Interest and dividend income         655,818          609,963          413,738
+ Investment earnings                     -             151,817             -
+                                   __________       __________       __________
+Earnings before provision
+ for income taxes                   5,588,984        5,999,311        7,509,635
+Provision for income taxes(Note 7)
+ Current                            2,281,996        2,060,514        1,946,247
+ Deferred                            (332,587)          89,516          861,649
+                                    _________       __________       __________
+                                    1,949,409        2,150,030        2,807,896
+
+Net Earnings                      $ 3,639,575      $ 3,849,281      $ 4,701,739
+
+Other Comprehensive Gain (Loss)
+ Net of Tax
+ Unrealized gain (loss)
+ on available-for-sale securities     143,851          334,483          (23,595)
+ Less: Reclassification adjustment
+  for gain included in net income        -             (88,687)            -
+                                    _________        _________        _________
+Comprehensive Earnings              3,783,426        4,095,077        4,678,144
+
+Earnings Per Share-Basic &
+ Diluted                               $.71             $.75             $.91
+
+</TABLE>
+
+The accompanying notes to the consolidated financial statements are an integral
+part of these financial statements.
+                                     -5-
+<PAGE>
+<TABLE>
+<CAPTION>
+                                     BOWL AMERICA INCORPORATED AND SUBSIDIARIES
+
+                                 CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+
+
+
+                                                  COMMON STOCK                             Accumulated
+                                      _______________________________________   Additional      Other
+                                      Class A    Class A   Class B    Class B    Paid-In     Comprehensive   Retained
+                                      Shares     Amount    Shares     Amount     Capital      Earnings(1)    Earnings
+
+<S>                                  <C>        <C>       <C>        <C>        <C>           <C>           <C>
+_________________________________________________________________________________________________________________________
+Balance June 29, 2003                3,670,112  $367,012  1,468,462  $146,846   $7,480,257    $1,972,513    $22,986,522
+ Purchase of stock                        (801)      (80)      -         -          (1,185)         -           (10,109)
+ Cash dividends paid                      -         -          -         -            -             -        (2,029,739)
+ Accrued dividends declared
+  June 22, 2004, payable
+  August 18, 2004                         -         -          -         -            -             -          (693,600)
+ Change in unrealized gain on
+  available-for-sale securities
+  (shown net of tax)                      -         -          -         -            -          (23,595)          -
+ Net earnings for the year                -         -          -         -            -             -         4,701,739
+________________________________________________________________________________________________________________________
+Balance, June 27, 2004               3,669,311  $366,932  1,468,462  $146,846   $7,479,072    $1,948,918    $24,954,813
+ Cash dividends paid                      -         -          -         -            -             -        (2,080,819)
+ Accrued dividends declared
+  June 21, 2005, payable
+  August 17, 2005                         -         -          -         -            -             -          (719,177)
+ Change in unrealized gain on
+  available-for-sale securities
+  (shown net of tax)                      -         -          -         -            -          334,483           -
+ Less: Reclassification adjustment
+  for gain included in net income,
+  net of tax                              -         -          -         -            -          (88,687)          -
+ Net earnings for the year                -         -          -         -            -             -         3,849,281
+____________________________________________________________________________________________________________________
+Balance, July 3, 2005                3,669,311  $366,932  1,468,462  $146,846   $7,479,072    $2,194,714    $26,004,098
+ Purchase of stock                        (881)      (89)      -         -          (1,302)         -           (10,904)
+ Cash dividends paid                      -         -          -         -            -             -        (2,157,519)
+ Accrued dividends declared
+  June 20, 2006, payable
+  August 9, 2006                          -         -          -         -            -             -          (719,165)
+ Change in unrealized gain on
+  available-for-sale securities
+  (shown net of tax)                      -         -          -         -            -          143,851           -
+ Repayment of employee loan               -         -          -         -           2,845          -              -
+ Net earnings for the year                -         -          -         -            -             -         3,639,575
+_______________________________________________________________________________________________________________________
+Balance, July 2, 2006               3,668,430   $366,843  1,468,462  $146,846   $7,480,615    $2,338,565    $26,756,085
+
+<FN> (1)Unrealized gains and losses are shown net of tax
+     The accompanying notes to the consolidated financial statements are an
+     integral part of these financial statements.
+</TABLE>
+
+                                     -6-
+<PAGE>
+
+
+
+                   BOWL AMERICA INCORPORATED AND SUBSIDIARIES
+
+                     CONSOLIDATED STATEMENTS OF CASH FLOWS
+ <TABLE>
+ <CAPTION>
+                                               July 2,     July 3,    June 27,
+                                                2006        2005        2004
+<S>                                          <C>         <C>         <C>
+Cash Flows From Operating Activities
+ Net earnings                                $3,639,575  $3,849,281  $4,701,739
+Adjustments to reconcile net earnings to
+  net cash provided by operating activities:
+   Depreciation and amortization              1,665,637   1,463,188   1,532,587
+   (Decrease) increase in deferred income tax  (332,587)     89,516     861,649
+   Gain on disposition of assets-net            (23,028)    (65,531) (2,201,240)
+   Gain on sale of available-for-sale
+    securities                                     -       (151,817)       -
+ Changes in assets and liabilities:
+  Decrease (increase) in inventories                985     (42,986)    (18,395)
+  (Increase) decrease in prepaid expenses
+    and other                                  (476,642)    103,813      (4,905)
+  (Increase) decrease in income taxes
+    refundable                                  (40,406)   (132,467)    443,788
+  Increase in other long-term assets            (26,429)    (26,322)        (83)
+  (Decrease) increase in accounts payable      (219,467)    324,205     105,387
+  Increase (decrease) in accrued expenses        87,141     236,350     (18,798)
+  (Decrease) increase in income taxes payable      -       (179,855)    179,855
+  Increase (decrease) in other current
+    liabilities                                  22,987      38,615     (20,537)
+  Decrease in long-term deferred compensation    (5,254)     (2,803)    (59,190)
+                                              _________   _________   _________
+Net cash provided by operating activities    $4,292,512  $5,503,187  $5,501,857
+                                              _________   _________   _________
+Cash Flows from Investing Activities
+  Expenditures for land,buildings,equipment  (5,319,123) (3,184,491) (2,968,898)
+  Sale of assets                                 63,075     109,488        -
+  Proceeds received from sale of facility          -           -      2,280,088
+  Sales (purchases) and maturities  of
+   short-term investments                     3,179,143     529,097  (2,309,382)
+  Decrease (increase) in cash surrender value    10,584     (48,645)     (4,024)
+  Proceeds from sale of marketable securities      -        252,525       1,125
+                                              _________   _________   _________
+Net cash used in investing activities        (2,066,321) (2,342,026) (3,001,091)
+                                              _________   _________   _________
+Cash Flows from Financing Activities
+  Payment of cash dividends                  (2,876,696) (2,774,419) (2,672,062)
+  Purchase of Class A Common Stock               (1,193)       -        (11,374)
+                                              _________   _________   _________
+Net cash used in financing activities        (2,877,889) (2,774,419) (2,683,436)
+                                              _________   _________   _________
+Net (Decrease) Increase in Cash and
+  Cash Equivalents                             (651,698)    386,742    (182,670)
+Cash and Cash Equivalents, Beginning of Year  1,707,385   1,320,643   1,503,313
+                                              _________   _________   _________
+Cash and Cash Equivalents, End of Year       $1,055,687  $1,707,385  $1,320,643
+
+
+
+Supplemental Disclosures of Cash Flow Information
+  Cash paid during the year for
+   Income taxes                              $2,322,802  $2,284,987  $1,907,467
+  Non-cash Investing and Financing Activities
+   Settlement of employee stock loan by
+    acquisition of employee-owned stock          $2,845        -           -
+   Repayment of employee stock loans by
+    acquisition of employee-owned stock          $8,257        -           -
+   Exchange of property                            -           -        $65,735
+
+The accompanying notes to the consolidated financial statements are an integral
+part of these financial statements.
+</TABLE>
+                                     -7-
+
+<PAGE>
+
+
+
+                   BOWL AMERICA INCORPORATED AND SUBSIDIARIES
+
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1.  ORGANIZATION AND SIGNIFICANT ACCOUNTING POLICIES
+
+Organization
+    Bowl America Incorporated is engaged in the operation of 19 bowling
+centers, with food and beverage service in each center.  Ten centers are
+located in metropolitan Washington D.C., one center in metropolitan
+Baltimore, Maryland, one center in metropolitan Orlando, Florida, four
+centers in metropolitan Richmond, Virginia, and three centers in metropolitan
+Jacksonville, Florida.  These 19 centers contain a total of 756 lanes.
+The Company operates in one segment.
+
+Principles of Consolidation
+    The consolidated financial statements include the accounts of the Company
+and all of its wholly owned subsidiary corporations.  All significant inter-
+company items have been eliminated in the consolidated financial statements.
+
+Fiscal Year
+    The Company's fiscal year ends on the Sunday nearest to June 30.  Fiscal
+year 2006 ended July 2, 2006, fiscal year 2005 ended July 3, 2005, and fiscal
+year 2004 ended June 27, 2004.  Fiscal years 2006 and 2004 each consisted of
+52 weeks and fiscal year 2005 consisted of 53 weeks.
+
+Estimates
+    The preparation of consolidated financial statements in conformity with
+accounting principles generally accepted in the United States of America
+requires management to make estimates and assumptions.  These estimates and
+assumptions affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the consolidated
+financial statements and the reported amounts of revenues and expenses during
+the reporting period.  Actual results may differ from those estimates.
+Significant estimates include the deferred compensation liability for executives
+and key employees including survivor benefits, depreciation expense, cash
+surrender value of officers' life insurance, the Federal and State income
+taxes (current and deferred), and market assumptions used in estimating the
+fair value of certain assets such as marketable securities and long-lived
+assets.
+
+Revenue Recognition
+    The Company records revenue for fees charged for use of bowling lanes and
+other facilities at the time the services are provided.  Food, beverage and
+merchandise sales are recorded as revenue at the time the product is given to
+the customer.
+
+Depreciation and Amortization
+    Depreciation and amortization for financial statement purposes are
+calculated by use of the straight-line method.  Amortization of leasehold
+improvements is calculated over the estimated useful life of the asset or
+term of the lease, whichever is shorter.  The categories of property, plant,
+and equipment and the ranges of estimated useful lives on which depreciation
+and amortization rates are based are as follows:
+
+              Bowling lanes and equipment             3-10 years
+              Building and building improvements     10-39 years
+              Leasehold improvements                    10 years
+              Amusement games                          3-5 years
+
+    Maintenance and repairs and minor replacements are charged to expense when
+incurred.  Major replacements and betterments are capitalized.  The accounts
+are adjusted for the sale or other disposition of property, and the resulting
+gain or loss is credited or charged to income.
+
+Impairment of Long-Lived Assets
+    The Company reviews long-lived assets whenever events or changes indicate
+that the carrying amount of an asset may not be recoverable.  In making such
+evaluations, the Company compares the expected future cash flows to the
+carrying amount of the assets.  An impairment loss, equal to the difference
+between the assets' fair value and carrying value, is recognized when
+the estimated future cash flows are less that the carrying amount.
+
+Dividends
+    It is the Company's policy to accrue a dividend liability at the time the
+dividends are declared.
+
+Advertising Expense
+    It is the Company's policy to expense advertising expenditures as they are
+incurred.  The Company's advertising expenses for the years ending July 2,
+2006, July 3, 2005 and June 27, 2004 were $681,994, $623,322 and $451,860,
+respectively.
+
+Inventories
+    Inventories are stated at the lower of cost (first-in, first-out method)
+or market.
+
+Income Taxes
+    Income taxes are accounted for in accordance with Statement of
+Financial Accounting Standards ("SFAS") No. 109, "Accounting for Income
+Taxes".  Under this method, deferred income tax liabilities and assets
+are based on the differences between the financial statement and tax bases
+of assets and liabilities, using tax rates currently in effect. A valuation
+allowance is provided when it is more likely than not that a deferred tax
+asset will not be realized.
+
+Investment Securities
+    The Company accounts for its investments in accordance with SFAS No. 115
+"Accounting for Certain Investments in Debt and Equity Securities".  All of
+the Company's readily marketable debt and equity securities are classified as
+available-for-sale.  Accordingly these securities are recorded at fair value
+with any unrealized gains and losses excluded from earnings and reported, net
+of deferred taxes, within a separate component of stockholders' equity until
+realized.  Realized gains or losses on the sale of debt and equity securities
+are reported in earnings and determined using the adjusted cost of the
+specific security sold.
+
+Earnings Per Share
+    Earnings per share basic and diluted, have been calculated using the
+weighted average number of shares of Class A and Class B common stock
+outstanding of 5,136,968,  5,137,773 and 5,138,559, for fiscal years 2006,
+2005 and 2004, respectively.
+
+Comprehensive Earnings
+    In accordance with SFAS No. 130 "Reporting Comprehensive Income",  a
+consolidated statement of comprehensive earnings reflecting the aggregation
+of net earnings and unrealized gain or loss on available-for-sale securities,
+the Company's principal components of other comprehensive earnings, has been
+presented for each of the three years in the period ended July 2, 2006.
+                                     -8-
+<PAGE>
+
+Cash and Cash Equivalents
+    For purposes of the consolidated statements of cash flows, the Company
+considers money market funds, certificates of deposits, and repurchase
+agreements with original maturities of three months or less to be cash
+equivalents.  The Company maintains cash accounts which may exceed Federally
+insured limits during the year, but does not believe that this results in any
+significant credit risk.
+
+Other Current Liabilities
+    Other current liabilities include prize fund monies held by the Company
+for bowling leagues.  The funds are returned to the leagues at the end of the
+league bowling season.  At July 2, 2006, and July 3, 2005 other current
+liabilities included $375,332, and $369,317, respectively, in prize fund monies.
+
+Reclassifications
+     Certain previous year amounts have been reclassified to conform with the
+current year presentation.
+
+New Accounting Standards
+    In October 2005, the FASB issued FSP FAS No. 13-1, "Accounting for Rental
+Costs Incurred during a Construction Period" (FSP FAS No. 13-1).  FSP FAS
+No. 13-1 requires that rental costs associated with ground or building
+operating leases incurred during a construction period be recognized as rental
+expense.  The Company generally owns rather than leases land upon which new
+real estate projects are constructed.  FSP FAS No. 13-1 is effective for the
+first reporting period beginning after December 15, 2005.  The adoption of this
+statement did not have a material impact on the Company's consolidated
+financial statements.
+
+2.  CASH AND CASH EQUIVALENTS
+    Cash and cash equivalents consisted of the following:
+
+                                               July 2,         July 3,
+                                                2006            2005
+     Demand deposits and cash on hand       $  205,361      $  316,380
+     Money market funds                        175,645         175,645
+     Repurchase agreements                     674,681       1,215,360
+                                             _________       _________
+                                            $1,055,687      $1,707,385
+
+                                     -9-
+
+3.  INVESTMENTS
+    Short-term investments consist of certificates of deposits, U.S. Treasury
+securities and a mutual fund which invests in mortgage backed securities
+(maturities of generally three months to one year).   At July 2, 2006, the
+fair value of short-term investments was $7,990,636 with an unrealized loss
+of $89,496.  At July 3, 2005, the fair value of short-term investments was
+$11,273,191 with an unrealized gain of $30,617.  Non-current investments are
+marketable equity securities which consist primarily of telecommunications
+stocks.  The Company has classified all readily marketable debt and equity
+securities as available-for-sale.  These available-for-sale securities
+are carried at fair value in accordance with the provisions of SFAS No. 115.
+
+     The following table summarizes the cost and approximate fair values of
+equity securities available-for-sale as of July 2, 2006, and July 3, 2005
+as follows:
+
+<TABLE>
+<CAPTION>
+                                   Original      Unrealized        Fair
+                                     Cost           Gain          Value
+<S>                                <C>           <C>             <C>
+July 2, 2006
+Securities available-for-sale      $757,054      $3,783,007      $4,540,061
+
+July 3, 2005
+Securities available-for-sale      $757,054      $3,451,367      $4,208,421
+
+</TABLE>
+
+     This portfolio includes the following telecommunications stocks:
+
+        220 shares of Agere
+      3,946 shares of Alltel
+     45,580 shares of AT&T
+        669 shares of Avaya
+     27,572 shares of Bell South
+      2,000 shares of Embarq
+      8,028 shares of Lucent Technologies
+      9,969 shares of Qwest
+     40,000 shares of Sprint Nextel
+     18,784 shares of Verizon
+     13,560 shares of Vodafone
+
+     There were no sales of available-for-sale securities in the year ended
+July 2, 2006.  In the year ended July 3, 2005, the Company received $252,525
+as merger compensation from Cingular Wireless for the mandatory exchange of
+16,835 shares of AT&T Wireless stock held by the Company.
+    In the year ended June 27, 2004, the Company received proceeds of
+approximately $1,000 from the conversion of a publicly traded company into a
+private enterprise.
+    During the last twelve months ending July 2, 2006, the Company had $89,496
+of gross unrealized losses from its investments in federal agency mortgage
+backed securities which had a fair value of $2,340,220.  The unrealized losses
+on the Company's investment in the federal agency mortgage backed securities
+were caused by interest rate increases.  Because the decline in market value
+is attributable to changes in interest rates and not credit quality and because
+the Company has the ability and intent to hold this investment until a recovery
+to fair value, the Company does not consider these investments to be other-
+than-temporarily impaired at July 2, 2006.
+
+4.  LAND, BUILDINGS, AND EQUIPMENT
+    Land, buildings, and equipment, as cost, consist of the following:
+<TABLE>
+<CAPTION>
+                                                July 2,         July 3,
+                                                 2006            2005
+<S>                                         <C>             <C>
+Buildings                                   $17,503,396     $14,384,416
+Leasehold and building improvements           6,650,271       5,134,484
+Bowling lanes and equipment                  21,604,873      19,584,395
+Land                                         10,590,450      10,590,450
+Amusement games                                 814,073         790,431
+Bowling lanes and equipment not yet in use      266,812       2,012,936
+                                             __________      __________
+                                             57,429,875      52,497,112
+Less accumulated depreciation and
+  amortization                               30,376,171      29,056,847
+                                             __________      __________
+                                            $27,053,704     $23,440,265
+</TABLE>
+
+    Depreciation and amortization expense for buildings and equipment for
+fiscal years 2006, 2005, and 2004 was $1,665,637, $1,463,188, and $1,532,587,
+respectively.  The Company includes construction in progress costs in the
+bowling lanes and equipment not yet in use category until completion of the
+project.  Bowling lanes and equipment not yet in use are not depreciated.
+
+
+5.  COMMITMENTS AND CONTINGENCIES
+Lease Commitments
+    The Company and its subsidiaries are obligated under long-term real estate
+lease agreements for two bowling centers.  Certain of the Company's real
+estate leases provide for additional annual rents based upon total gross
+revenues and increases in real estate taxes and insurance.
+
+     At July 2, 2006, the minimum fixed rental commitments related to all
+non-cancelable leases, were as follows:
+
+           Year Ending
+           2007                                       $272,459
+           2008                                        272,459
+           2009                                        272,459
+           2010                                        103,372
+           2011                                         88,000
+           Thereafter                                  256,667
+                                                     _________
+           Total minimum lease payments             $1,265,416
+
+
+    Net rent expense was as follows:
+                                            For the Years Ended
+                                        July 2,  July 3,   June 27,
+                                         2006      2004      2004
+
+Minimum rent under operating leases    $270,296  $277,394  $283,721
+Excess percentage rents                  28,840    23,098    27,165
+                                        _______   _______   _______
+                                       $299,136  $300,492  $310,886
+
+Purchase Commitments
+     In December 2005, the Company signed a purchase order for the purchase
+of point-of-sale cash systems for approximately $180,000.  Installation of
+all systems has been completed and payment in full was made in June 2006.
+     Subsequent to July 2, 2006, the Company signed a purchase order for
+$49,000 for the purchase of point-of-sale cash systems to be installed during
+the second quarter of fiscal 2007.  The purchase order was paid for in full in
+August 2006.  In July 2006, a purchase order totaling $241,500 for bowling pins
+to be delivered in the first quarter of fiscal 2007 was signed.  All pins have
+been delivered and payment in full was made in August 2006.
+
+
+6.  PROFIT-SHARING AND ESOP PLAN
+    The Company has two defined contribution plans.  The first is a profit-
+sharing plan which, generally, covers all employees who on the last day of the
+fiscal year or December 29 have been employed for one year with at least one
+thousand hours of service.  The Plan provides for Company contributions as
+determined by the Board of Directors.  For the years ended July 2, 2006,
+July 3, 2005, and June 27, 2004, contributions in the amount of $140,000,
+$150,000, and $188,000, respectively, were charged to operating expense.
+
+    Effective March 31, 1987, the Company adopted an Employee Stock Ownership
+Plan (ESOP) which generally covers all individuals who were employed at the
+end of the fiscal year and had one thousand or more hours of service during
+that fiscal year.  The Plan provides for Company contributions as determined
+by the Board of Directors.  The value of the Company's contributions to the
+Plan for fiscal years 2006, 2005, and 2004 was $140,000, $150,000, and
+$188,000, respectively.
+
+    The Company has no defined benefit plan or other post retirement plan.
+
+7.  INCOME TAXES
+    The significant components of the Company's deferred tax assets and
+liabilities were as follows:
+                                                July 2,         July 3,
+                                                  2006           2004
+         Deferred tax:
+            Land, buildings, and equipment   $1,357,001       $1,506,179
+            Unrealized gain on available-
+              for-sale securities             1,371,666        1,287,270
+            Prepaid expenses and other          (40,781)         142,647
+                                              _________        _________
+         Deferred tax liabilities            $2,687,886       $2,936,096
+
+    Income tax expense differs from the amounts computed by applying the U.S.
+Federal income tax rate to income before tax for the following reasons:
+<TABLE>
+<CAPTION>
+                          For the Years Ended
+                          2006    2005    2004
+<S>                      <C>     <C>     <C>
+Taxes computed at
+ statutory rate           34.0%   34.0%   34.0%
+State income taxes, net
+ of Federal income tax
+ benefit                   2.3     2.8     4.5
+Dividends received
+ exclusion                 (.7)    (.6)    (.5)
+All other-net              (.7)    (.4)    (.6)
+                          ____    ____    _____
+                          34.9%   35.8%    37.4%
+</TABLE>
+
+
+8.  STOCKHOLDERS' EQUITY
+    The Class A shares have one vote per share voting power.  The Class B
+shares may vote ten votes per share and are convertible to Class A shares at
+the option of the stockholder.
+
+    At July 2, 2006, and July 3, 2005, the Company had $39,093 and $41,956,
+respectively, in employee loans related to the issuance of shares.  These
+loans are secured by the shares of the Company's common stock acquired and
+are full recourse notes.  The notes bear interest at rates of 3% to 3 1/2%
+and are payable over a term of three years from the date of the agreements
+which range from 2004 to 2005.  These employee loans have been recorded as a
+reduction of additional paid-in capital.
+
+9. RELATED PARTIES AND DEFERRED COMPENSATION
+    At July 2, 2006, and July 3, 2005,  the Company had recorded $20,020 in
+deferred compensation payable to one officer.  Deferred compensation payable
+to non-related parties was a total of $57,766 at July 2, 2006 and $63,019 at
+July 3, 2005.  The current portion of these amounts, $11,564 at July 2, 2006
+and July 3, 2005, and is included in accrued expenses.
+
+10. SELECTED QUARTERLY FINANCIAL DATA (UNAUDITED)
+    The following summary represents the results of operations for each of the
+quarters in fiscal years 2006 and 2005 (dollars in thousands, except for
+earnings per share):
+
+<TABLE>
+<CAPTION>
+
+                                              Earnings
+                         Operating Operating   Before             Earnings
+                         Revenues   Income     Income      Net        Per
+                                               Taxes    Earnings    Share
+<S>                       <C>        <C>       <C>       <C>         <C>
+2006
+July 2, 2006              $7,036     $  710    $  884    $  623      $.12
+April 2, 2006              9,351      2,517     2,697     1,699       .33
+January 1, 2006            7,556      1,412     1,558     1,020       .20
+October 2, 2005            6,377        294       450       298       .06
+
+2005
+July 3, 2005              $7,000     $1,193    $1,379    $  907      $.18
+March 27, 2005             8,596      2,520     2,679     1,701       .33
+December 26, 2004          7,111      1,190     1,502       950       .18
+September 26, 2004         5,900        335       439       291       .06
+
+</TABLE>
+
+                                     -11-
+<PAGE>
+
+
+
+Aronson & Company                                 700 King Farm Boulevard
+                                                  Rockville, Maryland 20850
+                                                  Phone 301.231.6200
+                                                  Fax 301.231.7630
+
+        REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+
+Board of Directors and Stockholders
+Bowl America Incorporated
+Alexandria, Virginia
+
+We have audited the accompanying consolidated Balance Sheets of Bowl
+America Incorporated and Subsidiaries as of July 2, 2006 and July 3, 2005,
+and the related Consolidated Statements of Earnings and Comprehensive Earnings,
+Stockholders' Equity and Cash Flows for each of the three years in the period
+ended July 2, 2006.  These financial statements are the responsibility of the
+Company's management. Our responsibility is to express an opinion on these
+financial statements based on our audits.
+
+We conducted our audits in accordance with standards of the Public
+Company Accounting Oversight Board (United States).  Those standards require
+that we plan and perform the audit to obtain reasonable assurance about whether
+the financial statements are free of material misstatement.  An audit includes
+consideration of internal control over financial reporting as a basis for
+designing audit procedures that are appropriate in the circumstances, but not
+for the purpose of expressing an opinion on the effectiveness of the Company's
+internal control over financial reporting.  Accordingly, we express no such
+opinion.  An audit includes examining, on a test basis, evidence supporting the
+amounts and disclosures in the financial statements.  An audit also includes
+assessing the accounting principles used and significant estimates made by
+management.  We believe that our audits provide a reasonable basis for our
+opinion.
+
+In our opinion, the consolidated financial statements referred to above
+present fairly, in all material respects, the financial position of Bowl
+America Incorporated and Subsidiaries as of July 2, 2006 and July 3, 2005,
+and the results of their operations and their cash flows for each of the
+three years in the period ended July 2, 2006 in conformity with accounting
+principles generally accepted in the United States of America.
+
+Aronson & Company
+Rockville, Maryland
+September 8, 2006
+
+
+
+
+                                     -12-
+
+
+EX-31.1
+Exhibit 31.1 to Form 10-K
+                       Certification of Chief Executive Officer
+          Pursuant to Section 302 of the Sarbanes-Oxley Act and Rule 13a-14(a)
+                Or 15d-14(a) under the Securities Exchange Act of 1934
+
+I, Leslie H. Goldberg, certify that:
+
+1. I have reviewed this Annual Report on Form 10-K of Bowl America Incorporated;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects
+the financial condition, results of operations and cash flows of the registrant
+as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+a) Designed such disclosure controls and procedures, or caused such disclosure
+   controls and procedures to be designed under our supervision, to ensure that
+   material information relating to the registrant, including its consolidated
+   subsidiaries, is made known to us by others within those entities,
+   particularly during the period in which this report is being prepared;
+b) Evaluated the effectiveness of the registrant's disclosure controls and
+   procedures and presented in this report our conclusions about the
+   effectiveness of the disclosure controls and procedures, as of the end of
+   the period covered by this report based on such evaluation; and
+c) Disclosed in this report any change in the registrant's internal control
+   over financial reporting that occurred during the registrant's most recent
+   fiscal quarter that has materially affected, or is reasonably likely to
+   materially affect, the registrant's internal control over financial
+   reporting: and
+
+5. The registrant's other certifying officer and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of registrant's board of directors
+(or persons performing the equivalent functions):
+
+a) All significant deficiencies and material weaknesses in the design or
+   operation of internal controls over financial reporting which are reasonably
+   likely to adversely affect the registrant's ability to record, process,
+   summarize and report financial information; and
+b) Any fraud, whether or not material, that involves management or other
+   employees who have a significant role in the registrant's internal control
+   over financial reporting.
+
+ Date:  September 28, 2006
+
+ Leslie H. Goldberg
+ Chief Executive Officer
+
+<PAGE>
+
+Exhibit 31.2
+Exhibit 31.2 to Form 10K
+
+                       Certification of Chief Financial Officer
+          Pursuant to Section 302 of the Sarbanes-Oxley Act and Rule 13a-14(a)
+              Or 15d-14(a) under the Securities Exchange Act of 1934
+
+I, Cheryl A. Dragoo, certify that:
+
+1. I have reviewed this Annual Report on Form 10-K of Bowl America Incorporated;
+
+2. Based on my knowledge, this report does not contain any untrue statement of a
+material fact or omit to state a material fact necessary to make the statements
+made, in light of the circumstances under which such statements were made, not
+misleading with respect to the period covered by this report;
+
+3. Based on my knowledge, the financial statements, and other financial
+information included in this report, fairly present in all material respects
+the financial condition, results of operations and cash flows of the registrant
+as of, and for, the periods presented in this report;
+
+4. The registrant's other certifying officer and I are responsible for
+establishing and maintaining disclosure controls and procedures (as defined in
+Exchange Act Rules 13a-15(e) and 15d-15(e)) for the registrant and have:
+
+a) Designed such disclosure controls and procedures, or caused such disclosure
+   controls and procedures to be designed under our supervision, to ensure that
+   material information relating to the registrant, including its consolidated
+   subsidiaries, is made known to us by others within those entities,
+   particularly during the period in which this report is being prepared;
+b) Evaluated the effectiveness of the registrant's disclosure controls and
+   procedures and presented in this report our conclusions about the
+   effectiveness of the disclosure controls and procedures, as of the end of
+   the period covered by this report based on such evaluation; and
+c) Disclosed in this report any change in the registrant's internal control
+   over financial reporting that occurred during the registrant's most recent
+   fiscal quarter that has materially affected, or is reasonably likely to
+   materially affect, the registrant's internal control over financial
+   reporting: and
+
+5. The registrant's other certifying officer and I have disclosed, based on our
+most recent evaluation of internal control over financial reporting, to the
+registrant's auditors and the audit committee of registrant's board of directors
+(or persons performing the equivalent functions):
+
+a) All significant deficiencies and material weaknesses in the design or
+   operation of internal controls over financial reporting which are reasonably
+   likely to adversely affect the registrant's ability to record, process,
+   summarize and report financial information; and
+b) Any fraud, whether or not material, that involves management or other
+   employees who have a significant role in the registrant's internal control
+   over financial reporting.
+
+ Date:  September 28, 2006
+
+ Cheryl A. Dragoo
+ Chief Financial Officer
+
+<PAGE>
+
+
+Exhibit 32
+Exhibit 32 to Form 10K
+
+Written Statement of the Chief Executive Officer and Chief Financial Officer
+                        Pursuant to 18 U.S.C. 1350
+
+     Solely for the purposes of complying with 18 U.S.C. 1350, as adopted
+pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, we, the undersigned
+Chief Executive Officer and Chief Financial Officer of Bowl America Incorporated
+(the "Company"), hereby certify, based on our knowledge, that the Annual Report
+on Form 10-K of the Company for the year ended July 2, 2006, (the "Report")
+fully complies with the requirements of Section 13(a) of the Securities Act of
+1934 and that information contained in the Report fairly presents, in all
+material respects, the financial condition and results of operations of the
+Company.
+
+
+
+Leslie H. Goldberg
+Chief Executive Officer
+
+
+Cheryl A. Dragoo
+Chief Financial Officer
+
+Date:  September 28, 2006
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-20
+<SEQUENCE>2
+<FILENAME>rpr0906.txt
+<DESCRIPTION>PRESS RELEASE DATED SEPTEMBER 28, 2006
+<TEXT>
+Press Release dated September 28, 2006
+
+For Immediate Release                                       September 28, 2006
+
+                       BOWL AMERICA REPORTS EARNINGS
+
+Bowl America Incorporated earnings comparisons for the fiscal year ended
+July 2, 2006, suffered because the prior year included a 53rd fiscal week,
+reported in the fourth quarter, and a $.02 per share after-tax profit from the
+AT&T Wireless merger.  Although operating revenues in fiscal 2006 increased,
+expenses, including depreciation expense related to a new location opened in
+the third quarter, increased at a higher rate.  Net earnings for fiscal year
+2006 declined to $.71 per share from $.75 in 2005.  Fourth quarter earnings
+were $.12 and $.18 in the current and prior years, respectively.  A more
+detailed explanation of results is available in the Company's S.E.C. Form 10-K
+filing available through the website www.bowlamericainc.com.
+
+Fiscal year 2006 was the 34th consecutive year of increased dividends per share.
+Fiscal 2007 has started strong with July and August showing improvement over
+last year.  In addition, the year will include 12 months of results from the
+Company's newest location.
+
+Bowl America operates 19 bowling centers and its stock trades on the American
+Stock Exchange with the symbol BWLA.
+
+                                     ***
+                           Bowl America Incorporated
+                             Results of Operations
+                                 (Unaudited)
+
+                       Thirteen       Fourteen        Fifty-two    Fifty-three
+                     weeks ended    weeks ended      weeks ended   weeks ended
+                      07/02/06        07/03/05         07/02/06      07/03/05
+Operating Revenues
+Bowling and other    $5,004,601     $4,984,097       $21,635,492   $20,428,291
+Food, beverage and
+  merchandise sales   2,032,118      2,015,415         8,684,759     8,178,854
+
+TOTAL REVENUES       $7,036,719     $6,999,512       $30,320,251   $28,607,145
+
+Operating expenses
+ excluding depreciation
+ and amortization     5,864,506      5,613,732        23,744,476    21,971,957
+Depreciation and
+ amortization           485,197        258,556         1,665,637     1,463,188
+Investment earnings        -              -                 -          151,817
+Net gain on sale of
+ Assets                  23,028         65,531            23,028        65,531
+Interest and dividend
+ income                 173,262        186,566           655,818       609,963
+Earnings before taxes   883,306      1,379,321         5,588,984     5,999,311
+Net Earnings         $  621,897     $  907,291       $ 3,639,575   $ 3,849,281
+Weighted average shares
+ outstanding          5,136,925      5,137,773         5,136,968     5,137,773
+ EARNINGS PER SHARE         .12            .18               .71           .75
+
+                           Summary of Financial Position
+                              Dollars in Thousands
+
+                                                        07/02/06      07/03/05
+ASSETS
+Total current assets including cash and
+ short-term investments of $9,046 & $12,980              $10,860       $14,231
+Property and investments                                  32,270        28,318
+
+    TOTAL ASSETS                                         $43,130       $42,549
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+Total current liabilities                                $ 3,240       $ 3,598
+Other liabilities                                          2,801         2,759
+Stockholders' equity                                      37,089        36,192
+
+    TOTAL LIABILITIES AND STOCKHOLDERS' EQUITY           $43,130       $42,549
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

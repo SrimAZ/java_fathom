@@ -1,0 +1,989 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ F22g5YOZyBgZnaaclZUlEdG5b1xE5cV/bs6/TR0pp17JVT6c/l9+6PXwnawwmitw
+ OReEuJn/e7uTW4GuqRgE6Q==
+
+<SEC-DOCUMENT>0001193125-06-248785.txt : 20061208
+<SEC-HEADER>0001193125-06-248785.hdr.sgml : 20061208
+<ACCEPTANCE-DATETIME>20061207175458
+ACCESSION NUMBER:		0001193125-06-248785
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20060930
+FILED AS OF DATE:		20061208
+DATE AS OF CHANGE:		20061207
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Franklin Auto Trust 2005-1
+		CENTRAL INDEX KEY:			0001346246
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0930
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-106297-04
+		FILM NUMBER:		061263691
+
+	BUSINESS ADDRESS:	
+		STREET 1:		47 WEST 200 SOUTH
+		STREET 2:		SUITE 500
+		CITY:			SALT LAKE CITY
+		STATE:			UT
+		ZIP:			84101
+		BUSINESS PHONE:		801-238-6700
+
+	MAIL ADDRESS:	
+		STREET 1:		ONE FRANKLIN PARKWAY
+		STREET 2:		BUILDING 920/4
+		CITY:			SAN MATEO
+		STATE:			CA
+		ZIP:			94403-1906
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>d10k.htm
+<DESCRIPTION>FORM 10-K
+<TEXT>
+<HTML><HEAD>
+<TITLE>Form 10-K</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+<HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left"> <P STYLE="margin-top:3px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>UNITED STATES </B></FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="5"><B>SECURITIES AND EXCHANGE COMMISSION </B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman"
+SIZE="3"><B>Washington, D.C. 20549 </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="5"><B>FORM 10-K </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B>(Mark One) </B></FONT></P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="3"><B><FONT FACE="WINGDINGS">&#120;</FONT><B></B></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="3"><B>ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 </B></FONT></TD></TR></TABLE> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><B>For the fiscal year ended September&nbsp;30, 2006 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2">OR </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="5%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="3"><B></B></FONT><FONT FACE="WINGDINGS" SIZE="3" COLOR="#000000"><B>&#168;</B></FONT><FONT FACE="Times New Roman" SIZE="3"><B><B></B></B></FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="3"><B>TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 </B></FONT></TD></TR></TABLE> <P
+STYLE="margin-top:12px;margin-bottom:0px; text-indent:4%"><FONT FACE="Times New Roman" SIZE="2"><B>For the transition period from &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; to
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">Commission file numbers 333-106297-04 </FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="6"><B>FRANKLIN AUTO TRUST 2005-1
+</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Exact name of registrant as specified in its charter) </B></FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="50%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="48%"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Delaware</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>84-6391778</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(State or other jurisdiction of</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>incorporation or organization)</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(I.R.S. Employer</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="1"><B>Identification No.)</B></FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"> <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>47 West 200 South, Suite 500</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>Salt Lake City, Utah</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>84101</B></FONT></TD></TR>
+<TR>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Address of principal executive offices)</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>(Zip Code)</B></FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Registrant&#146;s telephone number, including Area Code: (800)&nbsp;763-3400 </B></FONT></P> <P
+STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR WIDTH="17%" SIZE="1" NOSHADE COLOR="#000000"> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Securities registered pursuant
+to Section&nbsp;12(b) of the Act: None </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>Securities registered pursuant to Section 12(g) of the Act: None </B></FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of the Securities
+Act.&nbsp;&nbsp;&nbsp;&nbsp;YES&nbsp;&nbsp;</FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;NO&nbsp;&nbsp;<FONT FACE="WINGDINGS">&#120;</FONT> </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Indicate by check mark if the registrant is not required to file reports pursuant to Section&nbsp;13 or Section&nbsp;15(d) of the
+Act.&nbsp;&nbsp;&nbsp;&nbsp;YES&nbsp;&nbsp;</FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;NO&nbsp;&nbsp;<FONT FACE="WINGDINGS">&#120;</FONT> </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Indicate by check mark whether the Registrant (1)&nbsp;has filed all reports required to be filed by Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934
+during the preceding 12 months (or for such shorter period that the Registrant was required to file such reports), and (2)&nbsp;has been subject to such filing requirements for at least the past 90 days.&nbsp;&nbsp;&nbsp;&nbsp;YES&nbsp;&nbsp;<FONT
+FACE="WINGDINGS">&#120;</FONT>&nbsp;&nbsp;&nbsp;&nbsp;NO&nbsp;&nbsp;</FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2"> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">Indicate by check mark if disclosure of delinquent filers pursuant to Item&nbsp;405 of Regulation S-K is not contained herein, and will not be contained, to the best of Registrant&#146;s knowledge, in definitive proxy
+or information statements incorporated by reference in Part III of this Form 10-K or any amendment to this Form 10-K: N/A </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Indicate by check mark whether
+registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer. See definition of &#147;accelerated filer and large accelerated filer&#148; in Rule 12b-2 of the Exchange Act. </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Large accelerated filer&nbsp;&nbsp;</FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman"
+SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;Accelerated filer&nbsp;&nbsp;</FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2">&nbsp;&nbsp;&nbsp;&nbsp;Non-accelerated filer&nbsp;&nbsp;<FONT
+FACE="WINGDINGS">&#120;</FONT> </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the
+Act).&nbsp;&nbsp;&nbsp;&nbsp;</FONT><FONT FACE="WINGDINGS" SIZE="2" COLOR="#000000">&#168;</FONT><FONT FACE="Times New Roman" SIZE="2">&nbsp;&nbsp;Yes&nbsp;&nbsp;&nbsp;&nbsp;<FONT FACE="WINGDINGS">&#120;</FONT>&nbsp;&nbsp;No </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Aggregate market value of the voting stock held by non-affiliates of the Registrant: N/A </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B>DOCUMENTS INCORPORATED BY REFERENCE: </B>None<B> </B></FONT></P> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P><HR SIZE="3" NOSHADE COLOR="#000000" ALIGN="left">
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>ITEM&nbsp;1. BUSINESS </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">The Franklin Auto Trust 2005-1 (the &#147;2005-1 Trust&#148;) is a Delaware statutory trust formed pursuant to the trust agreement (the &#147;2005-1 Agreement&#148;) between Franklin Receivables LLC, as Seller, and Deutsche Bank Trust
+Company Delaware, as Owner Trustee. On December&nbsp;8, 2005, Franklin Receivables LLC transferred approximately $350,000,000 of Prime, Non-Prime and Sub-Prime motor vehicle retail installment sale contracts (collectively, the &#147;2005-1
+Receivables&#148;) to the 2005-1 Trust. The 2005-1 Trust pledged the 2005-1 Receivables to Wilmington Trust Company, as indenture collateral agent, who in turn issued asset backed notes (the &#147;2005-1 Asset Backed Notes&#148;). </FONT></P> <P
+STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>ITEM&nbsp;1A. RISK FACTORS </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">N/A </FONT></P> <P
+STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>ITEM&nbsp;1B. UNRESOLVED STAFF COMMENTS </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">None. </FONT></P> <P
+STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>ITEM&nbsp;2. PROPERTIES </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">See Item&nbsp;1 Above. </FONT></P> <P
+STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>ITEM&nbsp;3. LEGAL PROCEEDINGS </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">There are no material pending legal
+proceedings to which the Registrant is a party, or of which any of its property is the subject; nor are any such proceedings known to be contemplated by any governmental authorities. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B>ITEM&nbsp;4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">No matter was submitted to a vote of security
+holders. </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">2 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>PART II </B></FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B>ITEM&nbsp;5. MARKET FOR REGISTRANT&#146;S COMMON EQUITY AND RELATED STOCKHOLDER MATTERS </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">For the 2005-1 Trust, there were no holders of
+record of Class&nbsp;A-1 2005-1 Asset Backed Notes, 16 holders of record of Class&nbsp;A-2 2005-1 Asset Backed Notes, seven holders of record of Class&nbsp;A-3 2005-1 Asset Backed Notes, five holders of record of Class&nbsp;A-4 2005-1 Asset Backed
+Notes, three holders of record of Class B 2005-1 Asset Backed Notes, and four holders of record of Class C 2005-1 Asset Backed Notes, as of the end of the Registrant&#146;s fiscal year. To Registrant&#146;s knowledge, there is no active market for
+such securities. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>ITEM&nbsp;6. SELECTED FINANCIAL DATA </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">N/A </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>ITEM&nbsp;7. MANAGEMENT&#146;S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS OF OPERATIONS </B></FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">N/A </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>ITEM&nbsp;7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET
+RISK </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">N/A </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>ITEM&nbsp;8. FINANCIAL STATEMENTS AND
+SUPPLEMENTARY DATA </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">N/A </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>ITEM&nbsp;9. CHANGES IN AND
+DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL DISCLOSURE </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">There is nothing to report with regard to this item. </FONT></P> <P
+STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>ITEM&nbsp;9A. CONTROLS AND PROCEDURES </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">N/A </FONT></P> <P
+STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>ITEM&nbsp;9B. OTHER INFORMATION </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">N/A </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">3 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>PART III </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B>ITEM&nbsp;10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">None. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B>ITEM&nbsp;11. EXECUTIVE COMPENSATION </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">None. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B>ITEM&nbsp;12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The following persons hold in excess of
+5% of the aggregate outstanding 2005-1 Asset Backed Notes as of September&nbsp;30, 2006: </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="14%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD WIDTH="61%"></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="4%"></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR>
+<TD VALIGN="bottom"> <P STYLE="margin-right:0px;margin-top:0px;margin-bottom:1px;border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Title of Class</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"> <P STYLE="margin-top:0px;margin-bottom:1px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="1"><B>Name and Address of Beneficial Owner</B></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="2" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Amount</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom" ALIGN="center" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Percentage</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><U>Class A-1</U></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Not Applicable</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Not&nbsp;Applicable</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD COLSPAN="1" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Not&nbsp;Applicable</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">&nbsp;</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><U>Class A-2</U></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">JPMorgan Chase Bank, National Association</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Proxy/Class
+Actions/Bankruptcy</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">14201 Dallas Parkway</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="2">Dallas, TX
+75254</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">25,583,098.24</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">62.05</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">%</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Investors Bank &amp; Trust Company</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">200 Clarendon
+Street</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">15th Floor, Hancock Tower</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="2">Boston, MA
+02116</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">10,558,854.25</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">25.61</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">%</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><U>Class A-3</U></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">State Street Bank and Trust Company</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">1776 Heritage
+Dr.</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Global Corporate Action Unit Jab, 5NW</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="2">North Quincy, MA
+02171</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">49,032,000.00</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">48.07</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">%</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Mellon Trust of New England, National Association</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">525
+William Penn Place, Suite 3418</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="2">Pittsburgh, PA 15259</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">46,235,000.00</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">45.33</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">%</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><U>Class A-4</U></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">The Bank of New York</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">One Wall Street</FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="2">New York, NY 10286</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">20,000,000.00</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">43.13</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">%</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">JPMorgan Chase Bank, National Association</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Proxy/Class
+Actions/Bankruptcy</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">14201 Dallas Parkway</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="2">Dallas, TX
+75254</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">15,000,000.00</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">32.35</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">%</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">JPMorgan Chase Bank/Prudential</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">14201 Dallas Pkwy, 12th
+Floor</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="2">Dallas, TX 75254</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">9,580,000.00</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">20.66</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">%</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">4 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="14%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="67%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD></TD>
+<TD></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><U>Class B</U></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">State Street Bank and Trust Company &#150; Bank Portfolio</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">1776 Heritage Dr.</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Global Corporate Action Unit Jab, 5NW</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman"
+SIZE="2">North Quincy, MA 02171</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">11,000,000.00</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">52.38</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">%</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">JPMorgan Chase Bank/Prudential</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">14201 Dallas Pkwy,
+12th Floor</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="2">Dallas, TX 75254</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">5,000,000.00</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">23.81</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">%</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">JPMorgan Chase Bank, National Association</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Proxy/Class
+Actions/Bankruptcy</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">14201 Dallas Parkway</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="2">Dallas, TX
+75254</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">5,000,000.00</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">23.81</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">%</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2"><U>Class C</U></FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">State Street Bank and Trust Company &#150; Bank Portfolio</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">1776 Heritage Dr.</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Global Corporate Action Unit Jab, 5NW</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman"
+SIZE="2">North Quincy, MA 02171</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">18,000,000.00</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">76.19</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">%</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD>
+<TD HEIGHT="8" COLSPAN="3"></TD></TR>
+<TR BGCOLOR="#cceeff">
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Brown Brothers Harriman &amp; Co.</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">63 Wall Street, 8th
+Floor</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="2">New York, NY 10005</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">$</FONT></TD>
+<TD VALIGN="top" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2">4,025,000.00</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD ALIGN="right" COLSPAN="1" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">17.04</FONT></TD>
+<TD COLSPAN="1" NOWRAP VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">%</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>ITEM&nbsp;13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS </B></FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">N/A </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">5 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>PART IV </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2"><B>ITEM&nbsp;14. PRINCIPAL ACCOUNTANT FEES AND SERVICES </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">N/A </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B>ITEM&nbsp;15. EXHIBITS, FINANCIAL STATEMENT SCHEDULES </B></FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">(a)(1)&nbsp;&nbsp;&nbsp;&nbsp;See (a)(3) below. </FONT></P> <P
+STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">(a)(2)&nbsp;&nbsp;&nbsp;&nbsp;N/A </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">(a)(3)&nbsp;&nbsp;&nbsp;&nbsp;Exhibits.
+</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="6%"></TD>
+<TD WIDTH="91%"></TD></TR>
+<TR>
+<TD VALIGN="bottom" STYLE="border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="1"><B>Exhibit&nbsp;No.</B></FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">4.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Amended and Restated Trust Agreement between Franklin Receivables LLC, as Depositor, and Deutsche Bank Trust Company Delaware, as Owner Trustee, dated as of December 8, 2005, incorporated by
+reference to Exhibit 4.1 to Registrant&#146;s Form 8-K (File Number 333-106297-04), filed on December 15, 2005.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">4.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Indenture between Franklin Auto Trust 2005-1, as Issuer, Wilmington Trust Company, as Indenture Trustee and Indenture Collateral Agent, and Citibank, N.A., as Indenture Administrator, dated as
+of December 1, 2005, incorporated by reference to Exhibit 4.2 to Registrant&#146;s Form 8-K (File Number 333-106297-04), filed on December 15, 2005.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">4.3</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Irrevocable Letter of Credit, by Citibank, N.A., dated December 8, 2005, incorporated by reference to Exhibit 99.3 to Registrant&#146;s Form 8-K (File Number 333-106297-04), filed on December
+15, 2005.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">10.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Sale and Servicing Agreement among Franklin Auto Trust 2005-1, as Issuer, Franklin Receivables LLC, as Depositor, Franklin Capital Corporation, as Servicer, and Franklin Resources, Inc., as
+Representative, dated as of December 1, 2005, incorporated by reference to Exhibit 10.1 to Registrant&#146;s Form 8-K (File Number 333-106297-04), filed on December 15, 2005.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">10.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Underwriting Agreement among Franklin Capital Corporation, Franklin Receivables LLC and Citigroup Global Markets, Inc., dated December 1, 2005, incorporated by reference to Exhibit 99.1 to
+Registrant&#146;s Form 8-K (File Number 333-106297-04), filed on December 15, 2005.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">10.3</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Purchase Agreement between Franklin Capital Corporation, Franklin SPE LLC and Franklin Receivables LLC, dated as of December 1, 2005, incorporated by reference to Exhibit 99.2 to
+Registrant&#146;s Form 8-K (File Number 333-106297-04), filed on December 15, 2005.</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">6 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="95%"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">19.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Prospectus dated November 11, 2005 and Prospectus Supplement dated December 1, 2005, related to the issuance of the Class A-1, A-2, A-3, A-4, B and C notes, incorporated by reference to Form
+424(b)(5) filed on December 7, 2005.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">31.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Certification</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Report of Registered Public Accounting Firm on compliance with the minimum servicing standards identified in the Mortgage Bankers Association of America&#146;s <I>Uniform Single Attestation
+Program for Mortgage Bankers</I> (&#147;USAP&#148;), including as Exhibit I management&#146;s assertion as to compliance with the minimum servicing standards identified in the Mortgage Bankers Association of America&#146;s <I>Uniform Single
+Attestation Program for Mortgage Bankers</I> (&#147;USAP&#148;).</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">7 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B>SIGNATURES </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">Pursuant to the requirements of Section&nbsp;13 or 15(d) of the Securities Exchange Act of 1934, the Registrant has duly caused this report to be signed on its behalf by the undersigned thereunto duly authorized on the date indicated.
+</FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="47%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="4%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="47%"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">FRANKLIN AUTO TRUST 2005-1</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom" COLSPAN="3"><FONT FACE="Times New Roman" SIZE="2">(Registrant)</FONT></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">By:</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Franklin Capital Corporation,</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="2">As Servicer of the
+Trust</FONT></P></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Date: December 7, 2006</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-bottom:1px;border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/s/ Harold E. Miller, Jr.</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">HAROLD E. MILLER, JR.</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">President</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(Principal Executive Officer)</FONT></TD></TR>
+</TABLE> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT SIZE="1">&nbsp;</FONT></P>
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">8 </FONT></P>
+
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2"><B><U>EXHIBIT INDEX </U></B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2"><B><U>Exhibits for Franklin Auto Trust 2005-1 </U></B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD></TD>
+<TD VALIGN="bottom" WIDTH="3%"></TD>
+<TD WIDTH="94%"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">4.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Amended and Restated Trust Agreement between Franklin Receivables LLC, as Depositor, and Deutsche Bank Trust Company Delaware, as Owner Trustee, dated as of December 8, 2005, incorporated by
+reference to Exhibit 4.1 to Registrant&#146;s Form 8-K (File Number 333-106297-04), filed on December 15, 2005.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">4.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Indenture between Franklin Auto Trust 2005-1, as Issuer, Wilmington Trust Company, as Indenture Trustee and Indenture Collateral Agent, and Citibank, N.A., as Indenture Administrator, dated as
+of December 1, 2005, incorporated by reference to Exhibit 4.2 to Registrant&#146;s Form 8-K (File Number 333-106297-04), filed on December 15, 2005.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">4.3</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Irrevocable Letter of Credit, by Citibank, N.A., dated December 8, 2005, incorporated by reference to Exhibit 99.3 to Registrant&#146;s Form 8-K (File Number 333-106297-04), filed on December
+15, 2005.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">10.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Sale and Servicing Agreement among Franklin Auto Trust 2005-1, as Issuer, Franklin Receivables LLC, as Depositor, Franklin Capital Corporation, as Servicer, and Franklin Resources, Inc., as
+Representative, dated as of December 1, 2005, incorporated by reference to Exhibit 10.1 to Registrant&#146;s Form 8-K (File Number 333-106297-04), filed on December 15, 2005.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">10.2</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Underwriting Agreement among Franklin Capital Corporation, Franklin Receivables LLC and Citigroup Global Markets, Inc., dated December 1, 2005, incorporated by reference to Exhibit 99.1 to
+Registrant&#146;s Form 8-K (File Number 333-106297-04), filed on December 15, 2005.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">10.3</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Purchase Agreement between Franklin Capital Corporation, Franklin SPE LLC and Franklin Receivables LLC, dated as of December 1, 2005, incorporated by reference to Exhibit 99.2 to
+Registrant&#146;s Form 8-K (File Number 333-106297-04), filed on December 15, 2005.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">19.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Prospectus dated November 11, 2005 and Prospectus Supplement dated December 1, 2005, related to the issuance of the Class A-1, A-2, A-3, A-4, B and C notes, incorporated by reference to Form
+424(b)(5) filed on December 7, 2005.</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">31.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Certification</FONT></TD></TR>
+<TR>
+<TD HEIGHT="8"></TD>
+<TD HEIGHT="8" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top" NOWRAP><FONT FACE="Times New Roman" SIZE="2">99.1</FONT></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Report of Registered Public Accounting Firm on compliance with the minimum servicing standards identified in the Mortgage Bankers Association of America&#146;s <I>Uniform Single Attestation
+Program for Mortgage Bankers</I> (&#147;USAP&#148;), including as Exhibit I management&#146;s assertion as to compliance with the minimum servicing standards identified in the Mortgage Bankers Association of America&#146;s <I>Uniform Single
+Attestation Program for Mortgage Bankers </I>(&#147;USAP&#148;).</FONT></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.1
+<SEQUENCE>2
+<FILENAME>dex311.htm
+<DESCRIPTION>CERTIFICATION
+<TEXT>
+<HTML><HEAD>
+<TITLE>Certification</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>EXHIBIT 31.1 </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT
+FACE="Times New Roman" SIZE="2"><B>CERTIFICATION </B></FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">I, Harold E. Miller, Jr. certify that: </FONT></P> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">1.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">I am the senior officer of Franklin Capital Corporation (the &#147;Servicer&#148;) in charge of servicing; </FONT></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">2.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">I have reviewed this annual report on Form 10-K, and all reports on Form 8-K containing distribution and servicing reports filed in respect of periods included in the year covered
+by this annual report of Franklin Auto Trust 2005-1 (the &#147;Trust&#148;); </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">3.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Based on my knowledge, the information in these reports, taken as a whole, does not contain any untrue statement of a material fact or omit to state a material fact necessary to
+make the statements made, in light of the circumstances under which such statements were made, not misleading as of the last day of the period covered by this annual report; </FONT></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">4.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">Based on my knowledge, the distribution information and the servicing information required to be provided to the Indenture Trustee by the Servicer under the Sale and Servicing
+Agreement is included in these reports; </FONT></TD></TR></TABLE> <P STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">5.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">I am responsible for reviewing the activities performed by the Servicer under the Sale and Servicing Agreements and based upon my knowledge and the annual compliance review required
+under the Sale and Servicing Agreement, except as disclosed in the reports, the Servicer has fulfilled its obligations under the Sale and Servicing Agreement; and </FONT></TD></TR></TABLE> <P
+STYLE="font-size:6px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE STYLE="BORDER-COLLAPSE:COLLAPSE" BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+<TR>
+<TD WIDTH="4%"><FONT SIZE="1">&nbsp;</FONT></TD>
+<TD WIDTH="4%" VALIGN="top" ALIGN="left"><FONT FACE="Times New Roman" SIZE="2">6.</FONT></TD>
+<TD ALIGN="left" VALIGN="top"><FONT FACE="Times New Roman" SIZE="2">The reports disclose all significant deficiencies relating to the Servicer&#146;s compliance with the minimum servicing standards based upon the report provided by an independent
+public accountant, after conducting a review in compliance with the standard as set forth in the Sale and Servicing Agreement that is included in these reports. </FONT></TD></TR></TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT
+FACE="Times New Roman" SIZE="2">Capitalized terms used but not defined herein have the respective meanings ascribed to them in the Sale and Servicing Agreements, dated December&nbsp;1, 2005, among Franklin Receivables LLC, Franklin Resources, Inc.,
+the Servicer and the Trust. </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0">
+
+<TR>
+<TD WIDTH="37%"></TD>
+<TD VALIGN="bottom" WIDTH="5%"></TD>
+<TD WIDTH="58%"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em"><FONT FACE="Times New Roman" SIZE="2">Date: December&nbsp;7, 2006</FONT></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-bottom:1px;border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/s/ Harold E. Miller, Jr.</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">HAROLD E. MILLER, JR.</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">President &amp; Chief Executive Officer</FONT></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"><FONT FACE="Times New Roman" SIZE="2">(Chief Servicing Officer)</FONT></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>dex991.htm
+<DESCRIPTION>REPORT OF REGISTERED PUBLIC ACCOUNTING FIRM
+<TEXT>
+<HTML><HEAD>
+<TITLE>Report of Registered Public Accounting Firm</TITLE>
+</HEAD>
+ <BODY BGCOLOR="WHITE">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="right"><FONT FACE="Times New Roman" SIZE="2"><B>EXHIBIT 99.1 </B></FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="100%" BORDER="0" ALIGN="center">
+
+<TR>
+<TD WIDTH="73%"></TD>
+<TD VALIGN="bottom" WIDTH="2%"></TD>
+<TD WIDTH="25%"></TD></TR>
+<TR>
+<TD VALIGN="top"> <P STYLE="margin-left:1.00em; text-indent:-1.00em">
+
+<IMG SRC="g9182091820.jpg" ALT="LOGO"></P></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"></TD></TR>
+<TR>
+<TD HEIGHT="16"></TD>
+<TD HEIGHT="16" COLSPAN="2"></TD></TR>
+<TR>
+<TD VALIGN="top"></TD>
+<TD VALIGN="bottom"><FONT SIZE="1">&nbsp;&nbsp;</FONT></TD>
+<TD VALIGN="bottom"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2"><B>PricewaterhouseCoopers&nbsp;LLP</B></FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">One Utah
+Center</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">201 South Main Street,&nbsp;Suite&nbsp;900</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Salt Lake
+City UT 84111</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Telephone (801)&nbsp;531 9666</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="2">Facsimile
+(801)&nbsp;363 7371</FONT></P></TD></TR>
+</TABLE> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">To the Board of Directors </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">of Franklin Capital Corporation as Servicer, </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Citibank, N.A., as indenture administrator and Wilmington Trust Company as indenture trustee
+</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">under the Indenture dated December&nbsp;1, 2005 and </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Deutsche
+Bank Trust Company Delaware as owner trustee under </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">the Trust Agreement dated December&nbsp;1, 2005 related to </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">the 4.49625%, 4.84%, 4.91%, 5.01%, 5.12% and 5.44% Asset Backed Notes: </FONT></P> <P STYLE="margin-top:6px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">We
+have examined management&#146;s assertion about Franklin Capital Corporation&#146;s (&#147;FCC&#148;) compliance with the minimum servicing standards identified in the Mortgage Bankers Association of America&#146;s <I>Uniform Single Attestation
+Program for Mortgage Bankers </I>(&#147;USAP&#148;) to the extent such procedures are applicable, in connection with the Sale and Servicing Agreement dated as of December&nbsp;1, 2005, as of September&nbsp;30, 2006 and for the period from
+December&nbsp;1, 2005 to September&nbsp;30, 2006 included in the accompanying management assertion (see Exhibit I). Management is responsible for FCC&#146;s compliance with those minimum servicing standards. Our responsibility is to express an
+opinion on management&#146;s assertion about FCC&#146;s compliance based on our examination. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Our examination was made in accordance with attestation
+standards established by the American Institute of Certified Public Accountants and, accordingly, included examining, on a test basis, evidence about FCC&#146;s compliance with the minimum servicing standards and performing such other procedures as
+we considered necessary in the circumstances. We believe that our examination provides a reasonable basis for our opinion. Our examination does not provide a legal determination of FCC&#146;s compliance with the minimum servicing standards.
+</FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">In our opinion, management&#146;s assertion that FCC complied with the aforementioned minimum servicing standards as of September&nbsp;30, 2006 and for
+the period from December&nbsp;1, 2005 to September&nbsp;30, 2006 is fairly stated, in all material respects. </FONT></P> <P STYLE="margin-top:18px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">/s/ PricewaterhouseCoopers LLP </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">November&nbsp;15, 2006 </FONT></P>
+
+<p Style='page-break-before:always'>
+<HR  SIZE="3" COLOR="#999999" WIDTH="100%" ALIGN="CENTER">
+ <P STYLE="margin-top:0px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">EXHIBIT I </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman"
+SIZE="2">[Logo Omitted] </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px" ALIGN="center"><FONT FACE="Times New Roman" SIZE="2">47 West 200 South, Suite 500 &#149; Salt Lake City, UT 84101 &#149; (800)&nbsp;826-0236 </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">November&nbsp;15, 2006 </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">PricewaterhouseCoopers LLP </FONT></P> <P
+STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">201 South Main Street, Suite 900 </FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Salt Lake City, UT 84111 </FONT></P> <P
+STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">As of September&nbsp;30, 2006 and for the period from December&nbsp;1, 2005 to September&nbsp;30, 2006, Franklin Capital Corporation has complied in all material
+respects with the applicable minimum servicing standards set forth in the Mortgage Bankers Association of America&#146;s <U>Uniform Single Attestation Program for Mortgage Bankers</U> (&#147;USAP&#148;) in connection with the Sale and Servicing
+Agreement dated as of December&nbsp;1, 2005. </FONT></P> <P STYLE="margin-top:12px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Sincerely, </FONT></P> <P STYLE="font-size:12px;margin-top:0px;margin-bottom:0px">&nbsp;</P>
+<TABLE CELLSPACING="0" CELLPADDING="0" WIDTH="40%" BORDER="0">
+
+<TR>
+<TD WIDTH="7%"></TD>
+<TD VALIGN="bottom" WIDTH="1%"></TD>
+<TD WIDTH="92%"></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-bottom:1px;border-bottom:1px solid #000000"><FONT FACE="Times New Roman" SIZE="2">/s/ Tonya B. Roemer</FONT></P></TD></TR>
+<TR>
+<TD VALIGN="top" COLSPAN="3"> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Tonya B. Roemer</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Senior Vice
+President/Assistant Corporate</FONT></P> <P STYLE="margin-top:0px;margin-bottom:0px"><FONT FACE="Times New Roman" SIZE="2">Treasurer</FONT></P> <P STYLE="margin-top:0px;margin-bottom:1px"><FONT FACE="Times New Roman" SIZE="2">Franklin Capital
+Corporation</FONT></P></TD></TR>
+</TABLE>
+</BODY></HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>GRAPHIC
+<SEQUENCE>4
+<FILENAME>g9182091820.jpg
+<DESCRIPTION>GRAPHIC
+<TEXT>
+begin 644 g9182091820.jpg
+M_]C_X``02D9)1@`!`@``9`!D``#_[``11'5C:WD``0`$````/```_^X`#D%D
+M;V)E`&3``````?_;`(0`!@0$!`4$!@4%!@D&!08)"P@&!@@+#`H*"PH*#!`,
+M#`P,#`P0#`X/$`\.#!,3%!03$QP;&QL<'Q\?'Q\?'Q\?'P$'!P<-#`T8$!`8
+M&A41%1H?'Q\?'Q\?'Q\?'Q\?'Q\?'Q\?'Q\?'Q\?'Q\?'Q\?'Q\?'Q\?'Q\?
+M'Q\?'Q\?'Q\?_\``$0@`*`%6`P$1``(1`0,1`?_$`'H```(#`0$!````````
+M```````'!`4&"`,)`0$`````````````````````$``!!`$#`P,#`@,&`PD!
+M```"`0,$!081$@<`$Q0A(@@Q,A4C%D%A,U%Q)#15%T)B&)'35)34)365)E81
+M`0````````````````````#_V@`,`P$``A$#$0`_`'US!?MT'%N4VA2W(+K5
+M;(:B2V5-'`E2`5B*H$W[Q)7W`1"3[?KJB)KT'/7$/&?,7(.&MY/)Y/O*5F4^
+MZW!9\B3+[K+*HVKVX9K2A^J+@;2'7VZ_14Z"5FN2\\\&SZ1ZRR/]Y8:X^;:>
+M4SH\[[4<<:E23!YUIPE<-6/\0YZ!KMVBH=!U!4VD"WJH=K7N]^!8,-2H;VT@
+MWLO`CC9;302'<)(NA(B]!*Z`Z`Z`Z"OLLAH*N5"AV=G$@R[)SLUT>2^VRY(<
+MU$=C`&0DX6YP4T'7ZI_;T%AT%57Y9BMC:R:BON8,RVA[_,KX\EEV0SVC1MSN
+M-`2F&PU02W)Z+Z=!82Y<6'%>F3'FXT2,V3TB0\2`VVV"*1F9DJ"(B*:JJ_3H
+M*J;F-`QB,[+(LINTI8,23-*17N-R!=;B"9.HR8EVR).V0_=]WHJIT"OO?E3B
+MN/\`8_/8CE=1Y.[QO.KF8W<[>F_9W9`;MN\==/IJG0:O$N7V<CR1F@_:61TL
+ME]AZ4C]S":A,HS'4!<)%-]3/0WFPT;`E12371-50-_T!T!T!T!T!T!T!T!T!
+MT&`RGGOB?%;V50WU[X=M#V>3&\68[M[K8NA[VF3!=0,5]"Z"5A7,W&N;VKM5
+MC%Q^0GL,%*=9\:4SHR!@V1;GVFA^YT4TUU]>@75ES9EW(US)Q7A5IM!C-M/S
+MLVG@018XJA$K0,/,N%N<(4;$C!27WZ-[1[J!8?\`3SE7X+L_[KY7^?\`_'^8
+M]X?]37_)]WN_TO;_`)G[O=]/;T%AP=9<TR+/**OD23$EM4<L8C$MEIE''GW&
+M6W_8<<F01D&'&W$0X^\N[ZDB@H=`VN@.@.@.@.@.@.@.@.@.@6O)7R$XXX^G
+M_B[60_.N![9/5E>V+KS0.B1";I.$TT'H*>Q3WZ$);=JZ]!BO^M7BS_2KS_R\
+M/_U?0;J!S]QI/P*SS6'/<=KJ9MHK.&C1),9=?VHTP3*Z>XW#[8FA=I2U]^@D
+MJ!G_`);7<6NX6L(;X.$[<RX<**H(BB+@/),57-530>W%-/37W:>FGJ@:;@&B
+M_"<-8G"[_D=V",[N;=FGY`BF[--2_I^1LU_CIKHFNG0+3YM6D!K`:*J-W2?+
+MM4E1V=I+N9BQG6WBW(FU-I26TT5=5U]/HN@5_P`>IW*^11<HQ*SRN71R\*;B
+MU-<Q&BU3[;#@)(C[']\9TGQ:***>UU-WK[O77H#"^;.1?*Y2Q&YL6[2TQ.MN
+M9M3D21V(S@N5B^.B%&;!62$C47!UUV^J$IHJ;0TN)\WR<?\`C[`Y"S28_=VU
+MF_(9B1Q:88[D@7GFF8X+'9;!MO9%5PS-"5/=IN]@=!;0J#Y!9!BHWIYHQCE_
+M8L,RHN/-5+*PXNK)+XSYRQ>EHX9*VKA+KVBWB@FFW0,ID66<SN\H8'Q^QDO[
+M>GW&.1Y5X]X,&;MLFVI3DDMJCM7<4;;HV:`GU3^88_Y(XORIBT7%LQN,V;R)
+MVHLME8:UL:"Y%E&B26W!!I'&WA7P_=W/IHFB*A%H'4&;91%Q7$;C(Y2-DU51
+M'9(M.NHP+K@"O:81PD+:3SFUL?1?<J:(J^G0<M?%2PM;/G?)K>UC>)/MZJ59
+MO,(!MBGGS(DH2;%Q2+MF+J$"JJZBJ+JOUZ!J_)*X_+1J'BFO+=;9K.CA,)MO
+MR#B5S#X..2E:!P#30P0D4DV*`.^H[=4#/O<LLXOS+C?'>)1O%X[I7V:*U;A,
+M-/`=G8BXC#9R2(U3MNZ$?N%TC%[=O5.@L/D/0.7_`"EQ!5C$;G-.V4QV7$>0
+M%;.+'.&_*0Q<]A"C#9JHK]WTT55TZ#86WR/X8J+6956&0]B?7ONQ9C/ASCV/
+M,FK;@[@8(2VD*IJ*JG0+_F;Y'P'<!&UXMR'6?$M8D6Q>\,DVLRHTMP!VSF-J
+M[BC:ZBFJ:?S]0.:;OF?BVDK<F:SW\Y&<G18;M5*J8+(N$L<W7B)YA!/MN'')
+M$`=I"):;U4=RAJ\8^0?[EY2B856XV^L"7!CV:W)/ZDS'E5S<]LGXX-&(>Y\&
+M57O:;E3U]43H-!S7RO\`[98K%OOQ?Y?R9S<'QN_XVWN,NN[]_;>UT[.FFW^/
+MUZ"DY!YDOZ:5B^(TE,V7)&3MQGEK)2N2(=<VZNCQR'8R(3PMDVXFK7T$"<+1
+M$$3"DRFBY\Q'#969)GGYN\JF`EVU(4"(%<]&C*+CK3:_H$':$Y!..@@N/!L%
+M$`A'H(O,/-]Z'!V,YYA4S\7)NIS#+_Z3<CM_H2?(C_XEG0NW(8V[T!-VW5/1
+M>@=^/,W+%!6,7C[<JZ:B,!:2F41&W90MBC[@(@MZ"3FJI[!_N3H%A@/)]Z[:
+M\GWN:36(6%8S:E653VUL`:\(W&WQ]NZ0XXXA1UT+7<9;6T_X4"ZA<[8?)N8,
+M$X-S$KK9R,Q29#+K)3%;.D3$!6&8[IBCFX]ZJBFV(Z"2[M-%4%5Q]EU`OR9Y
+M'RB\M:V@B16RHP8L)K;+CSC#K,='6NZC8D.VN4C37V;Q3W?7H+OY4\P,TF#Q
+M:#'YC$B;EK!JX^TK4@4J'6U$W`5#73R=Z`T>PA44<VJA(B]`RN'^-8''>#PZ
+M!CWS3TE7#Z.$X+LYQL!>)M2$-&TV(`)L3VHFONW*H97EOE?)(F65'&_'909.
+M:W/=\QZ42D-<SV5<!TATV=S9N>1"W*@A_2/N!T%3GT+G/C^B=S>!F?[L.M8!
+M+JDFUC;4=UD7'D\AEN&HDUV1?`G-"150%,W%$1;0(M!RUR#S!;I5\?2&,3J:
+MMB-*OLA<`+%[O2HR$,)F+(;91=DA'0(]-"1O>A#Z`X$3+.0>4.(,XQE,TRIC
+M*\1O^ZS+,H#4!Z+VG&T=?$8H.$7:%X"1-Q;TWCM%=I]!H,ZS'-?^HC&,"K;U
+M^HH+>J.5+2*Q"<>[S8S3W"Y*CR=-?&!%3333^?KT%5E66<O<=\IXE53LE8R?
+M&LPG#!89F06(\B,*S&&W%4H@L(;@-/B@N:[252U:30>@B8==\SY[GW(-57Y[
+M^`@8M:N18;/XF#,W,G)DMMCN-&B3MC&1-24E77_M#0<@O\L<>\3Y5?3<X_/6
+MS7@?BI/XN'#\7=,!I_V#W@=[H/:>\?;IZ?7H,UG=US73</U/)%1GCAM.UM;+
+MM:R77UJEW)Z`AG'=;C#[4<?!$;,/MW+W%70>@NK7F'*LC9X\Q3%93%-EV;06
+M[.SLWXKVV!'::5UXH\:2!"[WB8>%I2)4411=='`=0-7C^+<O8[EE4K^5_NK$
+MY?D!=L3HS$>3%>-DGTDL.-Z$;9RT4!:U5&FS$$$D'>`,KH/GM?T]5;\YYG&M
+M1?.`Q.R2<\W%<!EX_`;F3!`77&WQ#>3""JJV7HOTZ"PRKCS!<:IF;BQAW+4L
+M6X+=KBASH8RH;]DLUZ,3LT8I[26-`0SC'#`Q[@JI_4>@K\9CX.U!RQZ-,G2:
+M>1CC4F="[;;<R,\E_!1(/?+])S5`;_Q0MZ;3W]G<*M=`]?F]>]G%<:H>QN\^
+M<].\G=IL\%GM;-FGKO\`-UUW>FWZ+KZ!I7<I^0U=00*?$^*HE4U7-M1HZ3;F
+M+/;&*PWVP;01>BN;DT'WDXOT75%5=4")B?!=^&7.<B\QY%$N[&J;%V&C1.,1
+M8B0B;?9E*\GAMMBUL<W-=GM^JF2JJKT"0P'+^0>/.(VKRG:8K*?([PX<R_\`
+M`!^Q:&.TR391^^\VU);)!E"($WM`Q<3>)'[097*&!X;QY\?<A=BW#]W;9L_6
+M&]>R'%?_`"$@7AE[FU;W@+9`#[PD1$J[M%</V]!209+F1<U\18/9)+AM8=35
+MSLB&XV#+C=DS6C9&GN$G-J]B.VX)HBIM)$05]RAUUT'-=%6VMU\M,WL\>>@_
+M^V066UM)<,[*.Q(\>)'-H59D1.U(78\']3707!V_70(GRHJ>35P&3(R&3!LJ
+M>/:UI5RU45^/V12--"2_+;=.2K>]V0RT*]\A70?02)44-ASU<#EDK"N,Z:0W
+M+B9M+:F6S\.1'5S\/%4)"N-]P7!VN")/-N(ON[*B*'JJ=!58%$BP_E_FL.&R
+MW&B1L?C,QX[(H#;;8,U@@``*((B(IHB)].@J;'/W%E9WRO62G)ET4L^/,"K8
+M8A);,D5MX)+;C;+O?)QQ2DM@0[?16]Q[@VAA?SL#!N.,&JYV*Y'6O5&5P<@O
+MK*PKBB1Y#S0N*XU&)YXD)P6A$&TT!#0%-4%57H&K-_\`T7S)@>%^G^SJ,OR?
+M>]O<[S3NWL;=^[_Y5K7?M^A?V)N#/_%3,</A565Y-E63P8.2Y%:J4YJ=+B1.
+MX+0=]'P9+M*G<=F.HJI[?1$1$T7H/7Y<M2LGE<:4=-/;.)D<M\8AHZJPW7'U
+MB-19!*WO$A$9);31"]I+M^O01>/XES\@+FU#DFPEQ(F)RV5<PV%'2#%%]Q%;
+M_5=,W))%_AGP<`T0PW?IN#J0H%K@MN_-^27).55--96S4!MFC>BQ?`;(7`[;
+M+CIE+F1?:KE87;0$+45U+8J:*'E\@[FQR3*N,\4NJ*=54%K>!^0ASC@KY6CT
+M=A-CD"3*=#8U*<%?<'WHJ:JGM"PX*9<N>>^6<EL'W';&MEK3QT1`!OQ5DN-@
+MA"(IJ3;=:T(KK_;NW*NO0,_FNT@5G$>7R9SO99<JI44#VD6KTMI8S`Z"A+[W
+M71'7Z)KJNB>O0<BU->W+Q7AS&K*U<L:O(,@ERIM"KQ@+$5R='@`&P7-R"9-2
+MB!Q$'W..;?7<JAW?T'$%[,MX/$.!YI/9_-U-WE<_(,MAR4C"S)LA?[3+6U&]
+M0;>CQ7]R(!!J2[D^P4#K#%<QP+DW'6)E7*;G1P<B37X"N;)421'D)(CI):;+
+M>V0OQM4U]I[?12!?4$U\8<3Q7.*K+<XR>F@VEM=7C_=8E1F9$=CV#*+QA?%T
+MPWG,)"]ZZH(_V:J&)S7&?W!\O8&,`VP53`?K`CULA-8;==!@-3'HC;*"8"V0
+M`YM;0=BD7KIJJ]!V5T',OQ2M&\OY#Y%SB:TXEI*<CI%5UXWB8BS77W%C(2[1
+M,0&*R`JH^@@B#M3TZ!P<ZW<6FX?RZ9*!PVG:UZ$*-(BEW)Z>&TJ[E'VHX^*E
+M_P`NNB*OIT&:^)]7`A<)4\F,UVWK-^9*G'N(NX\,DXR%H2J@_I1VQT'1/37Z
+MJJ]`NOG*\VD7#6%8;)TW+`QE*I]P!!(R$V*(2-[3WHI;@4O:FU43=N`&)FEI
+M\JLTM<"9IITNMB,,N3[@7WH<=SQHT=P`=B(1-RMS;C>FJ>U'1_@O0;^KX;S3
+M(L]KLVY1N8DM^C<0Z+':5'PKV'&^V;;_`''E%U25T5,QVKN5`U-03M]!BOB;
+M$S2PPN]N:RUK6)<ZY=2QEV5<_/F2'!89<W.2@G0R(=SY*@D*Z$1%K[N@]OD?
+M7YE.XIQ+&\ADP9V=V^1H+46`:-LN]WR@9".CZ,EVV1DL-$9_153<2JNY0I+>
+MWR+.^6K?BKE'+7*.H&6V,"JJXT>-'GDC>Z*/DFY)<:)[<U(!IXG1(EV>QQ&T
+MZ#=<Y<,99.M:'-N,G_!R7&V&8$.J95F.UXC1GV_'4]C0[$>(3:<]AM^W^&TP
+M/COSMDF:VMCA^7U_CY+4,*\<H&U8WC'-N.^$I@EU;D(Z:*NP4%=53:&WW`]>
+M@Y`XT@LASUR1=SZ=BWJ6+5ZF>&3VB%MZ^O6Z\5VN":KK'-_=H.A#J!*F_H+O
+M*+-O(,B9CRJELL5?Y#G4-M#D$<X9<YV/#KFGG77GP?CD,1R8Y'\=-C)`T.ST
+M0^@36,QX<J#EE'N88\''&H'FLC%!'YA7\%W<_(\E8QMI)>["2N]M[`B>WTV]
+M`^N<7KFY^2'%^-0V&W6JUQBX!45`<VK,5R6I$9("BVQ6[A1$W?7[E5$Z#H_H
+M,KRK#O9_'&1UM#7_`)2VLH+T&-#[S<?7RQ[!GW'50/T@<)S153=MVZIKT"ZQ
+M[A:SM/C5&X^R.(W!R%EN6]$1PV7$CS/,>?BGWFTDB(D)H+BMZEVR(?JO0+K,
+M,"^0N2\1XM@DG$OUJ%\BD32FUOZC,=I68`M[)`(.QIYQMQ"!578!;]2).@W_
+M`"[@^24G*V.\OXS6?EVZ[MP\AJ(4=79SC+G<CG*:`"!9#GCO]M-5U#8"KN;W
+M;`U=3RODF2VL.KHL'O*HS?:<L;+)(:P(;,$#19"MD)N$[((?8TVB?<6\O:!=
+M`NL#JN:\)S3.KR'QVY:Q,MLBFQP>MZV(XRVC\AT$-!<DBI*,GUT7TT^J]!=<
+MW7.66_QTRN3D^.?MB>#\-MJ!YK,_>RDV(0O=UA!$=Q$0[?K[=?X]!5?$RKN[
+MAF=GMXUIM@PL:QU=TA$"#6M"#_:;<56NVZZVVJD*K^J+NB#ZHH8_F"!ET'Y"
+M7]-1`V[8\E4T6LA.CN)(T5\F(\IR0'9=]O;KGD-13V-EW-VHZ=`U>-^,+.)G
+MJS[FH<JZ+"8@U''[0RF7&WVW.\$VRD-1U$?*E"HD:JV'W^X2,4)`]OE!@669
+MO@-?58Q!_(3V+5F4ZSW66=&0C2&R+<^;0_<Z*::Z^O0>N?XKB\'!<SY!L:MN
+MDS"\QB1#MS=F&Z(./PP:&(B[_'(D=;::$FP3>2)I]WJ%5\>>,L+F<.8Y,O\`
+M$ZV3:26Y#SDB?7L'(<;.6\3!D;K:F0DRH*"_Q'33TTZ`ON,KR?\`(S$L@CXZ
+MV&$XY6C"\@EAI'!QAJ4Y'6/&1Q74%EU]H0_2':0ZHFU$+H(F3<=YAB'.L?D;
+M#V(@8Q;-B.;%(<BL-1H_<!9T@A<6/M%6VQD;P(B5T34_:NT@B_#EERQH,NS&
+M<^X_=7UR06)J@"V1,MI)[@@`CM(W)SF[3V_31$_B!F\N+:?+_!JIYYN=$K:U
+MUXH!DCS<>9V9D@35I5(6WMK;#B+HA>@%_`>@\8,3..(.7,GLTQR=EF(YP^Y8
+M'+I(SDB9%>%UUX6C:1=J;2DD"[E1#'0Q+43;Z"7R#%Y'YM@1,=IJ2=AN(@^+
+MUW9Y`!1);YM$.C#4%MPR=;$7.ZBGH!F*)N!0]P9_G/BJUQK,,!RS!L<?M*?&
+M_&C+15K)F3?@2RFMJ1!WG5\E77$-Q6UT)-Q$1&G0:K.N1<RSS&Y&%XCA&1U%
+MGD'^!?MKV`D*#&AN(OE&XZ2R$]S2$&FB%[M05301(&-B.*XBQA;>!DQ$MH./
+M-QZRVC/1!&.[*!AF6KAL.(;9$[W@?544O<7W;D7H$(SQO18[\GX>+X/(G5M3
+M.HY7YX:Z4X;L#R(DAM-75[AM>](SP=Y2T<("3Z@G0,6D^,-!0Q3AT>:9=51'
+M'%>./"LVX[9.*B"IJ#4<14E$437^2=`FJ;'H''7R]K8,N5.=@/OZQ;.SW/2)
+M;UI`-I'"=!L>[OFODVI[=$5%W+Z$O0=E=!SKB>/VO!6<9,$;%[7(\1R?M2*B
+M101SFO0_&<<5(<ADRW)M&3HCI.>Y!14U531L+#,ZK*.='*BC/'K+$\&@2_.M
+M[.Y:"+9.R&0)L8\2+O<T$FY"_K&BCKK_`!;V.!Y<99CDG&&)LX%D&"9'8S:)
+M^0VW9T4);"#*9?>*2#S;RDSIKWE3;HJII[M"U`0,9XPS+.^7&^3L_A?CJ:NT
+M+$Z4R1B:`,.B_`.6TUW=NWNFXX!O(?>3:H]OV]!=<$X1F%#FG)%Y?U+E5$R:
+MR";5`\]%><)M7Y;JH:1G7Q$A%\-?7^Y5Z!@<F0;.QX\R2LJX;D^QL:V5"B16
+MC9;(G)31,BJD^;+:"'<W%J7VHNB*NB*"EXME<[8)@E9BG^V'Y'\=W_\`&?G:
+M]C?WY#C_`/3_`%=NWN[?N7Z:]!*Y0Q/DK,,^XMM6,:\>!0/Q;.\>\Z*?C//R
+M6'),;:I-DYXPQ=>XVBH>[T3T]0E_(;B&]R5ZFS3"6]V=X^_'\="=;`7([3I/
+M-[0D)V%<9?+>FY1114T+<NQ.@]:#G^_*FB+D/&F7-77;1)PU]2XY%5Q%T4F2
+M>-MQ!+[MI)[==NI:;E`X7X_R@\NO.6,P1R!?90V3,.@79NAUY$V3(220&]7A
+M;CM`B;15!34]3)4`'+T'`W(^69=A.=<EXTPVW#+(KEJP<E(1>4R,>85E`>C.
+MLN(+9$+P$NJ*2?\`*2=!GY/*;$ZY2]M,-Q^QNB<;?ES7FYX#)D-H.YY^*Q,9
+MAD3I#N=1&4$R5=1]5Z#UPD;=W'>0\I".PK,2#"2079C)'&3*O(3[+?AJ/:5L
+MDC.>Q&NVB)M5-%1%!]4V,Y=:_,&5E88_90\>AN/@Y938Y1V"&/6K7=QIP_8Z
+M+KVBM[%4E!=VB(A:!TUT!T!T!T!T!T!T$6TJ:JW@.U]K#8L(#^WO0Y30/,GL
+M)#'<VXA"6TA0DU3ZIT!5U-540&J^JAL5\!C=V8<5H&60WDIEM;;01'<1*2Z)
+M]5Z#Q>QZ@?N6+Q^LB.W45M68MH;#92FFU0D4&WU'N"*]P_1%_P")?[>@L.@.
+M@S^>X559OB<[&+5U]B!8=KO.Q2`'D[+P/CM)P'1^YI-=17TZ#"Q/CO%AQ68<
+M/D#-8T2,V+,>.S;H#;;8(@@``+""(B*:(B?3H&5CU)%H:"LHX9N.1*J(Q"CF
+M\J*X3<=L6@4U%!%241]=$3^[H)<N)%F17H<QEN3$DMDS(CO"AMN-FBB8&!(H
+MD)"NBHOUZ")28]04,4X='61*J(XXKQQX3#<=LG%1!4U!H1%2411-?Y)T'E^T
+M\5_._N'\-!_/_P"K^,SYG]/L_P"8V]W^E[/N^WT^G06O0'0'0'0+6]X(HK+)
+M)^0U^1Y'CT^UV%:?B+1QD9!MJ6PW.Z+Y>P3V``D@`*(@BG06O'W$.&X,]+G5
+M;;\R\L-WY*^L75DSI&]TGBWN*@B.XB3=L$=^T5/<2:]!M>@37R&X6N<Z;K<A
+MQ>6W!RK'6W3AH(HT_*+>VZRV,Q#`F29(#)K74=Y_4-5+H*"M^5<J@IHR<GX;
+M<TMT^XZC)1H2LQ7VVU%=S8SGF7$(.X@F**?\"U]VU`GY-F_-?('<H./<9G8C
+M`>85NSR/)6CKI#1.;E%(@B3I?:TH*XV#A(II_3T0U!Z]`=`=`=`=`=`=`=`=
+M`=`=!7W>/4%]%"'>5D2UB-N(\$>:PW(;%Q$44-`=$A0D$E37^:]!2_[3\6?_
+M`,;1_P#UL/\`[OH+7]IXK^"_;WX:#^`_TCQF?#_J=[_+[>U_5]_V_=Z_7H/_
+!V3\_
+`
+end
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

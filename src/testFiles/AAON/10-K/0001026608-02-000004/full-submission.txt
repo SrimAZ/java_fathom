@@ -1,0 +1,1870 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ QAbra2i1MY8Ya5Vg+OPY2XQ26QhRBNApYU+6nl69osDPuA4g7l32vi64iPQI7RSO
+ N/a/uvcHSwvwjVHmrSDLbw==
+
+<SEC-DOCUMENT>0001026608-02-000004.txt : 20020415
+<SEC-HEADER>0001026608-02-000004.hdr.sgml : 20020415
+ACCESSION NUMBER:		0001026608-02-000004
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20011231
+FILED AS OF DATE:		20020319
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			AAON INC
+		CENTRAL INDEX KEY:			0000824142
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIR COND & WARM AIR HEATING EQUIP & COMM & INDL REFRIG EQUIP [3585]
+		IRS NUMBER:				870448736
+		STATE OF INCORPORATION:			NV
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-18953
+		FILM NUMBER:		02578819
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2425 SOUTH YUKON
+		CITY:			TULSA
+		STATE:			OK
+		ZIP:			74107
+		BUSINESS PHONE:		9185832266
+
+	MAIL ADDRESS:	
+		STREET 1:		2425 SOUTH YUKON
+		CITY:			TULSA
+		STATE:			OK
+		ZIP:			74107
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	DIAMOND HEAD RESOURCES INC
+		DATE OF NAME CHANGE:	19900808
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>aaon_10k01.txt
+<DESCRIPTION>FORM 10-K FOR THE YEAR ENDED 12/31/2001
+<TEXT>
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+
+                                    FORM 10-K
+
+
+              ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE
+                         SECURITIES EXCHANGE ACT OF 1934
+
+
+                   For the fiscal year ended December 31, 2001
+
+                       Commission file number: 33-18336-LA
+
+
+                                   AAON, INC.
+                                   ----------
+             (Exact name of Registrant as specified in its charter)
+
+
+                Nevada                                            87-0448736
+                ------                                            ----------
+     (State or other jurisdiction                               (IRS Employer
+   of incorporation or organization)                         Identification No.)
+
+   2425 South Yukon, Tulsa, Oklahoma                                 74107
+   ---------------------------------                                 -----
+(Address of principal executive offices)                           (Zip Code)
+
+
+       Registrant's telephone number, including area code: (918) 583-2266
+
+
+
+           Securities registered pursuant to Section 12(g) of the Act:
+
+                          Common Stock, par value $.004
+                          -----------------------------
+                                (Title of Class)
+
+                   Rights to Purchase Series A Preferred Stock
+                   -------------------------------------------
+                                (Title of Class)
+
+Indicate by check mark whether the Registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the Registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days. Yes [X] No [ ]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of Registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K. [ ]
+
+The aggregate market value of Registrant's voting stock held by non-affiliates
+computed by reference to the closing price of such stock on March 1, 2002, was
+approximately $155,716,000. For purposes of this computation, all officers,
+directors and 5% beneficial owners of Registrant are deemed to be affiliates.
+
+As of March 1, 2002, Registrant had outstanding a total of 8,780,142 shares of
+its $.004 par value Common Stock.
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+
+Portions of Registrant's definitive Proxy Statement to be filed in connection
+with the Annual Meeting of Stockholders to be held June 4, 2002, are
+incorporated into Part III.
+
+
+                                      Page
+<PAGE>
+
+                                TABLE OF CONTENTS
+
+                                                                           Page
+Item Number and Caption                                                   Number
+
+PART I
+1.       Business.                                                           1
+
+2.       Properties.                                                         5
+
+3.       Legal Proceedings.                                                  5
+
+4.       Submission of Matters to a Vote of Security Holders.                5
+
+
+PART II
+
+5.       Market for Registrant's Common Equity and Related
+           Stockholder Matters.                                              6
+
+6.       Selected Financial Data.                                            7
+
+7.       Management's Discussion and Analysis of Financial Condition
+           and Results of Operations.                                        8
+
+7A.      Quantitative and Qualitative Disclosures About Market Risk.        11
+
+8.       Financial Statements and Supplementary Data.                       11
+
+9.       Changes in and Disagreements with Accountants on Accounting
+           and Financial Disclosure.                                        11
+
+
+PART III
+
+10.   Directors and Executive Officers of Registrant.                       12
+
+11.   Executive Compensation.                                               12
+
+12.   Security Ownership of Certain Beneficial Owners and Management.       12
+
+13.   Certain Relationships and Related Transactions.                       12
+
+
+PART IV
+
+14.   Exhibits, Financial Statement Schedules and Reports on Form 8-K.      13
+
+                                      Page
+<PAGE>
+
+                                     PART I
+
+
+Item 1.  Business.
+
+General Development of Business
+
+AAON, Inc., a Nevada corporation ("AAON-Nevada" or, including its subsidiaries,
+the "Company"), was incorporated on August 18, 1987.
+
+AAON, Inc., an Oklahoma corporation ("AAON-Oklahoma"), was incorporated on
+August 15, 1988, for the purpose of acquiring the assets, subject to certain
+liabilities, of the Heating, Ventilation and Air-Conditioning ("HVAC") Division
+of John Zink Company in Tulsa, Oklahoma. In June 1989, pursuant to a
+Conversion/Exchange Agreement, AAON-Oklahoma became a wholly-owned subsidiary of
+AAON-Nevada.
+
+AAON-Oklahoma is engaged in the manufacture and sale of commercial rooftop
+air-conditioners and heating equipment.
+
+In December 1991, AAON Coil Products, Inc. ("ACP", formerly CP/AAON, Inc.), a
+Texas corporation organized as a wholly-owned subsidiary of AAON-Nevada for such
+purpose, purchased most of the assets of Coils Plus, Inc., of Longview, Texas,
+which manufactures coils used in the Company's products, as well as air handling
+and condensing units introduced in 1998.
+
+Products and Markets
+
+The Company engineers, manufactures and markets commercial rooftop
+air-conditioning, heating and heat recovery equipment, air-conditioning coils
+and air handling and condensing units. Its products serve the commercial and
+industrial new construction and replacement markets. To date virtually all of
+the Company's sales have been to the domestic market, with foreign sales
+accounting for only 2% of its sales in 2001.
+
+The rooftop and condenser markets consist of units installed on commercial or
+industrial structures of generally less than 10 stories in height. Air handling
+units and coils are applicable to all sizes of commercial and industrial
+buildings. Coil sales are also made to other air-conditioning unit
+manufacturers.
+
+The size of these markets is determined primarily by the number of commercial
+and industrial building completions. The replacement market consists of products
+installed to replace existing units/components which are worn or damaged.
+Historically, approximately half of the industry's market has consisted of
+replacement units.
+
+The commercial and industrial new construction market is subject to cyclical
+fluctuations in that it is generally tied to housing starts, but has a lag
+factor of 6-18 months. Housing starts, in turn, are affected by such factors as
+interest rates, the state of the economy, population growth and the relative age
+of the population. When new construction is down, the Company emphasizes the
+replacement market.
+
+Based on its 2001 level of sales, approximately $157 million, the Company has a
+12% share of the rooftop market and a 1% share of the coil market. Approximately
+60% of the Company's sales now come from new construction and 40% from
+renovation/replacements. The percentage of sales for new construction vs.
+replacement to particular customers is related to their stage of development. In
+the case of Wal-Mart, Target and Home Depot, due to their growth posture, the
+Company's sales to these major customers was approximately 80% for new
+construction and 20% replacement. Sales of air handling and condensing units in
+2001 amounted to approximately $2.9 million.
+
+                                      (1)
+<PAGE>
+
+The Company purchases certain components, fabricates sheet metal and tubing and
+then assembles and tests its finished products. The Company's primary finished
+products consist of a single unit system containing heating, cooling and/or heat
+recovery components in a self-contained cabinet, referred to in the industry as
+"unitary" products. The Company's other finished products are coils consisting
+of a sheet metal casing with tubing and fins contained therein, air handling
+units consisting of coils, blowers and filters and condensing units consisting
+of coils, fans and compressors.
+
+The Company currently has four groups of rooftop products: its RK Series, which
+is offered in 18 cooling sizes ranging from 3 to 60 tons; its RF Series, which
+is offered in nine cooling sizes ranging from 40 to 130 tons; its RL Series,
+which is offered in 15 cooling sizes ranging from 40 to 230 tons, which will
+replace the RF Series during 2002; and its HA Series, which is a horizontal
+discharge package for either rooftop or ground installation, offered in nine
+sizes ranging from 4 to 50 tons. The Company's heat recovery option applicable
+to its RK and RF units (which responds to the U.S. Clean Air Act mandate to
+increase fresh air in commercial structures and increases the capacity of these
+units by up to 50% with no additional energy cost) has gained significant
+customer acceptance.
+
+The Company's products are designed to compete on the high side of standardized,
+packaged rooftop products. Accordingly, its prices range from $300 to $550 per
+ton of cooling, which is approximately 4%, on average, higher than other
+standardized products. Performance characteristics of these products range in
+cooling capacity from 32,900-2,676,000 BTU's and in heating capacity from
+69,000-3,990,000 BTU's. All of the Company's rooftop products meet the
+Department of Energy's efficiency standards, which are designed to set the
+maximum amount of energy to be used in producing a given amount of cooling.
+
+A typical commercial building installation requires a ton of air-conditioning
+for every 300-400 square feet or, for a 100,000 square foot building, 250 tons
+of air-conditioning, which would involve multiple units.
+
+The Company has developed a prototype wall-hung heating and air-conditioning
+unit which it plans to market for commercial buildings requiring a product
+designed for small space(s). Pilot production and testing of this product has
+begun, but sales in 2001 were not significant. In December 2001, the Company
+began marketing commercial water chillers. The development of these products did
+not require a material investment, but could produce material results.
+
+Major Customers
+
+The Company's largest customers last year were Wal-Mart Stores, Inc., Home
+Depot, Inc., and Target Stores, Inc. Sales to Wal-Mart, Target and Home Depot
+were 14%, 11% and 10% of total sales, respectively, in 2001 compared to 19%, 9%
+and 10%, respectively, in 2000. The Company has no written contract with these
+customers.
+
+The loss of any of the above customers would have a material adverse affect on
+the Company. However, with the continuing expansion of the Company's customer
+base, management believes that the extent of its dependence on sales to its
+major customers will diminish over a period of time.
+
+In order to diversify its customer base, the Company has added to and/or
+upgraded its sales representation in various markets.
+
+                                      (2)
+<PAGE>
+
+Sources and Availability of Raw Materials
+
+The most important materials purchased by the Company are steel, copper and
+aluminum, which are obtained from domestic suppliers. The Company also purchases
+from other domestic manufacturers certain components, including compressors,
+electric motors and electrical controls used in its products. The Company
+endeavors to obtain the lowest possible cost in its purchases of raw materials
+and components, consistent with meeting specified quality standards. The Company
+is not dependent upon any one source for its raw material or the major
+components of its manufactured products. By having multiple suppliers, the
+Company believes that it will have adequate sources of supplies to meet its
+manufacturing requirements for the foreseeable future.
+
+Further, the Company attempts to limit the impact of increases in raw materials
+and purchased component prices on its profit margins by negotiating with each of
+its major suppliers on a term basis from six months to three years.
+
+Distribution
+
+The Company utilizes a direct sales staff of nine individuals and approximately
+84 independent manufacturer representatives' organizations having 101 offices to
+market its products in the United States. The Company also has one international
+sales organization, which utilizes 12 distributors in other countries. Sales are
+made directly to the contractor or end user, with shipments being made from the
+Company's Tulsa and Longview plants to the job site. Billings are to the
+contractor or end user, with a commission paid directly to the manufacturer
+representative.
+
+The Company's products and sales strategy focus on a "niche" market. The
+targeted market for its rooftop equipment is customers seeking a product of
+better quality than offered, and/or options not offered, by standardized
+manufacturers.
+
+To support and service its customers and the ultimate consumer, the Company
+provides parts availability through two independent parts distributors and has a
+factory service organization at its Tulsa plant. Also, a number of the
+manufacturer representatives utilized by the Company have their own service
+organizations, which, together with the Company, provide the necessary warranty
+work and/or normal service to customers.
+
+The Company's warranty on its products is: for parts only, the earlier of one
+year from the date of first use or 15 months from date of shipment; compressors
+(if applicable), an additional four years; and on gas-fired heat exchangers (if
+applicable), 15 years.
+
+Research and Development
+
+All R&D activities of the Company are company-sponsored, rather than
+customer-sponsored. Ongoing work involves the HA Series, component evaluation
+and refinement, development of control systems and new product development. This
+work will cost approximately $600,000 per year and is budgeted as a normal,
+recurring expense.
+
+                                      (3)
+<PAGE>
+
+Backlog
+
+The Company had a current backlog as of March 1, 2002, of $28,800,000, compared
+to $34,360,000 at March 1, 2001. The current backlog consists of orders
+considered by management to be firm and substantially all of which will be
+filled by August 1, 2002; however, the orders are subject to cancellation by the
+customers.
+
+Working Capital Practices
+
+Working capital practices in the industry center on inventories and accounts
+receivable. The Company regularly reviews its working capital components with a
+view to maintaining the lowest level consistent with requirements of anticipated
+levels of operation. Its greatest needs arise during the months of
+July-November, the peak season for inventory (primarily purchased material) and
+accounts receivable. The Company's working capital requirements are generally
+met through a bank revolving credit facility, which currently permits borrowings
+up to $15,150,000. The Company believes that it will have sufficient bank credit
+available to meet its working capital needs for the foreseeable future.
+
+Seasonality
+
+Sales of the Company's products are moderately seasonal with the peak period
+being July-November of each year.
+
+Competition
+
+In the domestic market, the Company competes primarily with Trane Company, a
+division of American Standard, Inc., Carrier Corporation, a subsidiary of United
+Technologies Corporation, Lennox International, Inc., and York International
+Corporation. All of these competitors are substantially larger and have greater
+resources than the Company. The Company competes primarily on the basis of total
+value, quality, function, serviceability, efficiency, availability of product,
+product line recognition and acceptability of sales outlet. However, in new
+construction where the contractor is the purchasing decision maker, the Company
+often is at a competitive disadvantage on sales of rooftop units because of the
+emphasis placed on initial cost; whereas, in the replacement market and other
+owner-controlled purchases of such units, the Company has a better chance of
+getting the business since quality and long-term cost are generally taken into
+account.
+
+Employees
+
+As of March 1, 2002, the Company had 931 employees and 127 temporaries, none of
+whom are represented by unions. Management considers its relations with its
+employees to be good.
+
+Patents, Trademarks, Licenses and Concessions
+
+The Company does not consider any patents, trademarks, licenses or concessions
+held by it to be material to its business operations, other than patents issued
+regarding its heat recovery wheel option, blower, gas-fired heat exchanger,
+wall-hung curb and evaporative condenser desuperheater.
+
+Environmental Matters
+
+Laws concerning the environment that affect or could affect the Company's
+domestic operations include, among others, the Clean Water Act, the Clean Air
+Act, the Resource Conservation and Recovery Act, the Occupational Safety and
+Health Act, the National Environmental Policy Act, the Toxic Substances Control
+Act, regulations promulgated under these Acts, and any other federal, state or
+local laws or regulations governing environmental matters. The Company believes
+that it presently complies with these laws and that future compliance will not
+materially adversely affect the Company's earnings or competitive position.
+
+                                      (4)
+<PAGE>
+
+Item 2.  Properties.
+
+The plant and office facilities of AAON-Oklahoma consist of a 337,000 square
+foot building (322,000 sq. ft. of manufacturing/warehouse space and 15,000 sq.
+ft. of office space) located on a 12-acre tract of land at 2425 South Yukon,
+Tulsa, Oklahoma (the "original facility"), and a 457,000 square foot
+manufacturing/warehouse building and a 22,000 square foot office building (the
+"expansion facility") located on a 40-acre tract of land across the street from
+the original facility. Both plants are of sheet metal construction.
+
+The original facility's manufacturing area is in a heavy industrial type
+building, with total coverage by bridge cranes, containing manufacturing
+equipment designed for sheet metal fabrication and metal stamping. The
+manufacturing equipment contained in the original facility consists primarily of
+automated sheet metal fabrication equipment, supplemented by presses, press
+breaks and NC punching equipment. Assembly lines consist of four cart-type
+conveyor lines with variable line speed adjustment, three of which are motor
+driven. Subassembly areas and production line manning are based upon line speed.
+The manufacturing facility is 1,140 feet in length and varies in width from 390
+feet to 220 feet. Production at this facility averaged approximately $12.3
+million per month in 2001, which is 60% of the estimated capacity of the plant.
+Management deems this plant to be nearly ideal for the type of rooftop products
+being manufactured by the Company.
+
+The expansion facility, which was purchased in December 1997, is 24% (108,000
+sq. ft.) utilized by the Company and 76% leased to third parties. The Company
+uses 8,000 sq. ft. for office space, 20,000 sq. ft. for warehouse space and
+80,000 sq. ft. for manufacturing. The remaining 349,000 sq. ft. will afford the
+Company additional plant and office space for long-term growth.
+
+The operations of ACP are conducted in a plant/office building at 203-207 Gum
+Springs Road in Longview, Texas, containing 226,000 square feet on 14 acres. The
+manufacturing area (approximately 219,000 square feet) is located in three
+120-foot wide sheet metal buildings connected by an adjoining structure. The
+facility is built for light industrial manufacturing.
+
+Item 3.  Legal Proceedings.
+
+The Company is not a party to any pending legal proceeding which management
+believes is likely to result in a material liability and no such action is
+contemplated by or, to the best of its knowledge, has been threatened against
+the Company.
+
+
+Item 4.  Submission of Matters to a Vote of Security Holders.
+
+No matter was submitted to a vote of security holders, through solicitation of
+proxies or otherwise, during the period from October 1, 2001, through December
+31, 2001.
+
+                                      (5)
+<PAGE>
+
+                                     PART II
+
+
+Item 5.  Market for Registrant's Common Equity and Related Stockholder Matters.
+
+The Company's Common Stock is traded on the NASDAQ National Market under the
+symbol "AAON". The range of sales prices for the Company's Common Stock during
+the last two years, as reported by National Association of Securities Dealers,
+Inc. (adjusted for the 3-for-2 stock split on September 28, 2001), was as
+follows:
+
+
+     Quarter Ended                             High Bid        Low Bid
+     -------------                             --------        -------
+     March 31, 2000                            $ 12.71         $  9.00
+     June 30, 2000                             $ 18.50         $ 11.50
+     September 30, 2000                        $ 17.25         $ 14.75
+     December 31, 2000                         $ 17.00         $ 11.54
+
+     March 31, 2001                            $ 16.58         $ 12.33
+     June 30, 2001                             $ 18.50         $ 11.17
+     September 30, 2001                        $ 21.33         $ 16.87
+     December 31, 2001                         $ 24.47         $ 16.00
+
+
+On March 1, 2002, there were 1,034 holders of record, and 3,134 beneficial
+owners, of the Company's Common Stock.
+
+Since its inception, no cash dividends have been paid on the Company's Common
+Stock and the Company does not anticipate paying cash dividends in the
+foreseeable future. There is a negative covenant under the Company's Revolving
+Credit and Term Loan Agreement which prohibits the declaration or payment of
+such dividends.
+
+                                      (6)
+<PAGE>
+
+Item 6.  Selected Financial Data.
+
+The following selected financial data should be read in conjunction with the
+financial statements and related notes thereto for the periods indicated, which
+are included elsewhere in this report.
+
+<TABLE>
+                                                                           Years Ended December 31,
+                                      ---------------------------------------------------------------------------------
+Results of Operations:                      2001              2000            1999            1998              1997
+- ----------------------                  -----------         --------      -----------     -----------        ----------
+                                                          (In thousands, except earnings per share)
+<CAPTION>
+<S>                                     <C>              <C>              <C>             <C>                <C>
+Net sales                               $   157,252      $   154,982      $   131,947     $   109,624        $  81,676
+Net income                              $    14,156      $    12,794      $     9,697     $     5,230        $   3,022
+Basic earnings per share                $      1.63      $      1.46      $      1.04     $       .56        $     .33
+Diluted earnings per share              $      1.56      $      1.38      $      1.00     $       .55        $     .32
+Weighted average shares outstanding:
+     Basic                                    8,661            8,793            9,362           9,303            9,239
+     Diluted                                  9,094            9,264            9,690           9,578            9,455
+</TABLE>
+
+<TABLE>
+                                                                                 December 31,
+                                      ---------------------------------------------------------------------------------
+Balance Sheet Data:                         2001             2000              1999           1998              1997
+- -------------------                     -----------      -----------        ---------     -----------        ----------
+                                                                          (In thousands)
+<CAPTION>
+<S>                                     <C>              <C>               <C>            <C>                <C>
+Total assets                            $    76,295      $    76,818       $   58,656     $    50,506        $  42,810
+Long-term debt                          $       985      $     5,853       $    6,630     $    10,980        $  12,857
+Stockholders' equity                    $    50,041      $    37,012       $   33,618     $    24,411        $  18,873
+</TABLE>
+
+Basic earnings per common share were computed by dividing net income by the
+weighted average number of shares of common stock outstanding during the
+reporting period. Diluted earnings per common share were determined on the
+assumed exercise of dilutive options, as determined by applying the treasury
+stock method. Effective September 28, 2001, the Company completed a
+three-for-two stock split. The shares outstanding and earnings per share
+disclosures have been restated to reflect the stock split.
+
+                                      (7)
+<PAGE>
+
+Item 7.  Management's Discussion and Analysis of Financial Condition and Results
+         of Operations.
+
+AAON, Inc., engineers, manufactures and markets commercial rooftop
+air-conditioning, heating and heat recovery equipment, air conditioning coils
+and air handling and condensing units. AAON's primary products are its RK, RF
+and RL (which was designed to replace the RF) series units and the Company also
+began producing water chillers in late 2001. Future revenues will also come from
+the introduction of an expanded air-handler product.
+
+AAON sells its products to property owners and contractors through its internal
+sales force and a network of manufacturers' representatives. The demand for
+AAON's products is influenced by national and regional economic and demographic
+factors. The commercial and industrial new construction market is subject to
+cyclical fluctuations in that it is generally tied to housing starts, but has a
+lag factor of 6-18 months. Housing starts, in turn, are affected by such factors
+as interest rates, the state of the economy, population growth and the relative
+age of the population. When new construction is down, the Company emphasizes the
+replacement market.
+
+The principal components of cost of goods sold are labor, raw materials,
+component costs, factory overhead, freight out and engineering expense. The
+principal raw materials used in AAON's manufacturing processes are steel, copper
+and aluminum. The major component costs include compressors, electric motors and
+electronic controls.
+
+Selling, general and administrative costs include the Company's internal sales
+force, warranty costs, profit sharing and administrative expenses. Warranty
+expense is estimated based on historical trends and other factors. The Company's
+warranty period is generally one year from the date of first use or 15 months
+from date of shipment; however, compressors (if applicable) carry an additional
+four-year warranty and gas-fired heat exchangers (if applicable) have a 15-year
+warranty.
+
+In late 1997, the Company began receiving additional machinery to allow for
+continued expansion of its production. At the end of 1997, the Company bought a
+40-acre tract of land across the street from its original plant, containing
+457,000 sq. ft. of manufacturing/warehouse space and a 22,000 sq. ft. office
+building (the "expansion facility"). In 1999 an expansion of slightly over
+90,000 sq. ft. was begun on the Longview, Texas, facility, which was completed
+in 2000. During 2001 the Company began producing its new, larger tonnage RL
+series units in 100,000 sq. ft. of the expansion facility. Throughout this time
+period, machinery was added in both the Tulsa and Longview facilities, which
+allowed the Company to increase sales by 93% from 1997 to 2000. In addition,
+these facilities have allowed the Company to install assembly areas specifically
+designed for a particular product, thus improving assembly labor. The new
+machinery additions have permitted better utilization of manufacturing
+personnel. Also during this period, the Company invested heavily in creating new
+computer software to improve its operations. These improvements and expansions
+contributed to the increase in margins from 16.0% in 1997 to 24.7% in 2001.
+
+                                      (8)
+<PAGE>
+
+Set forth below is income statement information with respect to the Company for
+years 2001, 2000 and 1999:
+
+<TABLE>
+                                                                        Years ended December 31,
+                                                                  2001            2000             1999
+                                                                  ----            ----             ----
+                                                                            (In Thousands)
+<CAPTION>
+<S>                                                           <C>             <C>              <C>
+      Net sales                                               $157,252        $154,982         $131,947
+      Cost of sales                                            118,399         120,233          101,229
+                                                               -------         -------          -------
+      Gross profit                                              38,853          34,749           30,718
+
+      Selling, general and administrative expenses              16,011          13,922           14,741
+                                                               -------         -------          -------
+      Income from operations                                    22,842          20,827           15,977
+
+      Interest expense                                             892             904              574
+      Other income                                                 536             436              238
+                                                               -------         -------          -------
+      Income before income taxes                                22,486          20,359           15,641
+
+      Income tax provision                                       8,330           7,565            5,944
+                                                               -------         -------          -------
+      Net income                                              $ 14,156        $ 12,794         $  9,697
+                                                               =======         =======          =======
+</TABLE>
+
+Results of Operations
+
+Net sales increased approximately 1.5% in 2001 as compared to 2000, and 2000
+sales were 17.5% greater than in 1999. Sales for the first three quarters of
+2001 were 5.6 % greater than sales for the same period in 2000. Following the
+events of September 11, the Company experienced a period of minimal sales
+activity and many orders were delayed by the Company's customers. Accordingly,
+sales for the fourth quarter of 2001 decreased 11% compared to the same period
+in 2000. The increase in sales in 2000 compared to 1999 was attributable to
+increased sales to the Company's entire customer base. Sales to existing
+customers accounted for 90% of the Company's business in 2001, with 10% coming
+from new business.
+
+Gross profit in 2001 increased to 24.7% compared to 22.4% in 2000 and 23.3% in
+1999. Material cost as a percent of sales decreased to 49.9% in 2001 compared to
+53.4% in 2000. Direct labor as a percent of sales decreased to 4.6% in 2001
+compared to 6.8% in 2000. Material and direct labor as a percent of sales
+improved due to efficiencies being realized from the higher plant utilization
+and a more stable work force which allowed the Company to reduce the amount of
+overtime incurred. The more stable work force has also allowed the Company to
+realize better overall labor efficiencies. The decrease in margins in 2000
+compared to 1999 was primarily attributable to higher material costs that could
+not be recovered through higher selling prices.
+
+Selling, general and administrative expenses increased to $16.0 million, or
+10.0% of sales, in 2001 from $13.9 million, or 9.0% of sales, in 2000. The
+increase is primarily due to higher warranty costs related to the introduction
+of new products both within existing and new product lines. Selling, general and
+administrative expense decreased in 2000 from $14.7 million, or 11.2% of sales,
+in 1999. The decrease was primarily due to lower warranty costs and lower
+professional fees.
+
+Other income is primarily attributable to rental income from the Company's
+"expansion facility."
+
+Interest expense was $.9 million, $.9 million and $.6 million in 2001, 2000 and
+1999, respectively. The increase in 2001 and 2000 compared to 1999 primarily
+relates to borrowings for the purchase of equipment and facilities described
+above.
+
+The income tax provisions in 2001, 2000 and 1999 were 37%, 37% and 38%,
+respectively.
+
+                                      (9)
+<PAGE>
+
+New Accounting Pronouncements
+
+In July 2001, the FASB issued Statement of Financial Accounting Standards No.
+141, "Business Combinations" (Statement 141), Statement of Financial Accounting
+Standards No. 142, "Goodwill and Other Intangible Assets" (Statement 142) and
+Statement of Financial Accounting Standards No. 143, "Accounting for Asset
+Retirement Obligations" (Statement 143). In October 2001, the FASB issued
+Statement of Financial Accounting Standards No. 144, "Accounting for the
+Impairment or Disposal of Long-Lived Assets" (Statement 144).
+
+Statement 141 requires that the purchase method of accounting be used for all
+business combinations initiated after June 30, 2001. Statement 142 requires that
+goodwill and intangible assets with indefinite useful lives no longer be
+amortized, but instead tested for impairment at least annually in accordance
+with the provisions of Statement 142. The Company is required to adopt the
+provisions of Statement 141 immediately, and Statement 142 effective January 1,
+2002. Goodwill acquired in business combinations completed before July 1, 2001,
+will continue to be amortized prior to the adoption of Statement 142. Adoption
+of Statement 141 and 142 had no material impact on the Company's results of
+operations or financial condition.
+
+Statement 143 requires entities to record the fair value of a liability for an
+asset retirement obligation in the period in which it is incurred and a
+corresponding increase in the carrying amount of the related long-lived asset.
+Statement 143 is effective for fiscal years beginning after June 15, 2002.
+Statement 144 retains the requirement to report discontinued operations
+separately and extends that reporting to a component of an entity that either
+has been disposed of or is classified as held for sale. Statement 144 is
+effective for fiscal years beginning after December 15, 2001, and for interim
+periods within those fiscal years. The Company is currently assessing the impact
+of Statements 143 and 144 on its financial condition and results of operations.
+
+Financial Condition and Liquidity
+
+Cash flows from operations were $23.9 million, $14.0 million and $12.0 million
+in 2001, 2000 and 1999, respectively. Cash flows from operations in 2001
+consisted of net income of $14.2 million, depreciation of $4.4 million and
+working capital and other changes of $5.3 million. Working capital changes were
+primarily due to decreases in accounts receivable and inventories of $4.6
+million and $1.8 million, respectively, at December 31, 2001, compared to
+year-end 2000. Additionally, accounts payable and accrued liabilities decreased
+$1.6 million at December 31, 2001 from December 31, 2000.
+
+Cash flows used in investing activities were $8.8 million, $10.7 million and
+$6.6 million, in 2001, 2000 and 1999, respectively. Cash flows used in investing
+activities in 2001 primarily related to capital expenditures for additional
+machinery and refurbishments made to the Company's manufacturing facilities.
+
+Cash flows used in financing activities were $14.0 million, $3.3 million and
+$5.3 million in 2001, 2000 and 1999, respectively. Cash flows used in financing
+activities in 2001 primarily related to net debt payments of $11.8 million and
+stock repurchases of $2.8 million, net of $.6 million from stock option
+exercises. The Company's total outstanding debt at December 31, 2001 was $1.9
+million compared to $13.7 million at December 31, 2000.
+
+The Company's revolving credit line (which currently extends to July 31, 2002)
+provides for maximum borrowings of $15.15 million. Interest on this line is
+payable monthly at the Wall Street Journal prime rate less .5% or LIBOR plus
+1.6%, at the election of the Company. Borrowings available under the revolving
+credit line at December 31, 2001 were $14.7 million.
+
+Future cash flows are expected to be used to fund possible acquisitions and/or
+additional stock repurchases or will be retained for general working capital
+purposes.
+
+                                      (10)
+<PAGE>
+
+The capital needs of the Company are met primarily by its bank revolving credit
+facility. Management believes this bank debt (or comparable financing), term
+loans and projected profits from operations will provide the necessary liquidity
+and capital resources to the Company for at least the next five years. The
+Company's belief that it will have the necessary liquidity and capital resources
+is based upon its knowledge of the HVAC industry and its place in that industry,
+its ability to limit the growth of its business if necessary, and its
+relationship with its existing bank lender.
+
+Forward-Looking Statements
+
+This Annual Report includes "forward-looking statements" within the meaning of
+the Private Securities Litigation Reform Act of 1995. Words such as "expects",
+"anticipates", "intends", "plans" "believes", "seeks", "estimates", "will", and
+variations of such words and similar expressions are intended to identify such
+forward-looking statements. These statements are not guarantees of future
+performance and involve certain risks, uncertainties and assumptions which are
+difficult to predict. Therefore, actual outcomes and results may differ
+materially from what is expressed or forecasted in such forward-looking
+statements. Readers are cautioned not to place undue reliance on these
+forward-looking statements, which speak only as of the date on which they are
+made. The Company undertakes no obligation to update publicly any
+forward-looking statements, whether as a result of new information, future
+events or otherwise. Important factors that could cause results to differ
+materially from those in the forward-looking statements include (1) the timing
+and extent of changes in material prices, (2) the effects of fluctuations in the
+commercial/industrial new construction market, (3) the timing and extent of
+changes in interest rates, as well as other competitive factors during the year,
+and (4) general economic, market or business conditions.
+
+Item 7A.  Quantitative and Qualitative Disclosures About Market Risk.
+
+The Company is exposed to changes in interest rates regarding its total variable
+rate debt of $446,000. A hypothetical 10% change in interest rates on its
+variable rate borrowings would not have a material effect on the Company's
+earnings or cash flows.
+
+Foreign sales accounted for only 2% of the Company's sales in 2001 and the
+Company accepts payment for such sales only in U.S. dollars; hence, the Company
+is not exposed to any foreign currency exchange rate risk.
+
+Important raw materials purchased by the Company are steel, copper and aluminum,
+which are subject to price fluctuations. The Company attempts to limit the
+impact of price increases on these materials by negotiating with each of its
+major suppliers on a term basis from six months to three years.
+
+Item 8.  Financial Statements and Supplementary Data.
+
+The financial statements and supplementary data are included at page 17.
+
+Item 9.  Changes in and Disagreements with Accountants on Accounting and
+         Financial Disclosure.
+
+None.
+
+                                      (11)
+<PAGE>
+
+PART III
+
+Item 10.   Directors and Executive Officers of Registrant.
+
+Incorporated by reference to the Company's definitive Proxy Statement to be
+filed with the Securities and Exchange Commission in connection with the
+Company's 2002 Annual Meeting of Stockholders.
+
+
+Item 11.   Executive Compensation.
+
+Incorporated by reference to the Company's definitive Proxy Statement to be
+filed with the Securities and Exchange Commission in connection with the
+Company's 2002 Annual Meeting of Stockholders.
+
+
+Item 12.   Security Ownership of Certain Beneficial Owners and Management.
+
+Incorporated by reference to the Company's definitive Proxy Statement to be
+filed with the Securities and Exchange Commission in connection with the
+Company's 2002 Annual Meeting of Stockholders.
+
+
+Item 13.   Certain Relationships and Related Transactions.
+
+Incorporated by reference to the Company's definitive Proxy Statement to be
+filed with the Securities and Exchange Commission in connection with the
+Company's 2002 Annual Meeting of Stockholders.
+
+                                      (12)
+<PAGE>
+
+PART IV
+
+
+Item 14.   Exhibits, Financial Statement Schedules and Reports on Form 8-K.
+
+         (a)  1. Financial statements.
+                    See Index to Consolidated Financial Statements on page 16.
+
+              2. Exhibits:
+
+                  (3)  (A)      Articles of Incorporation (i)
+                       (A-1)    Article Amendments (ii)
+                       (B)      Bylaws (i)
+                       (B-1)    Amendments of Bylaws (iii)
+
+                  (4)  (A)      Second Restated Revolving Credit and Term Loan
+                                Agreement ("Loan Agreement") and related
+                                documents (iv)
+                       (A-1)    Latest amendments of Loan Agreement (v)
+
+                       (B)      Rights Agreement dated February 19, 1999 (vi)
+
+                  (10)          AAON, Inc. 1992 Stock Option Plan, as
+                                amended (vii)
+
+                  (21)          List of Subsidiaries (viii)
+
+                  (23)          Consent of Arthur Andersen LLP
+
+                  -----------------------
+
+               (i)  Incorporated herein by reference to the exhibits to the
+                    Company's Form S-18 Registration Statement No. 33-18336-LA.
+
+               (ii) Incorporated herein by reference to the exhibits to the
+                    Company's Annual Report on Form 10-K for the fiscal year
+                    ended December 31, 1990, and to the Company's Forms 8-K
+                    dated March 21, 1994, March 10, 1997, and March 17, 2000.
+
+              (iii) Incorporated herein by reference to the Company's Forms 8-K
+                    dated March 10, 1997, May 27, 1998 and February 25, 1999, or
+                    exhibits thereto.
+
+               (iv) Incorporated by reference to exhibit to the Company's Form
+                    8-K dated September 25, 1996.
+
+               (v)  Incorporated herein by reference to exhibits to the
+                    Company's Forms 8-K dated September 26, 1997, March 9, 1999,
+                    and March 17, 2000, January 18, 2001, and September 24,
+                    2001.
+
+               (vi) Incorporated by reference to exhibits to the Company's Form
+                    8-K dated February 25, 1999, and Form 8-A Registration
+                    Statement No. 000-18953.
+
+              (vii) Incorporated herein by reference to exhibits to the
+                    Company's Annual Report on Form 10-K for the fiscal year
+                    ended December 31, 1991, and to the Company's Form S-8
+                    Registration Statement No. 33-78520, as amended.
+
+                                      (13)
+<PAGE>
+
+             (viii) Incorporated herein by reference to exhibit to the
+                    Company's Annual Report on Form 10-K for the fiscal year
+                    ended December 31, 1991.
+
+         (b)      The Company did not file any reports on Form 8-K during the
+                  period from October 1, 2001, to December 31, 2001.
+
+
+                                      (14)
+<PAGE>
+
+
+                                   SIGNATURES
+
+Pursuant to the requirement of Section 13 or 15(d) of the Securities Exchange
+Act of 1934, as amended, the Registrant has duly caused this report to be signed
+on its behalf by the undersigned, hereunto duly authorized.
+
+
+                                   AAON, INC.
+
+
+Dated:  March 15, 2002                  By:   /s/ Norman H. Asbjornson
+                                            ------------------------------------
+                                              Norman H. Asbjornson, President
+
+
+Pursuant to the requirements of the Securities Exchange Act of 1934, as amended,
+this report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+
+Dated:  March 15, 2002                        /s/ Norman H. Asbjornson
+                                            ------------------------------------
+                                                  Norman H. Asbjornson
+                                                 President and Director
+                                              (principal executive officer)
+
+
+Dated:  March 15, 2002                        /s/ Kathy I. Sheffield
+                                            ------------------------------------
+                                                  Kathy I. Sheffield
+                                                       Treasurer
+                                              (principal financial officer
+                                            and principal accounting officer)
+
+
+Dated:  March 15, 2002                        /s/ John B. Johnson, Jr.
+                                            ------------------------------------
+                                                  John B. Johnson, Jr.
+                                                        Director
+
+
+Dated:  March 15, 2002                        /s/ Thomas E. Naugle
+                                            ------------------------------------
+                                                  Thomas E. Naugle
+                                                        Director
+
+
+Dated:  March 15, 2002                        /s/ Jerry E. Ryan
+                                            ------------------------------------
+                                                  Jerry E. Ryan
+                                                        Director
+                                      (15)
+<PAGE>
+
+INDEX TO CONSOLIDATED FINANCIAL STATEMENTS
+
+                                                                          Page
+                                                                          ----
+Report of Independent Public Accountants                                   17
+
+Consolidated Balance Sheets                                                18
+
+Consolidated Statements of Operations                                      19
+
+Consolidated Statements of Stockholders' Equity                            20
+
+Consolidated Statements of Cash Flows                                      21
+
+Notes to Consolidated Financial Statements                                 22
+
+                                      (16)
+<PAGE>
+
+Report of Independent Public Accountants
+
+
+To the Stockholders of AAON, Inc.:
+
+We have audited the accompanying consolidated balance sheets of AAON, Inc. (a
+Nevada corporation) and subsidiaries as of December 31, 2001 and 2000, and the
+related consolidated statements of operations, stockholders' equity and cash
+flows for each of the three years in the period ended December 31, 2001. These
+financial statements are the responsibility of the Company's management. Our
+responsibility is to express an opinion on these financial statements based on
+our audits.
+
+We conducted our audits in accordance with auditing standards generally accepted
+in the United States. Those standards require that we plan and perform the audit
+to obtain reasonable assurance about whether the financial statements are free
+of material misstatement. An audit includes examining, on a test basis, evidence
+supporting the amounts and disclosures in the financial statements. An audit
+also includes assessing the accounting principles used and significant estimates
+made by management, as well as evaluating the overall financial statement
+presentation. We believe that our audits provide a reasonable basis for our
+opinion.
+
+In our opinion, the financial statements referred to above present fairly, in
+all material respects, the financial position of AAON, Inc. and subsidiaries as
+of December 31, 2001 and 2000, and the results of their operations and their
+cash flows for each of the three years in the period ended December 31, 2001, in
+conformity with accounting principles generally accepted in the United States.
+
+
+
+                                                        ARTHUR ANDERSEN LLP
+
+
+Tulsa, Oklahoma
+February 6, 2002
+
+                                      (17)
+<PAGE>
+
+<TABLE>
+AAON, INC.
+
+CONSOLIDATED BALANCE SHEETS
+(In thousands, except share amounts)
+
+                                                                DECEMBER 31,
+                                                                ------------
+                                                             2001          2000
+                                                          --------      --------
+<CAPTION>
+<S>                                                       <C>           <C>
+ASSETS
+- ------
+CURRENT ASSETS:
+   Cash and cash equivalents                              $  1,123      $     17
+   Accounts receivable, net                                 23,392        28,247
+   Inventories, net                                         13,471        15,140
+   Prepaid expenses and other                                  220           245
+   Deferred tax asset                                        4,067         3,709
+                                                          --------      --------
+         Total current assets                               42,273        47,358
+                                                          --------      --------
+
+PROPERTY, PLANT AND EQUIPMENT, net                          34,022        29,460
+                                                          --------      --------
+         Total assets                                     $ 76,295      $ 76,818
+                                                          ========      ========
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+- ------------------------------------
+CURRENT LIABILITIES:
+   Accounts payable                                       $  8,005      $ 11,691
+   Accrued liabilities                                      13,496        12,351
+   Current maturities of long-term debt                        884         7,860
+                                                          --------      --------
+         Total current liabilities                          22,385        31,902
+                                                          --------      --------
+
+DEFERRED TAX LIABILITY                                       2,884         2,051
+                                                          --------      --------
+
+LONG-TERM DEBT                                                 985         5,853
+                                                          --------      --------
+
+CONTINGENCIES
+
+STOCKHOLDERS' EQUITY, per accompanying statements:
+   Preferred stock, $.001 par value, 5,000,000 shares
+     authorized, no shares issued                                -             -
+   Common stock, $.004 par value, 50,000,000 shares
+     authorized, 8,666,207 and 8,644,611 issued at
+     December 31, 2001 and 2000, respectively                   35            35
+   Additional paid-in capital                                1,063             -
+   Retained earnings                                        48,943        36,977
+                                                          --------      --------
+         Total stockholders' equity                         50,041        37,012
+                                                          --------      --------
+         Total liabilities and stockholders' equity       $ 76,295      $ 76,818
+                                                          ========      ========
+
+The accompanying notes are an integral part of these consolidated balance sheets.
+</TABLE>
+
+                                      (18)
+<PAGE>
+
+<TABLE>
+AAON, INC.
+
+CONSOLIDATED STATEMENTS OF OPERATIONS
+(In thousands, except per share amounts)
+
+                                                                YEARS ENDED DECEMBER 31,
+                                                             ------------------------------
+                                                         2001            2000             1999
+                                                   -----------      ----------       ----------
+<CAPTION>
+<S>                                                 <C>             <C>              <C>
+NET SALES                                           $  157,252      $  154,982       $  131,947
+
+COST OF SALES                                          118,399         120,233          101,229
+                                                    ----------      ----------       ----------
+         GROSS PROFIT                                   38,853          34,749           30,718
+
+SELLING, GENERAL AND ADMINISTRATIVE EXPENSES            16,011          13,922           14,741
+                                                    ----------      ----------       ----------
+         INCOME FROM OPERATIONS                         22,842          20,827           15,977
+
+INTEREST EXPENSE                                           892             904              574
+
+OTHER INCOME                                               536             436              238
+                                                    ----------      ----------       ----------
+         INCOME BEFORE INCOME TAXES                     22,486          20,359           15,641
+
+INCOME TAX PROVISION                                     8,330           7,565            5,944
+                                                    ----------      ----------       ----------
+         NET INCOME                                 $   14,156      $   12,794       $    9,697
+                                                    ==========      ==========       ==========
+
+EARNINGS PER SHARE:
+   Basic                                            $     1.63      $     1.46       $     1.04
+                                                    ==========      ==========       ==========
+   Diluted                                          $     1.56      $     1.38       $     1.00
+                                                    ==========      ==========       ==========
+
+WEIGHTED AVERAGE SHARES OUTSTANDING:
+   Basic                                                 8,661           8,793            9,362
+                                                    ==========      ==========       ==========
+   Diluted                                               9,094           9,264            9,690
+                                                    ==========      ==========       ==========
+
+The accompanying notes are an integral part of these consolidated statements.
+</TABLE>
+
+                                      (19)
+<PAGE>
+
+<TABLE>
+AAON, INC.
+
+CONSOLIDATED STATEMENTS OF STOCKHOLDERS' EQUITY
+(In thousands)
+
+                                                           Common Stock
+                                                       -------------------        Paid-in     Retained
+                                                       Shares       Amount        Capital     Earnings         Total
+                                                       ------       ------        -------     --------         -----
+<CAPTION>
+<S>                                                     <C>          <C>         <C>         <C>           <C>
+BALANCE, JANUARY 1, 1999                                9,329        $  37       $  8,212    $  16,162     $  24,411
+
+NET INCOME                                                  -            -              -        9,697         9,697
+
+STOCK OPTIONS EXERCISED, INCLUDING TAX BENEFITS            72            -            308            -           308
+
+STOCK RETIRED                                             (92)           -           (798)           -          (798)
+                                                       ------        -----       --------    ---------     ---------
+BALANCE, DECEMBER 31, 1999                              9,309           37          7,722       25,859        33,618
+
+NET INCOME                                                  -            -              -       12,794        12,794
+
+STOCK OPTIONS EXERCISED, INCLUDING TAX BENEFITS           192            1            969        -               970
+
+STOCK REPURCHASED AND RETIRED                            (856)          (3)        (8,691)      (1,676)      (10,370)
+                                                       ------        -----       --------    ---------     ---------
+BALANCE, DECEMBER 31, 2000                              8,645           35              -       36,977        37,012
+
+NET INCOME                                                  -            -              -       14,156        14,156
+
+STOCK OPTIONS EXERCISED, INCLUDING TAX BENEFITS           178            1          1,634            -         1,635
+
+STOCK ISSUED TO EMPLOYEES                                   1            -             25            -            25
+
+STOCK REPURCHASED AND RETIRED                            (158)          (1)          (596)      (2,190)       (2,787)
+                                                       ------        -----       --------    ---------     ---------
+BALANCE, DECEMBER 31, 2001                              8,666        $  35       $  1,063    $  48,943     $  50,041
+                                                       ======        =====       ========    =========     =========
+
+The accompanying notes are an integral part of these consolidated statements.
+</TABLE>
+
+                                      (20)
+<PAGE>
+
+<TABLE>
+AAON, INC.
+
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+(In thousands)
+
+                                                                                 YEARS ENDED DECEMBER 31,
+                                                                                 ------------------------
+                                                                            2001          2000           1999
+                                                                       ----------    ----------      ---------
+<CAPTION>
+<S>                                                                    <C>           <C>             <C>
+CASH FLOWS FROM OPERATING ACTIVITIES:
+   Net income                                                          $   14,156    $   12,794      $    9,697
+                                                                       ----------    ----------      ----------
+   Adjustments to reconcile net income to net cash
+     provided by operating activities-
+       Depreciation                                                         4,380         3,465           3,063
+       Provision for losses on accounts receivable                            260           696             470
+       Provision for excess and obsolete inventories                         (100)           50             550
+       Gain on disposition of assets                                         (125)          (11)            (40)
+       Deferred income taxes                                                  475          (127)           (220)
+       Changes in assets and liabilities-
+         Accounts receivable                                                4,595        (7,616)         (3,864)
+         Inventories                                                        1,769        (3,324)           (256)
+         Prepaid expenses and other                                            25           321            (325)
+         Accounts payable                                                  (3,686)        2,646             567
+         Accrued liabilities                                                2,130         5,146           2,311
+                                                                       ----------    ----------      ----------
+           Net cash provided by operating activities                       23,879        14,040          11,953
+                                                                       ----------    ----------      ----------
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+   Proceeds from sale of property, plant and equipment                        200            11              40
+   Capital expenditures                                                    (9,017)      (10,744)         (6,689)
+                                                                       ----------    ----------      ----------
+           Net cash used in investing activities                           (8,817)      (10,733)         (6,649)
+                                                                       ----------    ----------      ----------
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+   Borrowings under revolving credit agreement                             56,290        68,219          60,875
+   Payments under revolving credit agreement                              (62,761)      (66,092)        (62,975)
+   Proceeds from long-term debt                                             2,500         5,048               -
+   Payments on long-term debt                                              (7,873)         (530)         (2,569)
+   Stock issued to employees                                                   25             -               -
+   Stock options exercised                                                    650           410             163
+   Repurchase of stock                                                     (2,787)      (10,370)           (798)
+                                                                       ----------    ----------      ----------
+           Net cash used in financing activities                          (13,956)       (3,315)         (5,304)
+                                                                       ----------    ----------      ----------
+
+NET INCREASE (DECREASE) IN CASH                                             1,106            (8)              -
+                                                                       ----------    ----------      ----------
+
+CASH AND CASH EQUIVALENTS, beginning of year                                   17            25              25
+                                                                       ----------    ----------      ----------
+
+CASH AND CASH EQUIVALENTS, end of year                                 $    1,123    $       17      $       25
+                                                                       ==========    ==========      ==========
+
+The accompanying notes are an integral part of these consolidated statements.
+</TABLE>
+
+                                      (21)
+<PAGE>
+
+AAON, INC.
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+DECEMBER 31, 2001 AND 2000
+(Dollar amounts in thousands, except share and per share information)
+
+1.  BUSINESS AND SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES:
+    --------------------------------------------------------
+
+AAON, Inc. (the Company, a Nevada corporation) is engaged in the manufacture and
+sale of commercial rooftop air conditioners, heating equipment and air
+conditioning coils through its wholly-owned subsidiaries AAON, Inc. (AAON, an
+Oklahoma corporation) and AAON Coil Products, Inc. (ACP, a Texas corporation).
+The consolidated financial statements include the accounts of the Company and
+its subsidiaries, AAON and ACP. All significant intercompany accounts and
+transactions have been eliminated.
+
+Revenue Recognition
+
+The Company recognizes revenues from sales of products at the time of shipment.
+Amounts billed to customers for shipping and handling costs are also included in
+revenues, consistent with EITF 00-10, "Accounting for Shipping and Handling Fees
+and Costs."
+
+Business and Credit Concentrations
+
+The Company's customers are concentrated primarily in the domestic commercial
+and industrial new construction and replacement markets. At December 31, 2001,
+two customers represented approximately 14% and 11%, respectively, of accounts
+receivable. At December 31, 2000, one customer represented approximately 10% of
+total accounts receivable. The Company reviews a customer's credit history
+before extending credit. The Company establishes an allowance for doubtful
+accounts based upon factors surrounding the credit risk of specific customers,
+historical trends and other information.
+
+Sales to customers representing 10% or greater of total sales consist of the
+following:
+
+                                              Years Ended December 31,
+                                              ------------------------
+                                           2001         2000        1999
+                                           ----         ----        ----
+
+         Home Depot                          10%          10%          *
+         Wal-Mart Stores, Inc.               14%          19%         23%
+         Target                              11%           *           *
+
+         *Less than 10%
+
+
+Cash and Cash Equivalents
+
+Cash and cash equivalents consists of bank deposits and $1.1 million in highly
+liquid, interest bearing money market funds with initial maturities of three
+months or less.
+
+Inventories
+
+Inventories are valued at the lower of cost or market. Cost is determined by the
+first-in, first-out (FIFO) method.
+
+                                      (22)
+<PAGE>
+
+Property, Plant and Equipment
+
+Property, plant and equipment are stated at cost. Maintenance, repairs and
+betterments, including replacement of minor items, are charged to expense; major
+additions to physical properties are capitalized. Property, plant and equipment
+are depreciated using the straight-line method over the following estimated
+useful lives:
+
+                                                          Years
+
+         Buildings                                        10-30
+         Machinery and equipment                           3-15
+         Furniture and fixtures                            2-5
+
+Warranties
+
+A provision is made for the estimated cost of warranty obligations at the time
+the related products are sold. Warranty expense was $5,792, $4,938 and $5,456
+for the years ended December 31, 2001, 2000 and 1999, respectively.
+
+Earnings Per Share
+
+Basic earnings per common share were computed by dividing net income by the
+weighted average number of shares of common stock outstanding during the
+reporting period. Diluted earnings per common share were determined based on the
+assumed exercise of dilutive options, as determined by applying the treasury
+stock method. For the year ended December 31, 2001 and 2000, 22,500 and 5,000
+options, respectively, were considered to be anti-dilutive. For the year ended
+December 31, 1999, all outstanding options were considered dilutive. A
+reconciliation of net income and weighted average shares (in thousands) used in
+computing basic and diluted earnings per share is as follows:
+
+                                                      Year Ended
+                                                  December 31, 2001
+                                        -------------------------------------
+                                                                    Per-Share
+                                         Income        Shares         Amount
+
+     Basic EPS                          $  14,156        8,661          $1.63
+     Net additional shares issuable             -          433              -
+                                        ---------      -------          -----
+
+     Diluted EPS                        $  14,156        9,094          $1.56
+                                        =========      =======          =====
+
+                                                      Year Ended
+                                                  December 31, 2000
+                                        -------------------------------------
+                                                                    Per-Share
+                                         Income        Shares         Amount
+
+     Basic EPS                          $  12,794        8,793          $1.46
+     Net additional shares issuable         -              471              -
+                                        ---------      -------          -----
+
+     Diluted EPS                        $  12,794        9,264          $1.38
+                                        =========      =======          =====
+
+
+                                                      Year Ended
+                                                  December 31, 1999
+                                        -------------------------------------
+                                                                     er-Share
+                                         Income        Shares         Amount
+
+     Basic EPS                          $   9,697        9,362          $1.04
+     Net additional shares issuable         -              328              -
+                                        ---------      -------          -----
+
+     Diluted EPS                        $   9,697        9,690          $1.00
+                                        =========      =======          =====
+
+                                      (23)
+<PAGE>
+
+Use of Estimates
+
+The preparation of financial statements in conformity with accounting principles
+generally accepted in the United States requires management to make estimates
+and assumptions that affect the reported amounts of assets and liabilities and
+disclosure of contingent assets and liabilities at the date of the financial
+statements and the reported amounts of revenues and expenses during the
+reporting period. Actual results could differ from those estimates.
+
+Stock Split
+
+Effective September 28, 2001, the Company completed a three-for-two stock split
+payable in the form of a 50% stock dividend. All stock and per share information
+for all periods presented have been adjusted to reflect the three-for-two stock
+split.
+
+Reclassifications
+
+Certain reclassifications have been made to the 2000 and 1999 financial
+statements to conform with the 2001 presentation. Such reclassifications did not
+impact total assets or net income.
+
+New Accounting Pronouncements
+
+In July 2001, the FASB issued Statement of Financial Accounting Standards No.
+141, "Business Combinations" (Statement 141), Statement of Financial Accounting
+Standards No. 142, "Goodwill and Other Intangible Assets" (Statement 142), and
+Statement of Financial Accounting Standards No. 143, "Accounting for Asset
+Retirement Obligations" (Statement 143). In October 2001, the FASB issued
+Statement of Financial Accounting Standards No. 144, "Accounting for the
+Impairment or Disposal of Long-Lived Assets" (Statement 144).
+
+Statement 141 requires that the purchase method of accounting be used for all
+business combinations initiated after June 30, 2001. Statement 142 requires that
+goodwill and intangible assets with indefinite useful lives no longer be
+amortized, but instead tested for impairment at least annually in accordance
+with the provisions of Statement 142. The Company is required to adopt the
+provisions of Statement 141 immediately, and Statement 142 effective January 1,
+2002. Goodwill acquired in business combinations completed before July 1, 2001,
+will continue to be amortized prior to the adoption of Statement 142. The
+adoption of Statement 141 and 142 had no material impact on the Company's
+results of operations or financial condition.
+
+Statement 143 requires entities to record the fair value of a liability for an
+asset retirement obligation in the period in which it is incurred and a
+corresponding increase in the carrying amount of the related long-lived asset.
+Statement 143 is effective for fiscal years beginning after June 15, 2002.
+Statement 144 retains the requirement to report discontinued operations
+separately and extends that reporting to a component of an entity that either
+has been disposed of or is classified as held for sale. Statement 144 is
+effective for fiscal years beginning after December 15, 2001, and for interim
+periods within those fiscal years. The Company is currently assessing the impact
+of Statements 143 and 144 on its financial condition and results of operations.
+
+                                      (24)
+<PAGE>
+
+<TABLE>
+Details to Consolidated Balance Sheets
+- --------------------------------------
+                                                               December 31,
+                                                               ------------
+                                                           2001           2000
+                                                        --------       --------
+<CAPTION>
+<S>                                                     <C>            <C>
+ACCOUNTS RECEIVABLE:
+   Accounts receivable                                  $ 24,252       $ 29,297
+   Less- allowance for doubtful accounts                     860          1,050
+                                                        --------       --------
+         Total, net                                     $ 23,392       $ 28,247
+                                                        ========       ========
+
+                                                               December 31,
+                                                               ------------
+                                                           2001           2000
+                                                        --------       --------
+INVENTORIES:
+   Raw materials                                        $ 10,376       $ 10,651
+   Work in process                                         2,258          1,967
+   Finished goods                                          1,687          3,472
+                                                        --------       --------
+                                                          14,321         16,090
+   Less-allowance for excess and obsolete inventories        850            950
+                                                        --------       --------
+         Total, net                                     $ 13,471       $ 15,140
+                                                        ========       ========
+
+PROPERTY, PLANT AND EQUIPMENT:
+   Land                                                 $    874       $    885
+   Buildings                                              16,893         16,594
+   Machinery and equipment                                35,331         27,869
+   Furniture and fixtures                                  3,197          3,175
+                                                        --------       --------
+                                                          56,295         48,523
+   Less- accumulated depreciation                         22,273         19,063
+                                                        --------       --------
+         Total, net                                     $ 34,022       $ 29,460
+                                                        ========       ========
+
+ACCRUED LIABILITIES:
+   Warranty                                             $  7,000       $  5,400
+   Commissions                                             3,295          3,427
+   Income taxes                                            1,048            933
+   Workers' compensation                                     314            890
+   Medical self-insurance                                    651            660
+   Other                                                   1,188          1,041
+                                                        --------       --------
+         Total                                          $ 13,496       $ 12,351
+                                                        ========       ========
+</TABLE>
+<TABLE>
+                                                        Years Ended December 31,
+                                                        ------------------------
+                                                    2001           2000          1999
+                                                 --------       --------      --------
+<CAPTION>
+<S>                                              <C>            <C>           <C>
+ALLOWANCE FOR DOUBTFUL ACCOUNTS:
+   Balance, beginning of period                  $  1,050       $    850      $    410
+   Provision for losses on accounts receivable        260            696           470
+   Accounts receivable written off,
+     net of recoveries                               (450)          (496)          (30)
+                                                 --------       --------      --------
+   Balance, end of period                        $    860       $  1,050      $    850
+                                                 ========       ========      ========
+
+
+                                                        Years Ended December 31,
+                                                        ------------------------
+                                                    2001           2000          1999
+                                                 --------       --------      --------
+ALLOWANCE FOR EXCESS AND OBSOLETE INVENTORIES:
+     Balance, beginning of period                $    950       $    900      $    350
+     Provision for excess and obsolete
+       inventories                                      -             50           550
+     Adjustments to reserve                          (100)             -             -
+                                                 --------       --------      --------
+     Balance, end of period                      $    850       $    950      $    900
+                                                 ========       ========      ========
+</TABLE>
+
+                                      (25)
+<PAGE>
+
+2.  SUPPLEMENTAL CASH FLOW INFORMATION:
+    -----------------------------------
+
+Interest payments of $892, $889 and $561 were made during the years ended
+December 31, 2001, 2000 and 1999, respectively. Payments for income taxes of
+$6,754, $6,375 and $6,234 were made during the years ended December 31, 2001,
+2000 and 1999, respectively.
+
+3.  DEBT:
+    -----
+Long-term debt at December 31, consists of the following:
+
+                                                            2001           2000
+                                                          -------        -------
+
+$15,150 unsecured bank line of credit, with interest
+   payable monthly at LIBOR plus 1.60% (3.47% at
+   December 31, 2001), due July 31, 2002.                 $   446        $ 6,917
+
+Notes payable, due in monthly installments of $36,
+   with interest ranging from 7.47% to 7.52% at
+   December 31, 2001, collateralized by machinery and
+   equipment.                                               1,423          6,796
+                                                          -------        -------
+                                                            1,869         13,713
+
+Less- current maturities                                      884          7,860
+                                                          -------        -------
+     Total long-term debt                                 $   985        $ 5,853
+                                                          =======        =======
+
+Maturities of long-term debt for each of the years ended December 31 are as
+follows:
+
+         2002                                  $   884
+         2003                                      438
+         2004                                      438
+         2005                                      109
+                                               -------
+                                               $ 1,869
+
+Based on the borrowing rates currently available to the Company for bank loans
+with similar terms and average maturities, the fair value of the long-term debt
+approximates the carrying value.
+
+4.  INCOME TAXES:
+    -------------
+
+The Company accounts for income taxes as required by Statement of Financial
+Accounting Standards No. 109, "Accounting for Income Taxes." Under this method,
+deferred tax liabilities and assets are determined based on the difference
+between the financial statement and income tax bases of assets and liabilities
+using currently enacted tax rates.
+
+The income tax provision consists of the following:
+
+                                              Years Ended December 31,
+                                       ------------------------------------
+                                         2001           2000           1999
+                                       ---------      --------       ------
+
+         Current                       $  7,855       $  7,692       $  6,164
+         Deferred                           475           (127)          (220)
+                                       --------       --------       --------
+                                       $  8,330       $  7,565       $  5,944
+                                       ========       ========       ========
+
+The reconciliation of the federal statutory income tax rate to the effective
+income tax rate is as follows:
+
+                                                 Years Ended December 31,
+                                             --------------------------------
+                                             2001          2000          1999
+                                             ----          ----          ----
+
+         Federal statutory rate               35%          35%            35%
+         State income taxes,
+           net of federal benefit              4            4              4
+         Employment credits                   (1)          (2)            (1)
+         Other                                (1)           -              -
+                                             ---          ---            ---
+                                              37%          37%            38%
+                                             ===          ===            ===
+
+                                      (26)
+<PAGE>
+
+The tax effect of temporary differences giving rise to the Company's deferred
+income taxes at December 31 are as follows:
+
+                                                         2001          2000
+                                                       -------       -------
+       Deferred tax assets -
+         Valuation reserves                            $   648       $   740
+         Warranty accrual                                2,653         1,998
+         Other accruals                                    746           958
+         Other, net                                         20            13
+                                                       -------       -------
+                                                       $ 4,067       $ 3,709
+                                                       =======       =======
+       Deferred tax liabilities -
+         Depreciation and amortization                 $ 2,884       $ 2,051
+                                                       =======       =======
+
+5.  BENEFIT PLANS:
+    --------------
+
+The Company maintains a stock option plan for key employees and directors and
+restricts 1,950,000 shares of common stock for issuance under the plan. Under
+the terms of this plan, the exercise price of shares granted will not be less
+than 85% of their fair market value at the date of the grant. The exercise price
+of all options granted was equal to the market price at the date of grant.
+Options granted vest at a rate of 20% per year, commencing one year after date
+of grant, and are exercisable for ten years. At December 31, 2001, 663,388
+shares were available for granting future options. For the years ending December
+31, 2001 and 2000, the Company reduced its income taxes payable by $985 and
+$559, respectively, as the result of nonqualified stock options exercised under
+the Company's stock option plan. The number and exercise price of options
+granted were as follows:
+
+                                                                     Weighted
+                                                                      Average
+                                                    Number        Exercise Price
+                                                  of Shares         Per Share
+                                                  ---------       --------------
+OUTSTANDING AT JANUARY 1, 1999                    1,108,313          $  3.77
+  Granted                                           450,750             8.43
+  Exercised                                         (71,363)            2.48
+  Cancelled                                         (31,500)            5.25
+                                               ------------          -------
+
+OUTSTANDING AT DECEMBER 31, 1999                  1,456,200             5.25
+  Granted                                             7,500            14.75
+  Exercised                                        (192,075)            2.15
+  Cancelled                                         (75,300)            7.50
+                                               ------------          -------
+
+OUTSTANDING AT DECEMBER 31, 2000                  1,196,325             5.66
+  Granted                                           131,250            17.24
+  Exercised                                        (177,875)            3.70
+  Cancelled                                         (46,400)            8.19
+                                               ------------          -------
+
+OUTSTANDING AT DECEMBER 31, 2001                  1,103,300          $  7.52
+                                               ============          =======
+
+                                      (27)
+<PAGE>
+
+<TABLE>
+The following is a summary of stock options outstanding as of December 31, 2001:
+
+                                          Options Outstanding                                 Options Exercisable
+                       ---------------------------------------------------------     ------------------------------------
+                            Number              Weighted           Weighted               Number              Weighted
+     Range of           Outstanding at           Average       Average Remaining      Exercisable at           Average
+  Exercise Prices      December 31, 2001     Exercise Price    Contractual Life      December 31, 2001     Exercise Price
+  ---------------      -----------------     --------------    -----------------     -----------------     --------------
+<CAPTION>
+<S>                           <C>               <C>                  <C>                   <C>                <C>
+       $.76                    41,250           $   .76               .2                    41,250            $  .76
+     3.00-5.08                489,300              4.41              5.1                   390,571              4.30
+     6.00-6.67                112,500              6.20              7.0                    60,000              6.15
+     7.50-8.67                321,500              8.52              7.6                   136,850              8.46
+    12.88-14.97                60,000             14.16              9.3                     1,500             14.75
+    18.53-20.10                78,750             19.35              9.7                         -                 -
+                            ---------           -------                                    -------            ------
+                            1,103,300           $  7.52                                    630,171            $ 5.17
+                            =========           =======                                    =======            ======
+</TABLE>
+
+The Company applies the disclosure-only provisions of Statement of Financial
+Accounting Standards No. 123, "Accounting for Stock-Based Compensation."
+Accordingly, no compensation cost has been recognized for the stock option
+plans. Had compensation cost for the Company's stock option plans been
+determined consistent with the provisions of Statement 123, the Company's net
+income and earnings per share would have been reduced to the pro forma amounts
+indicated below:
+
+                                              2001           2000          1999
+                                           --------        -------       -------
+       Net income:
+         As reported                       $ 14,156       $ 12,794       $ 9,697
+         Pro forma                         $ 13,581       $ 12,229       $ 9,299
+
+       Basic earnings per share:
+         As reported                       $   1.63       $   1.46       $  1.04
+         Pro forma                         $   1.57       $   1.39       $   .99
+
+       Diluted earnings per share:
+         As reported                       $   1.56       $   1.38       $  1.00
+         Pro forma                         $   1.49       $   1.32       $   .96
+
+The fair value of each option grant is estimated on the date of grant using the
+Black-Scholes option pricing model with the following weighted average
+assumptions:
+
+                                              2001           2000          1999
+                                            -------        -------       -------
+
+         Expected dividend yield                0%             0%            0%
+         Expected volatility                45.38%         51.99%        54.33%
+         Risk-free interest rate             5.04%          5.50%         6.09%
+         Expected life                       8 yrs          8 yrs         8 yrs
+
+
+The Company sponsors a defined contribution benefit plan. Employees can make
+contributions at a minimum of 1% and a maximum of 15% of compensation. The
+Company may, on a discretionary basis, contribute a Company matching
+contribution not to exceed 6% of compensation. The Company made matching
+contributions of $504, $493 and $329 in 2001, 2000 and 1999, respectively. The
+Company made additional discretionary contributions of $325, $1,308 and $1,150
+in the form of Company stock during 2001, 2000 and 1999, respectively.
+
+The Company maintains a discretionary profit sharing bonus plan under which 10%
+of pre-tax profit at each subsidiary is paid to eligible employees on a
+quarterly basis. Profit sharing expense was $2,507, $2,277 and $1,735, for the
+years ended December 31, 2001, 2000 and 1999, respectively.
+
+                                      (28)
+<PAGE>
+
+6.  STOCKHOLDER RIGHTS PLAN:
+    ------------------------
+
+During 1998, the Board of Directors adopted a Stockholder Rights Plan. The plan
+creates a dividend of one right for each outstanding share of the Company's
+common stock. The rights are traded with the Company's common stock. Generally,
+the rights become exercisable after a public announcement that a person has
+acquired, or a tender offer is made for, 20% or more of the common stock of the
+Company. If either of these events occur, each right will entitle the holder
+(other than a holder owning more than 20% of the outstanding stock) to buy the
+number of shares of the Company's common stock having a market value two times
+the exercise price. The exercise price is $60.
+
+The rights may be redeemed by the Company for $0.001 per right until a person or
+group has acquired 20% of the Company's common stock. The distribution of the
+rights were made to stockholders of record as of March 1, 1999.
+
+7.  CONTINGENCIES:
+    --------------
+
+The Company is subject to claims and legal actions that arise in the ordinary
+course of business. Management believes that the ultimate liability, if any,
+will not have a material effect on the Company's financial position or on the
+results of operations.
+
+8.  QUARTERLY RESULTS (Unaudited):
+    ------------------------------
+
+The following is a summary of the quarterly results of operations for the years
+ended December 31, 2001 and 2000:
+
+                                              Quarter Ended
+                                              -------------
+                             March 31      June 30    September 30   December 31
+                             --------      -------    ------------   -----------
+2001
+- ----
+Net sales                   $  39,435    $  41,520        $ 41,402      $ 34,895
+Gross profit                   11,262       10,882           8,733         7,976
+Net income                      3,576        3,816           3,523         3,241
+Earnings per share:
+   Basic                          .41          .44             .40           .37
+   Diluted                        .39          .42             .38           .36
+
+                                              Quarter Ended
+                                              -------------
+                             March 31      June 30    September 30   December 31
+                             --------      -------    ------------   -----------
+2000
+- ----
+Net sales                   $  35,465    $  39,388        $ 40,970      $ 39,159
+Gross profit                    8,835        8,563           8,889         8,462
+Net income                      3,045        3,328           3,409         3,012
+Earnings per share:
+   Basic                          .34          .38             .39           .35
+   Diluted                        .33          .36             .37           .33
+
+                                      (29)
+<PAGE>
+
+                                   EXHIBIT 23
+
+
+                    Consent of Independent Public Accountants
+
+
+
+As independent public accountants, we hereby consent to the incorporation of
+our report included in this Form 10-K, into the Company's previously filed
+Registration Statements on Form S-8 (File Nos. 33-78520, 333-52824 and
+333-23479)
+
+
+                                                       ARTHUR ANDERSEN LLP
+
+Tulsa, Oklahoma
+March 15, 2002
+
+                                      (30)
+<PAGE>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

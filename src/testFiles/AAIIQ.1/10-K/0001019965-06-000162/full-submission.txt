@@ -1,0 +1,470 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LqxiwskrvSfDW085Yj2Jzjai2++GN5HJLUMkIHuhHlVSiQekUF/zjyD3g6KFDjMw
+ fjfYyfxHWsSmcxPx0zUHpA==
+
+<SEC-DOCUMENT>0001019965-06-000162.txt : 20060331
+<SEC-HEADER>0001019965-06-000162.hdr.sgml : 20060331
+<ACCEPTANCE-DATETIME>20060330181129
+ACCESSION NUMBER:		0001019965-06-000162
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		5
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060330
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Greenwich HarborView Mortgage Loan Trust 2005-1
+		CENTRAL INDEX KEY:			0001319058
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-121661-05
+		FILM NUMBER:		06724618
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O NORWEST BANK MINNESOTA NA
+		STREET 2:		11000 BROKEN LAND PARKWAY
+		CITY:			COLUMBIA
+		STATE:			MD
+		ZIP:			21044
+		BUSINESS PHONE:		2036222700
+
+	MAIL ADDRESS:	
+		STREET 1:		600 STEAMBOAT ROAD
+		STREET 2:		GREENWICH CAPITAL MARKETS INC
+		CITY:			GREENWICH
+		STATE:			CT
+		ZIP:			06830
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>rpt10khview20051.htm
+<DESCRIPTION>10K
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>a - rpt10k</TITLE>
+<META name="generator" content="pdftohtml 0.36">
+<META name="author" content="EMEST">
+<META name="date" content="2006-03-30T15:27:02+00:00">
+</HEAD>
+<BODY  vlink="blue" link="blue">
+<p>
+<font size="2" face="Times">
+<!-- Page 1 -->
+<a name="1"></a>
+<DIV style="position:relative;width:918;height:1188;">
+<DIV style="position:absolute;top:129;left:327"><b>SECURITIES AND EXCHANGE COMMISSION</b></DIV>
+<DIV style="position:absolute;top:147;left:380"><b>Washington, D.C.  20549</b></DIV>
+<DIV style="position:absolute;top:111;left:407"><b>UNITED STATES</b></DIV>
+<DIV style="position:absolute;top:178;left:422"><b>FORM 10-K</b></DIV>
+<DIV style="position:absolute;top:210;left:111"><b>[ X ] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934 </b></DIV>
+<DIV style="position:absolute;top:264;left:111"><b>[    ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE ACT OF 1934</b></DIV>
+<DIV style="position:absolute;top:354;left:312">(Exact Name of Registrant as Specified in its Charter)</DIV>
+<DIV style="position:absolute;top:417;left:117">(State or Other Jurisdiction</DIV>
+<DIV style="position:absolute;top:431;left:143">Of Incorporation)</DIV>
+<DIV style="position:absolute;top:457;left:269">Registrant's telephone number, including area code:</DIV>
+<DIV style="position:absolute;top:484;left:326"><b>HarborView Mortgage Loan Trust 2005-1</b></DIV>
+<DIV style="position:absolute;top:336;left:345"><b>Greenwich Capital Acceptance, Inc.</b></DIV>
+<DIV style="position:absolute;top:399;left:161"><b>Delaware</b></DIV>
+<DIV style="position:absolute;top:417;left:289">(I.R.S. Employer</DIV>
+<DIV style="position:absolute;top:431;left:286">Identification No.)</DIV>
+<DIV style="position:absolute;top:399;left:296"><b>06-1199884</b></DIV>
+<DIV style="position:absolute;top:309;left:354">Commission File Number :</DIV>
+<DIV style="position:absolute;top:309;left:511"><b>333-121661-05</b></DIV>
+<DIV style="position:absolute;top:417;left:461">(Address of Principal Executive Offices)</DIV>
+<DIV style="position:absolute;top:399;left:524"><b>Greenwich, CT</b></DIV>
+<DIV style="position:absolute;top:381;left:502"><b>600 Steamboat Road</b></DIV>
+<DIV style="position:absolute;top:417;left:746">(Zip Code)</DIV>
+<DIV style="position:absolute;top:399;left:754"><b>06830</b></DIV>
+<DIV style="position:absolute;top:457;left:585">(203) 625-2700</DIV>
+<DIV style="position:absolute;top:654;left:113">Securities registered pursuant to Section 12(b) of the Act:</DIV>
+<DIV style="position:absolute;top:654;left:725">None</DIV>
+<DIV style="position:absolute;top:699;left:113">Indicate by check mark if the registrant is a well-known seasoned issuer, as defined in Rule 405 of <br>the Securities Act.</DIV>
+<DIV style="position:absolute;top:785;left:113">Indicate by check mark whether the registrant (1) has filed all reports required to be filed by Section 13 or <br>15(d) of the Securities Exchange Act of 1934 during the preceding 12 months (or for such shorter period <br>that the registrant was required to file such reports), and (2) has been subject to such filing requirements <br>for the past 90 days. </DIV>
+<DIV style="position:absolute;top:228;left:111">For the fiscal year ended December 31, 2005</DIV>
+<DIV style="position:absolute;top:246;left:450">or</DIV>
+<DIV style="position:absolute;top:282;left:114">For the transition period from _____________ to _____________</DIV>
+<DIV style="position:absolute;top:538;left:415">(Issuing Entity)</DIV>
+<DIV style="position:absolute;top:672;left:113">Securities registered pursuant to Section 12(g) of the Act:</DIV>
+<DIV style="position:absolute;top:672;left:725">None</DIV>
+<DIV style="position:absolute;top:740;left:113">Indicate by check mark  if the registrant is not required to file reports pursuant to Section 13 <br>or Section 15(d) of the Act.</DIV>
+<DIV style="position:absolute;top:857;left:113">Indicate by check mark  if disclosure of delinquent filers pursuant to Item 405 of Regulation S-K ( 229.405 <br>of this chapter) is not contained herein, and will not be contained, to the best of registrant's knowledge, in <br>definitive proxy or information statements incorporated by reference in Part III of this Form 10-K or any <br>amendment to this Form 10-K.                      </DIV>
+<DIV style="position:absolute;top:929;left:113">Indicate by check mark whether the registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer.</DIV>
+<DIV style="position:absolute;top:974;left:113">Indicate by check mark whether the registrant is a shell company (as defined in Rule 12b-2 of the Act).</DIV>
+<DIV style="position:absolute;top:713;left:707"><b>[  Yes]</b></DIV>
+<DIV style="position:absolute;top:502;left:323"><b>Mortgage Loan Pass-Through Certificates</b></DIV>
+<DIV style="position:absolute;top:520;left:413"><b>Series 2005-1</b></DIV>
+<DIV style="position:absolute;top:1055;left:111">Documents incorporated by reference:</DIV>
+<DIV style="position:absolute;top:1055;left:453"><b>None</b></DIV>
+<DIV style="position:absolute;top:1001;left:113">State the aggregate market value of the voting and non-voting common equity held by non-affiliates computed by <br>reference to the price at which the common equity was last sold, or the average bid and asked price of such <br>common equity, as of the last business day of the registrant's most recently completed second fiscal quarter. <b>Not Applicable.</b></DIV>
+<DIV style="position:absolute;top:713;left:765"><b>[X No]</b></DIV>
+<DIV style="position:absolute;top:753;left:707"><b>[  Yes] [X No]</b></DIV>
+<DIV style="position:absolute;top:830;left:707"><b>[X Yes] [  No]</b></DIV>
+<DIV style="position:absolute;top:897;left:707"><b>[X]</b></DIV>
+<DIV style="position:absolute;top:974;left:707"><b>[  Yes] [X No]</b></DIV>
+<DIV style="position:absolute;top:947;left:113"><b>Large accelerated filer [ ]</b></DIV>
+<DIV style="position:absolute;top:947;left:392"><b>Accelerated filer [ ]</b></DIV>
+<DIV style="position:absolute;top:947;left:635"><b>Non-accelerated filer [X]</b></DIV>
+<DIV style="position:absolute;top:582;left:315">(Exact Name of Depositor as Specified in its Charter)</DIV>
+<DIV style="position:absolute;top:627;left:320">(Exact Name of Sponsor as Specified in its Charter)</DIV>
+<DIV style="position:absolute;top:564;left:347"><b>Greenwich Capital Acceptance, Inc.</b></DIV>
+</DIV>
+<!-- Page 2 -->
+<a name="2"></a>
+<DIV style="position:relative;width:918;height:1188;">
+<DIV style="position:absolute;top:111;left:439"><b>PART I</b></DIV>
+<DIV style="position:absolute;top:142;left:111"><b>Item 1. Business.</b></DIV>
+<DIV style="position:absolute;top:165;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:192;left:111"><b>Item 1A. Risk Factors.</b></DIV>
+<DIV style="position:absolute;top:241;left:111"><b>Item 1B. Unresolved Staff Comments.</b></DIV>
+<DIV style="position:absolute;top:291;left:111"><b>Item 2. Properties.</b></DIV>
+<DIV style="position:absolute;top:340;left:111"><b>Item 3. Legal Proceedings.</b></DIV>
+<DIV style="position:absolute;top:363;left:161">There were no legal proceedings.</DIV>
+<DIV style="position:absolute;top:390;left:111"><b>Item 4. Submission of Matters to a Vote of Security Holders.</b></DIV>
+<DIV style="position:absolute;top:412;left:161">There were no matters submitted to a vote of the Security Holders.</DIV>
+<DIV style="position:absolute;top:214;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:313;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:264;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:466;left:111"><b>Item 5. Market for Registrant's Common Equity, Related Stockholder Matters and Issuer Purchases of Equity <br>Securities.</b></DIV>
+<DIV style="position:absolute;top:560;left:111"><b>Item 6. Selected Financial Data.</b></DIV>
+<DIV style="position:absolute;top:498;left:161">No established public trading market for the Certificates exists.</DIV>
+<DIV style="position:absolute;top:600;left:111"><b>Item 7. Management's Discussion and Analysis of Financial Condition and Results of Operation.</b></DIV>
+<DIV style="position:absolute;top:641;left:111"><b>Item 7A. Quantitative and Qualitative Disclosures About Market  Risk.</b></DIV>
+<DIV style="position:absolute;top:681;left:111"><b>Item 8. Financial Statements and Supplementary Data.</b></DIV>
+<DIV style="position:absolute;top:722;left:111"><b>Item 9. Changes in and Disagreements With Accountants on Accounting and Financial Disclosure.</b></DIV>
+<DIV style="position:absolute;top:762;left:111"><b>Item 9A. Controls and Procedures.</b></DIV>
+<DIV style="position:absolute;top:803;left:111"><b>Item 9B. Other Information.</b></DIV>
+<DIV style="position:absolute;top:659;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:439;left:437"><b>PART II</b></DIV>
+<DIV style="position:absolute;top:578;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:618;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:699;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:740;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:780;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:821;left:161">Not Applicable.</DIV>
+<DIV style="position:absolute;top:525;left:161">There are approximately</DIV>
+<DIV style="position:absolute;top:525;left:417">holders of record as of the end of the reporting year. </DIV>
+<DIV style="position:absolute;top:526;left:300">Sixty-seven (67)</DIV>
+<DIV style="position:absolute;top:879;left:113"><b>Item 10. Directors and Executive Officers of the Registrant.</b></DIV>
+<DIV style="position:absolute;top:920;left:113"><b>Item 11. Executive Compensation.</b></DIV>
+<DIV style="position:absolute;top:960;left:113"><b>Item 12. Security Ownership of Certain Beneficial Owners and Management and Related Stockholder Matters.</b></DIV>
+<DIV style="position:absolute;top:1001;left:113"><b>Item 13. Certain Relationships and Related Transactions.</b></DIV>
+<DIV style="position:absolute;top:1041;left:113"><b>Item 14. Principal Accounting Fees and Services.</b></DIV>
+<DIV style="position:absolute;top:848;left:433"><b>PART III</b></DIV>
+<DIV style="position:absolute;top:897;left:162">Not Applicable.</DIV>
+<DIV style="position:absolute;top:938;left:162">Not Applicable.</DIV>
+<DIV style="position:absolute;top:978;left:162">Not Applicable.</DIV>
+<DIV style="position:absolute;top:1019;left:162">Not Applicable.</DIV>
+<DIV style="position:absolute;top:1059;left:162">Not Applicable.</DIV>
+</DIV>
+<!-- Page 3 -->
+<a name="3"></a>
+<DIV style="position:relative;width:918;height:1188;">
+<DIV style="position:absolute;top:435;left:419"><b>SIGNATURES</b></DIV>
+<DIV style="position:absolute;top:453;left:113">Pursuant to the requirements of Section 13 or 15(d) of the Securities Exchange Act of 1934, the registrant has duly caused this <br>report to be signed on its behalf by the undersigned, thereunto duly authorized.</DIV>
+<DIV style="position:absolute;top:551;left:111">By (Signature and Title):</DIV>
+<DIV style="position:absolute;top:614;left:111">Date</DIV>
+<DIV style="position:absolute;top:502;left:113">(Registrant):</DIV>
+<DIV style="position:absolute;top:502;left:260"><b>Greenwich Capital Acceptance, Inc.</b></DIV>
+<DIV style="position:absolute;top:614;left:260"><b>   March 30, 2006                                                                                                                           </b></DIV>
+<DIV style="position:absolute;top:551;left:260"><b>  /s/ Robert McGinnis                                                                                                    </b></DIV>
+<DIV style="position:absolute;top:578;left:260"><b>Robert McGinnis</b></DIV>
+<DIV style="position:absolute;top:588;left:362"><b> </b></DIV>
+<DIV style="position:absolute;top:578;left:449"><b>President</b></DIV>
+<DIV style="position:absolute;top:165;left:125">a)    1. Not Applicable.</DIV>
+<DIV style="position:absolute;top:147;left:111"><b>Item 15. Exhibits, Financial Statement Schedules.</b></DIV>
+<DIV style="position:absolute;top:183;left:125">       2. Not Applicable.<br>       3. Exhibits.</DIV>
+<DIV style="position:absolute;top:385;left:125">b)    See (a) 3 above.<br>c)    Not Applicable.</DIV>
+<DIV style="position:absolute;top:115;left:435"><b>PART IV</b></DIV>
+<DIV style="position:absolute;top:219;left:125">       31.1 Sarbanes-Oxley Certification<br>       99.1 Independent Accountant's Servicing Report for the year ended December 31, 2005</DIV>
+<DIV style="position:absolute;top:286;left:125">       99.2 Report of Management as to compliance with minimum servicing standards for the year ended December 31, 2005</DIV>
+<DIV style="position:absolute;top:336;left:125">       99.3 Annual Statement of Compliance for the year ended December 31, 2005</DIV>
+<DIV style="position:absolute;top:265;left:188">a) Countrywide Home Loans Servicing LP, as Servicer</DIV>
+<DIV style="position:absolute;top:314;left:188">a) Countrywide Home Loans Servicing LP, as Servicer</DIV>
+<DIV style="position:absolute;top:364;left:188">a) Countrywide Home Loans Servicing LP, as Servicer</DIV>
+</DIV>
+<!-- Page 4 -->
+<a name="4"></a>
+<DIV style="position:relative;width:918;height:1188;">
+<DIV style="position:absolute;top:115;left:406"><b> Exhibit    Index</b></DIV>
+<DIV style="position:absolute;top:147;left:113">       31.1 Sarbanes-Oxley Certification<br>       99.1 Independent Accountant's Servicing Report for the year ended December 31, 2005</DIV>
+<DIV style="position:absolute;top:214;left:113">       99.2 Report of Management as to compliance with minimum servicing standards for the year ended December 31, 2005</DIV>
+<DIV style="position:absolute;top:264;left:113">       99.3 Annual Statement of Compliance for the year ended December 31, 2005</DIV>
+<DIV style="position:absolute;top:193;left:176">a) Countrywide Home Loans Servicing LP, as Servicer</DIV>
+<DIV style="position:absolute;top:242;left:176">a) Countrywide Home Loans Servicing LP, as Servicer</DIV>
+<DIV style="position:absolute;top:292;left:176">a) Countrywide Home Loans Servicing LP, as Servicer</DIV>
+</DIV>
+</font>
+</p>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1 CHARTER
+<SEQUENCE>2
+<FILENAME>ex991_usap.txt
+<DESCRIPTION>USAP
+<TEXT>
+EXHIBIT 99.1 -  Independent Accountant's Servicing Report for the year
+                ended December 31, 2005
+
+[KPMG logo]
+		KPMG LLP
+		Suite 2000
+		355 South Grand Avenue
+		Los Angeles, CA 90071-1568
+
+
+
+
+
+
+             		Independent Accountants' Report
+
+
+
+The Board of Directors
+Countrywide Financial Corporation:
+
+We have examined management's assertion, included in the accompanying
+Management Assertion, that Countrywide Financial Corporation and
+subsidiaries, including its wholly-owned subsidiary, Countrywide Home
+Loans, Inc. ("CHL"), and Countrywide Home Loans Servicing, L.P., a
+wholly-owned subsidiary of CHL,(collectively, the "Company") complied
+with the minimum servicing standards set forth in the Mortgage Bankers
+Association of America's Uniform Single Attestation Program for Mortgage
+Bankers (USAP) as of and for the year ended December 31, 2005. Management
+is responsible for the Company's compliance with those minimum servicing
+standards. Our responsibility is to express an opinion on management's
+assertion about the Company's compliance based on our examination.
+
+Our examination was conducted in accordance with attestation standards
+established by the American Institute of Certified Public Accountants and,
+accordingly, included examining, on a test basis, evidence about the
+Company's compliance with the minimum servicing standards specified above and
+performing such other procedures as we considered necessary in the
+circumstances. We believe that our examination provides a reasonable basis for
+our opinion. Our examination does not provide a legal determination on the
+Company's compliance with the minimum servicing standards.
+
+In our opinion, management's assertion that Countrywide Financial Corporation
+and subsidiaries, including its wholly-owned subsidiary, Countrywide Home
+Loans, Inc. ("CHL"), and Countrywide Home Loans Servicing, L.P., a
+wholly-owned subsidiary of CHL, complied with the aforementioned minimum
+servicing standards as of and for the year ended December 31, 2005 is fairly
+stated, in all material respects.
+
+
+
+
+		/s/ KPMG LLP
+
+
+March 3, 2006
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2 BYLAWS
+<SEQUENCE>3
+<FILENAME>ex992_reportofmanagement.txt
+<DESCRIPTION>REPORT OF MANAGEMENT
+<TEXT>
+Exhibit 99.2  -  Report of Management as to compliance with minimum
+		 servicing standards for the year ended December 31, 2005
+
+                                        Countrywide HOME LOANS [logo]
+
+				      2900 MADERA ROAD
+	                	      SIMI VALLEY, CALIFORNIA 93065-6298
+           	                      (805) 955-1000
+                 Management Assertion
+
+
+
+March 3, 2005
+
+As of and for the year ended December 31, 2005, Countrywide Financial
+Corporation and subsidiaries, including its wholly-owned subsidiary,
+Countrywide Home Loans, Inc. ("CHL"), and Countrywide Home Loans
+Servicing, L.P., a wholly-owned subsidiary of CHL, (collectively,
+the "Company") have complied in all material respects with the
+minimum servicing standards set forth in the Mortgage Bankers
+Association of America's Uniform Single Attestation for Mortgage
+Bankers. As of and for this same period, the Company had in effect
+a mortgage bankers' (fidelity) bond in the amount of $200 million
+and an errors and omissions policy in the amount of $100 million
+and $130 million for the period January 1, 2005 to August 1, 2005
+and for the period from August 1, 2005 to December 31, 2005,
+respectively.
+
+
+
+
+
+/s/ Steve Bailey
+Steve Bailey
+Senior Managing Director and
+Chief Executive Officer, Loan Administration
+
+
+
+
+/s/ Kevin Meyers
+Kevin Meyers
+Managing Director and Chief Financial Officer,
+Loan Administration
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.3 VOTING TRUST
+<SEQUENCE>4
+<FILENAME>ex993_compliance.txt
+<DESCRIPTION>COMPLIANCE
+<TEXT>
+Exhibit 99.3 - Annual Statement of Compliance for the year
+	       ended December 31, 2005
+
+						   [Countrywide
+						 HOME LOANS logo]
+
+						400 Countrywide Way
+		                 	Simi Valley, California 93065-6298
+
+
+March 10, 2006
+
+
+
+
+
+US BANK
+209 LASALLE ST 3 FL
+CHICAGO, IL 60604
+Attn: MIKE ORTIZ
+
+
+			OFFICER'S CERTIFICATE
+
+
+I, Joseph Candelario, hereby certify that I am the First Vice President, Loan
+Administration of Countrywide Home Loans, Inc., fka Countrywide Funding
+Corporation. I further certify, with respect to the Servicing Agreements for
+Countrywide Mortgage Obligations, Inc., the following:
+
+I have reviewed the activities and performance of the Servicer during the
+fiscal year ended December 31, 2005 under the Agreements and, to the best of
+my knowledge, based on my review, the Servicer has fulfilled all of its
+duties, responsibilities or obligations under the Agreements throughout
+the fiscal year.
+
+
+
+
+/s/ Joseph Candelario			March 10, 2006
+Joseph Candelario			Date
+First Vice President
+Compliance Officer
+Loan Administration
+
+
+
+
+re: Investor Numbers: 7003769, 7004068, 7005929, 7005930, 7005300, 7005301,
+7005187, 7005188, 7005757, 7005758, 7005859, 7005860, 7005482, 7005483,
+7006138, 7006139, 7006140, 7006141, 7008207 See Deal Name listing on following
+page.
+
+- ------------------------------------------------------------------
+
+						[Countrywide
+						 HOME LOANS logo]
+
+						400 Countrywide Way
+		                 	Simi Valley, California 93065-6298
+
+US BANK Deal Name Listing:
+
+7003769 - Harborview 2003-3
+7004068 - HVMLT 2004-2
+7008102 -  (FFMLT TRUST 2005-FF7)
+	- Harborview 2005-1
+	- Harborview 2005-2
+	- Harborview 2005-3
+	- Harborview 2005-8
+	- Harborview 2005-10
+	- Harborview 2005-12
+	- Harborview 2005-13
+	- Harborview 2005-16
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>5
+<FILENAME>rpt10khview20051sox.htm
+<DESCRIPTION>SOX
+<TEXT>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>rpt10kSOX_GREENWICH</TITLE>
+<META name="generator" content="pdftohtml 0.36">
+<META name="author" content="EMEST">
+<META name="date" content="2006-03-30T15:26:27+00:00">
+</HEAD>
+<BODY  vlink="blue" link="blue">
+<p>
+<font size="2" face="Times">
+<!-- Page 1 -->
+<a name="1"></a>
+<DIV style="position:relative;width:918;height:1188;">
+<DIV style="position:absolute;top:109;left:323"><b>Exhibit 31.1: Sarbanes-Oxley Certification</b></DIV>
+<DIV style="position:absolute;top:795;left:137">Date</DIV>
+<DIV style="position:absolute;top:150;left:110">I, Robert McGinnis, President of Greenwich Capital Acceptance, Inc., certify that:</DIV>
+<DIV style="position:absolute;top:181;left:133">I have reviewed this annual report on Form 10-K, and all reports on Form 8-K containing distribution or servicing reports <br>filed in respect of periods included in the year covered by this annual report, of</DIV>
+<DIV style="position:absolute;top:213;left:151">HarborView Mortgage Loan Trust 2005-1<br>Mortgage Loan Pass-Through Certificates<br>Series 2005-1</DIV>
+<DIV style="position:absolute;top:249;left:258">;</DIV>
+<DIV style="position:absolute;top:285;left:133">Based on my knowledge, the information in these reports, taken as a  whole, does not contain any untrue statement of a <br>material fact or omit to state a material fact necessary to make the statements made, in light of the circumstances under <br>which such statements were made, not misleading as of the last day of the period covered by this annual report;</DIV>
+<DIV style="position:absolute;top:352;left:133">Based on my knowledge, the distribution or servicing information required to be provided to the Trustee by the Servicer <br>under the pooling and servicing or similar, agreement, for inclusion in these reports is included in these reports;</DIV>
+<DIV style="position:absolute;top:406;left:133">Based on my knowledge and upon the annual compliance statement included in the report and required to be delivered to <br>the trustee in accordance with the terms of the pooling and servicing or similar, agreement, and except as disclosed in the <br>reports, the servicer has fulfilled its obligations under the servicing agreement; and</DIV>
+<DIV style="position:absolute;top:478;left:133">The reports disclose all significant deficiencies relating to the servicer's compliance with the minimum servicing standards <br>based upon the report provided by an independent public accountant, after conducting a review in compliance with the <br>Uniform Single Attestation Program for Mortgage Bankers or similar procedure, as set forth in the pooling and servicing, or <br>similar, agreement, that is included in these reports.</DIV>
+<DIV style="position:absolute;top:564;left:110">In giving the certifications above, I have reasonably relied on information provided to me by the following unaffiliated parties:</DIV>
+<DIV style="position:absolute;top:916;left:137">Title</DIV>
+<DIV style="position:absolute;top:600;left:142">U.S. Bank National Association, as Trustee</DIV>
+<DIV style="position:absolute;top:858;left:137">Signature</DIV>
+<DIV style="position:absolute;top:181;left:110">1.</DIV>
+<DIV style="position:absolute;top:285;left:110">2.</DIV>
+<DIV style="position:absolute;top:352;left:110">3.</DIV>
+<DIV style="position:absolute;top:406;left:110">4.</DIV>
+<DIV style="position:absolute;top:478;left:110">5.</DIV>
+<DIV style="position:absolute;top:768;left:137">March 30, 2006 </DIV>
+<DIV style="position:absolute;top:889;left:137">President</DIV>
+<DIV style="position:absolute;top:620;left:142">Countrywide Home Loans Servicing LP, as Servicer</DIV>
+<DIV style="position:absolute;top:824;left:137">/s/ Robert McGinnis </DIV>
+</DIV>
+</font>
+</p>
+</BODY>
+</HTML>
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

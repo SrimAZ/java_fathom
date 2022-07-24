@@ -1,0 +1,2554 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ KWrdIStq/3zEcNHfEOKJv/l9Aic71k8wAEIZo0JrzCYP+bchYsAN2AA6rhZUm/ts
+ fDtNMbJ0mHjAD3Rkl236Dg==
+
+<SEC-DOCUMENT>0001099910-06-000054.txt : 20060419
+<SEC-HEADER>0001099910-06-000054.hdr.sgml : 20060419
+<ACCEPTANCE-DATETIME>20060331175942
+ACCESSION NUMBER:		0001099910-06-000054
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20051231
+FILED AS OF DATE:		20060331
+DATE AS OF CHANGE:		20060419
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			REALMARK PROPERTY INVESTORS LIMITED PARTNERSHIP VI-A
+		CENTRAL INDEX KEY:			0000822783
+		STANDARD INDUSTRIAL CLASSIFICATION:	REAL ESTATE INVESTMENT TRUSTS [6798]
+		IRS NUMBER:				161309987
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-17466
+		FILM NUMBER:		06730604
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2350 N FOREST RD STE 21A
+		CITY:			GETZVILLE
+		STATE:			NY
+		ZIP:			14068
+		BUSINESS PHONE:		7166369090
+
+	MAIL ADDRESS:	
+		STREET 1:		2350 NORTH FOREST RD
+		CITY:			GETZVILLE
+		STATE:			NY
+		ZIP:			14068
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>realmarkvia-10k.txt
+<DESCRIPTION>ANNUAL REPORT
+<TEXT>
+                       SECURITIES AND EXCHANGE COMMISSION
+                             Washington, D.C. 20549
+
+                                    FORM 10-K
+
+[X]      ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+         EXCHANGE ACT OF 1934
+
+                   For the Fiscal Year Ended December 31, 2005
+                                             -----------------
+
+                                       or
+
+[ ]      TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+         AND EXCHANGE ACT OF 1934
+
+                    For the transition period from ___ to ___
+
+                         Commission File Number 0-17466
+
+              REALMARK PROPERTY INVESTORS LIMITED PARTNERSHIP - VIA
+              -----------------------------------------------------
+             (Exact Name of Registrant as specified in its Charter)
+
+         Delaware                                   16-1309987
+- ------------------------              --------------------------------------
+   (State of Formation)                  (IRS Employer Identification No.)
+
+                2350 North Forest Road Getzville, New York 14068
+                ------------------------------------------------
+                    (Address of Principal Executive Office)
+
+                 Registrant's Telephone Number: (716) 636-9090
+                                                 -------------
+
+Securities registered pursuant to Section 12(b) of the Act: None
+Securities registered pursuant to Section 12(g) of the Act: Units of Limited
+                                                            Partnership Interest
+
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act.
+         [ ] Yes                  [X] No
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act.
+         [ ] Yes                  [X] No
+
+Indicate by a check mark whether the Registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days.
+         [X] Yes                  [ ] No
+
+Indicate by a check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of the registrant's knowledge, in definitive proxy or information
+statements incorporated by reference in part III of this Form 10-K or any
+amendment to this Form 10-K.
+         [X]
+<PAGE>
+Indicate by a check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer. See definition of "accelerated
+filer" in Rule 12b-2 of the Exchange Act. (Check one):
+[ ] Large accelerated filer   [ ] Accelerated filer    [X] Non-accelerated filer
+
+Indicate by a check mark whether the registrant is a shell company (as defined
+in Rule 12b-2 of the Act).
+         [ ] Yes                  [X] No
+
+
+                       DOCUMENTS INCORPORATED BY REFERENCE
+        See Item 15 for a list of all documents incorporated by reference
+
+
+<PAGE>
+                                     PART I
+                                     ------
+
+
+ITEM 1: BUSINESS
+- ------- --------
+
+         The Registrant, Realmark Property Investors Limited Partnership-VI A
+(the "Partnership"), is a Delaware Limited Partnership organized in September
+1987 pursuant to an Amended and Restated Certificate and Agreement of Limited
+Partnership (the "Partnership Agreement"), under the Revised Delaware Uniform
+Limited Partnership Act. The Partnership's general partners are Realmark
+Properties, Inc. (the "Corporate General Partner"), a Delaware corporation, and
+Joseph M. Jayson (the "Individual General Partner").
+
+         The Registrant commenced the public offering of its limited partnership
+units, registered with the Securities and Exchange Commission under the
+Securities Act of 1933, as amended, on November 10, 1987, and concluded the
+offering on November 10, 1988, having raised a total of $15,737,790 before
+deducting sales commissions and expenses of the offering.
+
+         The Partnership's primary business and its only industry segment is to
+own and operate income-producing real property for the benefit of its partners.
+At December 31, 2005 the Partnership has a 50% joint partner interest in
+Research Triangle Industrial Park Joint Venture, which owns an
+office/distribution facility in Raleigh, North Carolina. On June 30, 2003, July
+31, 2003, and December 17, 2003, the Partnership sold Pomeroy Park Apartments,
+Inducon Columbia, and Stonegate Townhouses, respectively, to unaffiliated
+entities. Refer to Item 7 and the notes to the financial statements for details
+of these transactions.
+
+         It is anticipated that the Partnership's joint venture will be entering
+into a sales contract in the near future (one to six months) which will be
+subject to sales conditions which are customary for sales contracts and there is
+no assurance that the sale will be consummated.
+
+         The business of the Partnership is not seasonal and it competes on the
+basis of rental rates and property operations with similar types of properties
+in vicinities in which the Partnership's properties are located. The Partnership
+has no real property investments located outside the United States. The
+Partnership does not segregate revenue or assets by geographic region, since, in
+management's view, such a presentation would not be significant to an
+understanding of the Partnership's business or financial results taken as a
+whole. As of December 31, 2005, the Partnership did not directly employ any
+persons in a full-time position. All persons who regularly rendered services on
+behalf of the Partnership through December 31, 2005 were employees of the
+Corporate General Partner or its affiliates.
+
+The percent of total Partnership revenue generated by each complex for the last
+three years was as follows:
+
+                                      2005            2004           2003
+                                      ----            ----           ----
+
+Stonegate Townhouses                   -               -               48%
+Pomeroy Park                           -               -               28%
+Inducon Columbia                       -               -               24%
+
+         This annual report contains certain forward-looking statements
+concerning the Partnership's current expectations as to future results. Words
+such as "believes", "forecasts", "intends", "possible", "expects", "estimates",
+                                        2
+<PAGE>
+"anticipates" or "plans" and similar expressions are intended to identify
+forward-looking statements. Such statements may not ultimately turn out to be
+accurate due to, among other things, economic or market conditions or the
+failure of the Partnership to sell an investment which is under contract.
+
+ITEM 1A:  RISK FACTORS
+- --------  ------------
+
+         Investors or potential investors in Realmark Property Investors Limited
+Partnership - VIA should carefully consider the risks described below. These
+risks are not the only ones we face. Additional risks of which we are presently
+unaware or that we currently consider immaterial may also impair our business
+operations and hinder our financial performance, including our ability to make
+distributions to our investors. We have organized our summary of these risks
+into five subsections:
+
+         o  real estate related risks;
+         o  financing risks;
+         o  tax risks;
+         o  environmental and other legal risks; and
+         o  risks for investors.
+
+         This section includes forward-looking statements.
+
+                            Real Estate Related Risks
+
+We face substantial competition
+
+         The property of our joint venture is located in a developed area where
+we face substantial competition from other properties and from other real estate
+companies that own or may develop or renovate competing properties. The number
+of competitive properties and real estate companies could have a material
+adverse effect on our ability to rent our property and the rents we charge. In
+addition, the activities of these competitors and these factors could:
+
+         o  decrease the rental rates that we would be able to charge in the
+            absence of such direct competition; and
+         o  reduce the occupancy rates that we would otherwise be able to
+            achieve.
+
+         The factors could materially and adversely affect the value of our
+portfolio, our results of operations and our ability to pay amounts due on our
+debt and distributions to our investors.
+
+Changes in market or economic conditions may affect our business negatively
+
+         General economic conditions and other factors beyond our control may
+adversely affect real property income and capital appreciation. We are unable to
+determine the precise effect that the performance of the worldwide or United
+States economies will have on us or on the value of our property.
+
+Terrorism could impair our business
+
+         Terrorist attacks and other acts of violence or war could have a
+material adverse effect on our business and operating results. Attacks that
+directly affect our commercial property could significantly affect our ability
+to operate that property and impair our ability to achieve the results we
+expect. Our insurance coverage may not cover any losses caused by a terrorist
+attack. In addition, the adverse effects that such violent acts and threats of
+future attacks could have on the United States economy could similarly have a
+material adverse effect on our business and results of operations.
+                                        3
+<PAGE>
+Our commercial and office tenants may go bankrupt or be unable to make lease
+payments
+
+         Our operating revenues from our commercial property depend on entering
+into leases with and collecting rents from tenants. Economic conditions may
+adversely affect tenants and potential tenants in our market and, accordingly,
+could affect their ability to pay rents and possibly to occupy their space.
+Tenants may experience bankruptcies and various bankruptcy laws may reject those
+leases or terminate them. If leases expire or end, replacement tenants may not
+be available upon acceptable terms and conditions. In addition, if the market
+rental rates are lower than the previous contractual rates, our cash flows and
+net income could suffer a negative impact. As a result, if a significant number
+of our commercial or office tenants fail to pay their rent due to bankruptcy,
+weakened financial condition or otherwise, it would negatively affect our
+financial performance.
+
+Real estate properties are illiquid and may be difficult to sell, particularly
+in a poor market environment
+
+         Real estate investments are relatively illiquid, which tends to limit
+our ability to react promptly to changes in economic or other market conditions.
+Our ability to dispose of assets in the future will depend on prevailing
+economic and market conditions.
+
+Losses from natural catastrophes may exceed our insurance coverage
+
+         The joint venture carries comprehensive liability, fire, flood,
+extended coverage and rental loss insurance on the property, which we believe is
+customary in amount and type for real property assets. Some losses, however,
+generally of a catastrophic nature, such as losses from floods, may be subject
+to limitations. We may not be able to maintain our insurance at a reasonable
+cost or in sufficient amounts to protect us against potential losses. Further,
+our insurance costs could increase in future periods. If we suffer a substantial
+loss, our insurance coverage may not be sufficient to pay the full current
+market value or current replacement value of the lost investment. Inflation,
+changes in building codes and ordinances, environmental considerations and other
+factors also might make it impractical to use insurance proceeds to replace a
+damaged or destroyed property.
+
+                                 Financing Risks
+
+We may be unable to refinance our existing debt or we may only be able to do so
+on unfavorable terms
+
+         We are subject to the normal risks associated with debt financing,
+including:
+
+         o  the risk that our cash flow will be insufficient to meet required
+            payments of principal and interest; and
+         o  the risk that we will not be able to renew, repay or refinance our
+            debt when it matures or that the terms of any renewal or refinancing
+            will not be as favorable as the existing terms of that debt.
+
+                                    Tax Risks
+
+Our operating partnership may fail to be treated as a partnership for federal
+income tax purposes
+
+         Management believes that our operating partnership qualifies, and has
+qualified since its formation as a partnership for federal income tax purposes
+and not as a publicly traded partnership taxable as a corporation. We can
+                                        4
+<PAGE>
+provide no assurance, however, that the IRS will not challenge the treatment of
+the operating partnership as a partnership for federal income tax purposes or
+that a court would not sustain such a challenge. If the IRS were successful in
+treating the operating partnership as a corporation for federal income tax
+purposes, then the taxable income of the operating partnership would be taxable
+at regular corporate income tax rates.
+
+                       Environmental and Other Legal Risks
+
+We may have liability under environmental laws
+
+         Under federal, state and local environmental laws, ordinances and
+regulations, we may be required to investigate and clean up the effects of
+releases of hazardous or toxic substances or petroleum products at our
+properties, regardless of our knowledge or responsibility, simply because of our
+current or past ownership or operation of the real estate. Therefore, we may
+have liability with respect to properties we have already sold. If environmental
+problems arise, we may have to take extensive measures to remedy the problems,
+which could adversely affect our cash flow and our ability to pay distributions
+to our investors because:
+
+         o  we may have to pay for property damage and for investigation and
+            clean-up costs incurred in connection with the contamination;
+         o  the law typically imposes clean-up responsibility and liability
+            regardless of whether the owner or operator knew of or caused the
+            contamination;
+         o  even if more than one person may be responsible for the
+            contamination, each person who shares legal liability under the
+            environmental laws may be held responsible for all of the clean-up
+            costs; and
+         o  governmental entities or other third parties may sue the owner or
+            operator of a contaminated site for damages and costs.
+
+         These costs could be substantial and in extreme cases could exceed the
+value of the contaminated property. The presence of hazardous or toxic
+substances or petroleum products and the failure to remediate that contamination
+properly may materially and adversely affect our ability to borrow against, sell
+or rent an affected property. In addition, applicable environmental laws create
+liens on contaminated sites in favor of the government for damages and costs it
+incurs in connection with a contamination.
+
+We may face risks related to mold and asbestos
+
+         Recently, there has been an increasing number of lawsuits against
+owners and managers of properties alleging personal injury and property damage
+caused by the presence of mold in real estate.
+
+         Some of these lawsuits have resulted in substantial monetary judgments
+or settlements. Although our insurance policy currently does not exclude
+mold-related claims, we cannot provide any assurance that we will be able to
+obtain coverage in the future for those claims at a commercially reasonable
+price or at all. The presence of significant mold could expose us to liability
+to tenants and others if allegations regarding property damage, health concerns
+or similar claims arise.
+
+         Environmental laws also govern the presence, maintenance and removal of
+asbestos. Those laws require that owners or operators of buildings containing
+asbestos:
+
+         o  properly manage and maintain the asbestos;
+         o  notify and train those who may come into contact with asbestos; and
+                                        5
+<PAGE>
+         o  undertake special precautions, including removal or other abatement,
+            if asbestos would be disturbed during renovation or demolition of a
+            building.
+
+         Those laws may impose fines and penalties on building owners or
+operators who fail to comply with these requirements and may allow others to
+seek recovery from owners or operators for personal injury associated with
+exposure to asbestos fibers.
+
+We face risks in complying with Section 404 of the Sarbanes-Oxley Act of 2002
+
+         To comply with Section 404 of the Sarbanes-Oxley Act of 2002, we must
+furnish a report by our management on our internal controls over financial
+reporting with our annual report on Form 10-K for our fiscal year ending
+December 31, 2007. The report will contain, among other matters, an assessment
+of the effectiveness of our internal control over financial reporting as of the
+end of that fiscal year, including a statement as to whether or not our internal
+control over financial reporting is effective. This assessment must include
+disclosure of any material weaknesses in our internal control over financial
+reporting. Material weakness in internal controls over financial reporting is
+defined as "a significant deficiency, or a combination of significant
+deficiencies, that results in more than a remote likelihood that a material
+misstatement of the annual or interim financial statements will not be prevented
+or detected." The report will also contain a statement that our auditors have
+issued an attestation report on management's assessment of our internal
+controls.
+
+         Testing of our internal controls will begin no later than the second
+quarter of fiscal 2007. This testing will include documenting our procedures and
+an analysis of the segregation of duties. In the course of our evaluation and
+testing of internal controls, we may identify areas for improvement in the
+documentation, design and effectiveness of our internal controls, and these
+areas of improvement may be material. We may elect or be required to disclose
+those weaknesses before we have remediated them. We cannot assure you that we
+will not discover material weaknesses in the course of our testing and be
+required to disclose them. Given the risks inherent in the design and operation
+of internal controls over financial reporting, we can provide no assurance
+regarding our conclusions, or regarding the conclusions of our independent
+auditor, as of December 31, 2007 with respect to the effectiveness of our
+internal controls over financial reporting.
+
+Failure to comply with the Americans with Disabilities Act or other similar laws
+could result in substantial costs
+
+         A number of federal, state and local laws and regulations (including
+the Americans with Disabilities Act) may require modifications to existing
+buildings or restrict certain renovations by requiring improved access to such
+buildings by disabled persons and may require other structural features that add
+to the cost of buildings under construction. Legislation or regulations adopted
+in the future may impose further burdens or restrictions on us with respect to
+improved access by disabled persons. The costs of compliance with these laws and
+regulations may be substantial, and restrictions on construction or completion
+of renovations may limit implementation of our investment strategy in certain
+instances or reduce overall returns on our investments, which could have a
+material adverse effect on us and our ability to pay distributions to investors
+and to pay amounts due on our debt.
+
+                               Risks for Investors
+
+We do not pay regular distributions, and we do not anticipate making any
+                                        6
+<PAGE>
+distributions to investors for the indefinite future, other than in the winding
+down of the Partnership
+
+         Unlike other Partnerships that pay regular distributions, we have not
+paid regular distributions, and we presently have no plans to pay regular
+distributions. Since 2001, we have paid distributions only out of the proceeds
+of property sales as a result of the winding down of the Partnership.
+
+ITEM 1B: UNRESOLVED STAFF COMMENTS.
+- -------- --------------------------
+
+         None.
+
+ITEM 2:  PROPERTIES
+- -------  ----------
+
+         The Research Triangle Industrial Park Joint Venture owns a 117,000
+square foot office/warehouse distribution building in Raleigh, North Carolina.
+The building has been 100% occupied for several years. The tenant, whose lease
+expires on June 30, 2006, has notified the joint venture that it intends to
+vacate the facility upon expiration of the lease. The first mortgage loan on the
+property had a balance of $4,833,899 at December 31, 2005.
+
+ITEM 3:  LEGAL PROCEEDINGS
+- -------  -----------------
+
+         As previously reported, the Partnership, as a nominal defendant, the
+General Partners of the Partnership and of affiliated public partnerships, (the
+"Realmark Partnerships") and the officers and directors of the Corporate General
+Partner, as defendants, had been involved in a class action litigation at the
+state court level regarding the payment of fees and other management issues.
+
+         On August 29, 2001, the parties entered into a Stipulation of
+Settlement (the "Settlement"). On October 4, 2001, the Court issued an "Order
+Preliminary Approving Settlement" (the "Hearing Order") and on November 29,
+2001, the court issued an "Order and Final Judgment Approving Settlement and
+Awarding Fees and Expenses" and dismissing the complaints with predjudice. The
+Settlement provided, among other things, that:
+
+         o  The payable to the general partners and/or their affiliates by the
+            Realmark Property Investors Limited Partnership VI-A at March 31,
+            2001, in the amount of $481,598, cease to accrue interest.
+         o  All of the Realmark Partnerships' properties be disposed of. The
+            general partners will continue to have primary authority to dispose
+            of the Partnerships' properties. If either (i) the general partners
+            have not sold or contracted to sell 50% of the Partnerships'
+            properties (by value) by April 2, 2002 or (ii) the general partners
+            have not sold or contracted to sell 100% of the Partnerships'
+            properties by September 29, 2002, then the primary authority to
+            dispose of the Partnerships' properties will pass to a sales agent
+            designated by plaintiffs' counsel and approved by the Court. On
+            October 4, 2002, the Court appointed a sales agent to work with the
+            general partners to continue to sell the Partnership's remaining
+            properties.
+
+         The settlement also provided for the payment by the Partnerships of
+fees to the plaintiffs' attorneys. These payments, which are not calculable at
+this time but may be significant, are payable out of the proceeds from the sale
+of all of the properties owned by all of the Realmark Partnerships, following
+the sale of the last of these properties in each partnership. Plaintiffs'
+counsel will receive 15% of the amount by which the sales proceeds distributable
+                                        7
+<PAGE>
+to limited partners in each partnership exceeds the value of the limited
+partnership units in each partnership (based on the weighted average of the
+units' trading prices on the secondary market as reported by Partnership
+Spectrum for the period May through June 2001). In no event may the increase on
+which the fees are calculated exceed 100% of the market value of the units as
+calculated above.
+
+ITEM 4:  SUBMISSIONS OF MATTERS TO A VOTE OF SECURITY HOLDERS
+- -------  ----------------------------------------------------
+
+         None.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       8
+<PAGE>
+                                     PART II
+                                     -------
+
+ITEM 5:  MARKET FOR REGISTRANT'S UNITS OF LIMITED PARTNERSHIP INTEREST
+- -------  -------------------------------------------------------------
+
+         There is currently no active trading market for the units of limited
+partnership interest of the Partnership and it is not anticipated that any will
+develop in the future. Accordingly, information as to the market value of a unit
+at any given date is not available. As of December 31, 2005, there were 1,614
+record holders of units of limited partnership interest.
+
+         The Partnership is a limited partnership and, accordingly, does not pay
+dividends. It does, however, make distributions of cash to its partners. The
+partnership agreement provides for the distribution to the partners of net cash
+flow from operations. In connection with the pending sale of the Partnership's
+properties (Item 3), it is anticipated that there will be no future
+distributions of net cash flow from operations. All future distributions of net
+cash from sales proceeds will be distributed, to the extent available, 100% to
+the limited partners until there has been a return of the limited partner's
+capital contribution plus an amount sufficient to provide a 7%, not compounded,
+return on their adjusted capital contributions for all years following the
+termination of the offering of the units. It is anticipated that there will not
+be sufficient cash flow from the sale of the Partnership's remaining properties
+to provide this return to the limited partners. There were no distributions to
+partners made in 2005. In 2004 and 2003, the Partnership distributed $829,122
+and $2,500,000, respectively, to the limited partners.
+
+
+         The gain on the sale of the properties will be allocated in the same
+proportions as distributions of distributable cash from sale proceeds
+(anticipated to be 100% to the limited partners). In the event there is no
+distributable cash from sale proceeds, taxable income will be allocated 87% to
+the limited partners and 13% to the general partners. Any tax loss arising from
+a sale will be allocated 97% to the limited partners and 3% to the general
+partners. The above is subject to tax laws that were applicable at the time of
+the formation of the Partnership and may be adjusted due to subsequent changes
+in the Internal Revenue Code.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        9
+<PAGE>
+<TABLE>
+<CAPTION>
+ITEM 6: SELECTED FINANCIAL DATA
+- ------- -----------------------
+
+                                                          At or for the years ended December 31,
+                                   -------------------------------------------------------------------------------------
+                                         2005              2004             2003            2002             2001
+                                   -------------------------------------------------------------------------------------
+<S>                                <C>                      <C>            <C>              <C>            <C>
+BALANCE SHEET DATA
+Net rental property                $             -                 -                -       8,073,296      12,905,193
+Total assets                                81,743           199,801        1,280,856       9,196,400      13,826,176
+Mortgage loans payable                           -                 -                -       6,337,228      11,661,131
+Partners' equity (deficit)                 197,872           158,304        1,091,827         791,467         (26,884)
+                                   =====================================================================================
+OPERATING DATA
+Rental income                                    -                 -        1,529,090       3,250,092       3,935,066
+Other income                                 6,855            12,669          253,117         320,936         279,387
+                                   -------------------------------------------------------------------------------------
+Total revenue                                6,855            12,669        1,782,207       3,571,028       4,214,453
+                                   -------------------------------------------------------------------------------------
+Property operating costs                         -           134,343        1,309,329       2,948,185       2,975,319
+Interest expense                                 -                 -          470,866       1,039,007       1,129,347
+Administrative expenses                    120,792            75,005          442,584         696,913         831,885
+                                   -------------------------------------------------------------------------------------
+Total expenses                             120,792           209,348        2,222,779       4,684,105       4,936,551
+                                   -------------------------------------------------------------------------------------
+Loss before gain on sale of
+  properties and equity in joint
+  venture operations                      (113,937)         (196,679)        (440,572)     (1,113,077)       (722,098)
+Gain on sale of properties                       -                 -        3,108,929       1,797,168               -
+Equity in joint venture operations         153,505            92,278          132,003         134,260          52,893
+                                   -------------------------------------------------------------------------------------
+Net income (loss)                  $        39,568          (104,401)       2,800,360         818,351        (669,205)
+                                   =====================================================================================
+CASH FLOW DATA
+Net cash provided (used) by:
+Operating activities                       (55,377)         (253,094)      (1,843,939)       (860,011)        (63,983)
+Investing activities                             -                 -       11,635,414       6,381,641         103,443
+Financing activities                             -          (829,122)      (8,837,228)     (5,323,903)       (122,526)
+                                   -------------------------------------------------------------------------------------
+Net increase (decrease) in
+cash and equivalents               $       (55,377)       (1,082,216)         954,247         197,727         (83,066)
+                                   =====================================================================================
+PER LIMITED PARTNERSHIP UNIT:
+Net income (loss)                  $          0.24             (0.64)           17.85            3.90           (4.10)
+Distributions                      $             -              5.27            15.89               -               -
+                                   =====================================================================================
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                        10
+<PAGE>
+ITEM 7: MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+- ------- -----------------------------------------------------------------------
+        OF OPERATIONS
+        -------------
+
+Liquidity and Capital Resources
+- -------------------------------
+
+         Effective January 1, 2001, the Partnership began formally marketing all
+of its properties for sale. On June 30, 2003, the Partnership sold Pomeroy Park
+Apartments to an unaffiliated entity for cash of $4,000,000. After satisfaction
+of the $1,795,000 mortgage loan on the property, payment of closing costs, and
+the payment of a $150,000 termination fee, the net gain amounted to
+approximately $1,000,000. On July 31, 2003, the Partnership sold Inducon
+Columbia to an unaffiliated entity for cash of $3,150,000, resulting in a net
+loss of approximately $150,000. On December 17, 2003, the Partnership sold
+Stonegate Townhouses to an unaffiliated entity for cash of $5,150,000. After
+satisfaction of the $2,507,000 mortgage loan on the property and payment of
+closing costs, the net gain amounted to approximately $2,200,000. The sales
+proceeds enabled the Partnership to make a distribution to the limited partners
+in the last quarter of 2004 and 2003 in the amount of $829,122 and $2,500,000,
+respectively. There was no distribution in 2005. In accordance with the
+settlement of the lawsuit (Item 3) it is anticipated that with the sale of the
+remaining joint venture, the Partnership may be in a position to make
+distributions to the limited partners. These distributions will be reduced by
+the amount of fees payable to the plaintiffs' legal counsel in connection with
+the settlement agreement (Item 3), any outstanding liabilities and any mortgage
+prepayment penalties incurred with regard to the sale of the Partnership's joint
+venture.
+
+         Limited partners should be aware that it is possible that they will
+receive an allocation of income from gain on sale of properties on which they
+will be required to pay income taxes and there is no assurance that
+distributions from the sale of the properties will be sufficient to satisfy
+these obligations.
+
+         Except as described above and in the consolidated financial statements,
+the general partner is not aware of any trends or events, commitments or
+uncertainties that may impact liquidity in a material way.
+
+Results of Operations:
+- ----------------------
+
+         As a result of the sale of its remaining wholly-owned properties, the
+Partnership's rental operations ceased in 2003. Operations for the year ended
+December 31, 2005 primarily consisted of ownership of the joint investment,
+administrative costs, and professional fees.
+
+2005 as compared to 2004
+- ------------------------
+
+         As discussed above, the decrease in most components of the consolidated
+statements of operations was a result of the remaining wholly-owned properties
+being sold in 2003 and rental operations ceasing at the time of the sales. In
+2004, property operations expense primarily represented payments for legal fees,
+insurance costs and real estate taxes.
+
+2004 as compared to 2003
+- ------------------------
+
+         As discussed above, the decrease in most components of the consolidated
+                                       11
+<PAGE>
+statements of operations was a result of the remaining wholly-owned properties
+being sold in 2003 and rental operations ceasing at the time of the sales.
+Property operations expense primarily represented payments for legal fees,
+insurance costs and real estate taxes.
+
+Joint Venture
+- -------------
+
+         The Research Triangle Industrial Park Joint Venture experienced 100%
+occupancy in 2005 and 2004. Its 2005 net income increased by approximately
+$104,000 from the 2004 net income. Rental income increased approximately $12,000
+due to a increase in quarterly common area maintenance fees. Other income
+increased approximately $3,000 due to interest. Total expenses decreased
+approximately 11% mainly due to consulting fees, legal fees, commissions from
+the lease renewal and interest expense. Because the joint venture has had net
+income during each of the last three years, the Partnership's 50% equity has
+enabled the Partnership to receive a cash distribution from the Venture of
+$72,000 in 2003. In 2005 and 2004, the Venture used cash from operations to
+reduce long-term debt and outstanding accounts payable and accrued expenses and
+increase escrow deposits.
+
+ITEM 7A: QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+- -------  ----------------------------------------------------------
+
+         The Partnership invests only in short term money market instruments, in
+amounts in excess of daily working cash requirements. The rates of earnings on
+those investments increase or decrease in line with the general movement of
+interest rates. The mortgage loans on the Partnership's properties are fixed
+rate and therefore, are not subject to market risk.
+
+ITEM 8:  FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+- -------  -------------------------------------------
+
+         Listed under Item 15 of this report.
+
+ITEM 9: CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+- ------- ---------------------------------------------------------------
+        FINANCIAL DISCLOSURE
+        --------------------
+
+         None.
+
+ITEM 9A: CONTROLS AND PROCEDURES
+- -------- -----------------------
+
+         The Partnership maintains a set of disclosure controls and procedures
+designed to ensure that information required to be disclosed by the Partnership
+in reports that it files or submits under the Exchange Act is recorded,
+processed, summarized and reported within the time periods specified in
+Securities and Exchange Commission rules and forms. Within the 90-day period
+prior to the filing of this report, an evaluation was carried out under the
+supervision and with the participation of the Partnership's management,
+including the Partnership's Individual General Partner and Principal Financial
+Officer, of the effectiveness of the Partnership's disclosure controls and
+procedures. Based on that evaluation, the Partnership's Individual General
+Partner and Principal Financial Officer concluded that the Partnership's
+disclosure controls and procedures are effective.
+
+         Subsequent to the date of their most recent evaluation, there have been
+no significant changes in the Partnership's internal control over financial
+                                       12
+<PAGE>
+reporting or in other factors that could significantly affect the internal
+control over financial reporting.
+
+ITEM 9B: OTHER INFORMATION
+- -------- -----------------
+
+         None.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       13
+<PAGE>
+                                    PART III
+                                    --------
+
+ITEM 10:  DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+- --------  --------------------------------------------------
+
+         The Partnership, as an entity, does not have any directors or officers.
+The Individual General Partner of the Partnership is Joseph M. Jayson. The
+directors and executive officers of Realmark Properties, Inc., the Partnership's
+Corporate General Partner, as of December 31, 2005, are listed below. Each
+director is subject to election on an annual basis.
+<TABLE>
+<CAPTION>
+                          Title of All Positions Held with
+Name                      the Corporate General Partner                Year First Elected to Position
+- ----                      -----------------------------                ------------------------------
+<S>                        <C>                                                         <C>
+Joseph M. Jayson           Chairman of the Board, President                            1979
+                             and Treasurer
+
+Judith P. Jayson           Vice President and Director                                 1979
+</TABLE>
+         Joseph M. Jayson and Judith P. Jayson are married to each other.
+
+         The Directors and Executive Officers of the Corporate General Partner
+and their principal occupations and affiliations during the last five years or
+more are as follows:
+
+         Joseph M. Jayson, age 67, is Chairman, Director and sole stockholder of
+J. M. Jayson and Company, Inc. and certain of its affiliated companies: U.S.
+Apartments LLC, Westmoreland Capital Corporation, Oilmark Corporation and U.S.
+Energy Development Corporation. In addition, Mr. Jayson is Chairman of Realmark
+Corporation, Chairman, President and Treasurer of Realmark Properties, Inc.,
+wholly-owned subsidiaries of J. M. Jayson and Company, Inc. and co-general
+partner of Realmark Property Investors Limited Partnership, Realmark Property
+Investors Limited Partnership-II, Realmark Property Investors Limited
+Partnership-III, Realmark Property Investors Limited Partnership-IV, Realmark
+Property Investors Limited Partnership-V, Realmark Property Investors Limited
+Partnership-VI A, and Realmark Property Investors Limited Partnership-VI B. Mr.
+Jayson has been in the real estate business for the last 43 years and is a
+Certified Property Manager as designated by the Institute of Real Estate
+Management ("I.R.E.M."). Mr. Jayson received a B.S. Degree in Education in 1961
+from Indiana University, a Masters Degree from the University of Buffalo in
+1963, and has served on the educational faculty of the Institute of Real Estate
+Management. Mr. Jayson has for the last 43 years been engaged in various aspects
+of real estate brokerage and investment. He brokered residential properties from
+1962 to 1964, commercial investment properties from 1964 to 1967, and in 1967
+left commercial real estate to form his own investment firm. Since that time,
+Mr. Jayson and J. M. Jayson & Company, Inc. have formed or participated in
+various ways with forming over 30 real estate related limited partnerships. For
+the past 24 years, Mr. Jayson and an affiliate have also engaged in
+developmental drilling for gas and oil.
+
+         Judith P. Jayson, age 65, is currently Vice President and a Director of
+Realmark Properties, Inc. She is also a Director of the property management
+affiliate, Realmark Corporation. Mrs. Jayson has been involved in property
+management for the last 34 years and has extensive experience in the hiring and
+training of property management personnel and in directing, developing and
+implementing property management systems and programs. Mrs. Jayson, prior to
+joining the firm in 1973, taught business in the Buffalo, New York High School
+                                       14
+<PAGE>
+System. Mrs. Jayson graduated from St. Mary of the Woods College in Terre Haute,
+Indiana, with a degree in Business Administration.
+
+Audit Committee
+- ---------------
+
+         The Partnership has a separately-designated standing audit committee
+established in accordance with Section 3(a)(58)(A) of the Exchange Act. The
+members of the audit committee are Joseph M. Jayson and Duane Neyman, CPA.
+
+Audit Committee Financial Expert
+- --------------------------------
+
+         The Directors and Executive Officers of the Corporate General Partner
+have determined that Duane Neyman, CPA is an audit committee financial expert as
+defined by Item 401(h) of Regulation S-K of the Securities Exchange Act of 1934,
+as amended (the "Exchange Act"). Mr. Neyman is not independent within the
+meaning of Item 7(d)(3)(iv) of Schedule 14A of the Exchange Act due to limited
+circumstances, namely that the Partnership is small in size and there is limited
+personnel. Mr. Neyman is not independent as a result of being an employee of an
+affiliate of the Corporate General Partner.
+
+Code of Ethics
+- --------------
+
+         The Partnership has adopted a code of ethics for the partners,
+principal financial officer, and employees of the Corporate General Partner or
+its affiliates who render services on behalf of the Partnership. The Partnership
+will provide to any person without charge, upon request, a copy of the code of
+ethics which is available from:
+
+         Realmark Property Investors Limited Partnership - VIA
+         Attention:  Investor Relations
+         2350 North Forest Road
+         Getzville, New York 14068
+
+ITEM 11: EXECUTIVE COMPENSATION
+- -------- ----------------------
+
+         No direct remuneration was paid or payable by the Partnership to
+directors and officers (since it has no directors or officers), nor was any
+direct remuneration paid or payable by the Partnership to directors or officers
+of Realmark Properties, Inc., the Corporate General Partner and sponsor, for the
+year ended December 31, 2005. The Corporate General Partner and its affiliate,
+Realmark Corporation, are entitled to fees and to certain expense reimbursements
+with respect to Partnership operations, as set forth in Item 13 hereof and in
+the notes to the consolidated financial statements.
+
+ITEM 12: SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+- -------- --------------------------------------------------------------
+
+         No person is known to the Partnership to own of record or beneficially,
+more than 5% of the units of limited partnership interests of the Partnership,
+except for affiliates of the general partners that own 10,288.6 units of limited
+partnership interest amounting to approximately 6.5% of the Partnership interest
+at December 31, 2005. The general partners and the executive officers of the
+Corporate General Partners, as of December 31, 2005, owned 90 units of limited
+partnership interest. The general partners and affiliates will receive their
+proportionate share, as limited partners, of any distributable proceeds from the
+sale of the properties.
+
+                                       15
+<PAGE>
+ITEM 13: CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+- -------- ----------------------------------------------
+
+         The properties of the Partnership and its subsidiaries are managed
+by Realmark Corporation, an affiliate of the Partnership's corporate general
+partner, for a fee of generally 5% of annual net rental income of the
+properties. Realmark Corporation and the Corporate General Partner are also
+reimbursed for disbursements made on behalf of the Partnership. Those
+transactions are further described, and quantified, in the note to the
+consolidated financial statements entitled "Related Party Transactions."
+
+ITEM 14: PRINCIPAL ACCOUNTING FEES AND SERVICES
+- -------- --------------------------------------
+
+Audit Engagement: Toski, Schaefer & Co., P.C. was engaged as the Partnership's
+independent auditor for years 2005 and 2004. All fees incurred for the years
+ended December 31, 2005 and 2004 were approved by the Audit Committee.
+
+Audit Fees: Audit fees for the audit of the Partnership's annual financial
+statements included in the Partnership's annual report on Form 10-K and those
+financial statements included in the Partnership's quarterly reports on Form
+10-Q by Toski, Schaefer & Co., P.C. for the years ended December 31, 2005 and
+2004 totaled $39,000 and $37,000, respectively.
+
+Audit-Related Fees: None.
+
+Tax Fees: The Partnership engaged Toski, Schaefer & Co., P.C. to provide tax
+filing and compliance services during the years ended December 31, 2005 and
+2004. The fees for these service amounted to $4,435 and $6,835, respectively.
+
+All Other Fees: None.
+
+         The Audit Committee has set a policy that all fees incurred by the
+Partnership for services performed by its independent auditors must be
+pre-approved by the Audit Committee. All fees related to 2005 were pre-approved
+by the Audit Committee.
+
+         The Audit Committee oversees the Partnership's financial reporting
+process. Management has the primary responsibility for the financial statements
+and the financial reporting process, including the systems of internal controls.
+In fulfilling its oversight responsibilities, the Audit Committee reviewed the
+audited financial statements with management, including a discussion of the
+quality, not just the acceptability, of the accounting principles, the
+reasonableness of significant judgments and the clarity of disclosures in the
+financial statements.
+
+         The Audit Committee has the sole authority to retain and terminate the
+Partnership's independent auditors and approves all fees paid to the independent
+auditors. During 2005 and 2004, the Audit Committee reviewed with the
+independent auditors, who are responsible for expressing an opinion on the
+conformity of those audited financial statements with generally accepted
+accounting principles, their judgments as to the quality, not just the
+acceptability, of the Partnership's accounting principles and such other matters
+as are required to be discussed with the Audit Committee under generally
+accepted auditing standards. In addition, the Audit Committee has discussed with
+the independent auditors the auditors' independence from management and the
+Partnership, including the matters in the written disclosures required by the
+Independence Standards Board, and considered the scope and type of non-audit
+services provided by the auditor when reviewing the compatibility of those
+non-audit services with the auditors' independence.
+
+                                       16
+<PAGE>
+         The Audit Committee discussed with the Partnership's independent
+auditors the overall scope and plans for their audit. The Audit Committee meets
+with the independent auditors to discuss the results of their examination, their
+evaluations of the Partnership's internal controls, and the overall quality of
+the Partnership's financial reporting.
+
+         In reliance on the reviews and discussions referred to above, the Audit
+Committee recommended to the General Partners (and the General Partners have
+approved) that the audited financial statements be included in the annual report
+on Form 10-K for the year ended December 31, 2005.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       17
+<PAGE>
+                                     PART IV
+                                     -------
+
+ITEM 15: EXHIBITS, FINANCIAL STATEMENTS, SCHEDULES
+- --------------------------------------------------
+<TABLE>
+<CAPTION>
+(a)      Consolidated Financial Statements                                             Page
+         ---------------------------------                                             ----
+<S>      <C>                                                                            <C>
+         Independent Auditor's Report                                                   F-1
+         Consolidated Balance Sheets as of December 31, 2005 and 2004                   F-2
+         Consolidated Statements of Operations for the years ended
+           December 31, 2005, 2004 and 2003                                             F-3
+         Consolidated Statements of Partners' Equity for the years
+           ended December 31, 2005, 2004 and 2003                                       F-4
+         Consolidated Statements of Cash Flows for the years ended
+           December 31, 2005, 2004 and 2003                                             F-5
+         Notes to Consolidated Financial Statements                                     F-6
+
+         FINANCIAL STATEMENT SCHEDULE
+         ----------------------------
+
+         (i) Schedule III - Real Estate and Accumulated Depreciation                   F-14
+</TABLE>
+         All other schedules are omitted because they are not applicable or the
+         required information is shown in the consolidated financial statements
+         or the notes thereto.
+
+(b)      Exhibits
+         --------
+
+         2.   Plan of acquisition, reorganization, arrangement, liquidation, or
+              succession
+
+              (a) Stipulation of Settlement Agreement dated August 29, 2001 is
+                  incorporated herein by reference.
+
+              (b) Order and Final Judgment Approving Settlement and Awarding
+                  Fees and Expenses dated November 29, 2001 is incorporated
+                  herein by reference.
+
+         4.   Instruments defining the rights of security holders, including
+              indentures.
+
+              (a) Amended and Restated Certificate and Agreement of Limited
+                  Partnership filed with the Registration Statement of the
+                  Registrant Form S-11, filed September 30, 1987, and
+                  subsequently amended, incorporated herein by reference.
+
+         10.  Material contracts.
+
+              (a) Property Management Agreement with Realmark Corporation
+                  included with the Registration Statement, Form S-11, of the
+                  Registrant as filed and amended to date, incorporated herein
+                  by reference.
+
+         14.  Code of Ethics filed December 31, 2003, is incorporated herein by
+              reference.
+
+                                       18
+<PAGE>
+         21.  Subsidiaries of the Partnership is filed herewith.
+
+         31.  Certification Pursuant to Rule 13a-14(a), as Adopted Pursuant to
+              Section 302 of the Sarbanes-Oxley Act of 2002, is filed herewith.
+
+         32.  Certification Pursuant to 18 U.S.C. Section 1350, as Adopted
+              Pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, is
+              filed herewith.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       19
+<PAGE>
+                                   SIGNATURES
+                                   ----------
+
+
+         Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+
+REALMARK PROPERTY INVESTORS
+LIMITED PARTNERSHIP - VI A
+
+
+By:      /s/Joseph M. Jayson                                    March 31, 2006
+         -------------------                                    --------------
+         JOSEPH M. JAYSON,                                            Date
+         Individual General Partner
+
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+this report has been signed below by the following persons on behalf of the
+Registrant and in the capacities and on the dates indicated.
+
+
+By:      REALMARK PROPERTIES, INC.
+         Corporate General Partner
+
+         /s/Joseph M. Jayson                                    March 31, 2006
+         -------------------                                    --------------
+         JOSEPH M. JAYSON,                                            Date
+         President, Treasurer and Director
+
+
+         /s/Judith P. Jayson                                    March 31, 2006
+         -------------------                                    --------------
+         JUDITH P. JAYSON,                                            Date
+         Vice President and Director
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       20
+<PAGE>
+                          INDEPENDENT AUDITOR'S REPORT
+                          ----------------------------
+
+The Partners
+Realmark Property Investors Limited
+     Partnership - VI A:
+
+We have audited the accompanying consolidated balance sheets of Realmark
+Property Investors Limited Partnership - VI A and Subsidiaries as of December
+31, 2005 and 2004, and the related consolidated statements of operations,
+partners' equity, and cash flows for each of the three years in the period ended
+December 31, 2005. Our audits also included the financial statement schedule
+listed in the index at Item 15. These consolidated financial statements and
+financial statement schedule are the responsibility of the general partners. Our
+responsibility is to express an opinion on the consolidated financial statements
+and the financial statement schedule based on our audits.
+
+We conducted our audits in accordance with the standards of the Public Company
+Accounting Oversight Board (United States). Those standards require that we plan
+and perform the audit to obtain reasonable assurance about whether the financial
+statements are free of material misstatement. The Partnership is not required to
+have, nor were we engaged to perform, an audit of its internal control over
+financial reporting. Our audit included consideration of internal control over
+financial reporting as a basis for designing audit procedures that are
+appropriate in the circumstances but not for the purpose of expressing an
+opinion on the effectiveness of the Partnership's internal control over
+financial reporting. Accordingly, we express no such opinion. An audit also
+includes examining, on a test basis, evidence supporting the amounts and
+disclosures in the financial statements, assessing the accounting principles
+used and significant estimates made by management, as well as evaluating the
+overall financial statement presentation. We believe that our audits provide a
+reasonable basis for our opinion.
+
+In our opinion, the consolidated financial statements referred to above present
+fairly, in all material respects, the financial position of Realmark Property
+Investors Limited Partnership - VI A and Subsidiaries as of December 31, 2005
+and 2004, and the results of their operations and their cash flows for each of
+the three years in the period ended December 31, 2005, in conformity with
+accounting principles generally accepted in the United States of America. Also,
+in our opinion, the financial statement schedule, when considered in relation to
+the basic financial statements taken as a whole, presents fairly in all material
+respects the information set forth therein.
+
+As discussed in note 6 to the consolidated financial statements, the Partnership
+settled a class and derivative lawsuit in which it was involved. As a result of
+this settlement, the Partnership is currently in the process of winding up its
+operations and disposing of its investments. It is anticipated that this process
+will take place within the next twelve months.
+
+
+                                               /s/ TOSKI, SCHAEFER & CO., P.C.
+                                               ------------------------------
+                                               TOSKI, SCHAEFER & CO., P.C.
+
+
+Williamsville, New York
+March 31, 2006
+
+
+
+
+                                       F-1
+<PAGE>
+<TABLE>
+<CAPTION>
+             REALMARK PROPERTY INVESTORS LIMITED PARTNERSHIP - VI A
+                                AND SUBSIDIARIES
+
+                           Consolidated Balance Sheets
+                           December 31, 2005 and 2004
+
+
+
+                           Assets                                                          2005         2004
+                           ------                                                          ----         ----
+<S>                                                                                      <C>            <C>
+Cash and equivalents                                                                     $  76,743      132,120
+Receivable from affiliated parties                                                              --       62,681
+Other assets                                                                                 5,000        5,000
+                                                                                         ---------    ---------
+
+                           Total assets                                                  $  81,743      199,801
+                                                                                         =========    =========
+
+
+              Liabilities and Partners' Equity
+              --------------------------------
+
+Liabilities:
+     Accounts payable and accrued expenses                                                  35,911       47,823
+     Payable to affiliated parties                                                           7,791           --
+                                                                                         ---------    ---------
+
+                           Total liabilities                                                43,702       47,823
+                                                                                         ---------    ---------
+
+Equity in gains of unconsolidated joint
+     venture in excess of investment                                                      (159,831)      (6,326)
+
+Partners' equity (deficit):
+     General partners                                                                     (214,145)    (215,332)
+     Limited partners                                                                      412,017      373,636
+                                                                                         ---------    ---------
+
+                           Total partners' equity                                          197,872      158,304
+                                                                                         ---------    ---------
+
+                           Total liabilities and partner's equity                        $  81,743      199,801
+                                                                                         =========    =========
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+          See accompanying notes to consolidated financial statements.
+
+                                       F-2
+<PAGE>
+<TABLE>
+<CAPTION>
+             REALMARK PROPERTY INVESTORS LIMITED PARTNERSHIP - VI A
+                                AND SUBSIDIARIES
+
+                      Consolidated Statements of Operations
+                  Years Ended December 31, 2005, 2004 and 2003
+
+
+
+                                                                            2005           2004          2003
+                                                                            ----           ----          ----
+<S>                                                                       <C>           <C>            <C>
+Income:
+     Rental                                                               $       --            --     1,529,090
+     Interest and other                                                        6,855        12,669       253,117
+                                                                          ----------    ----------    ----------
+
+                           Total income                                        6,855        12,669     1,782,207
+                                                                          ----------    ----------    ----------
+Expenses:
+     Property operations                                                          --       134,343     1,309,329
+     Interest:
+         Affiliated parties                                                       --            --        53,242
+         Other                                                                    --            --       417,624
+     Administrative:
+         Affiliate parties                                                    29,481        20,206       201,225
+         Other                                                                91,311        54,799       241,359
+                                                                          ----------    ----------    ----------
+
+                           Total expenses                                    120,792       209,348     2,222,779
+                                                                          ----------    ----------    ----------
+
+Loss before gain on sale of properties and
+     equity in earnings of joint ventures                                   (113,937)     (196,679)     (440,572)
+
+Gain on sale of properties                                                        --            --     3,108,929
+
+Equity in earnings of joint ventures                                         153,505        92,278       132,003
+                                                                          ----------    ----------    ----------
+
+                           Net income (loss)                              $   39,568      (104,401)    2,800,360
+                                                                          ==========    ==========    ==========
+
+
+Net income (loss) per limited partnership unit                            $     0.24         (0.64)        17.85
+                                                                          ==========    ==========    ==========
+
+Distributions per limited partnership unit                                $       --          5.27         15.89
+                                                                          ==========    ==========    ==========
+
+Weighted average number of limited partnership
+     units outstanding                                                       157,378       157,378       157,378
+                                                                          ==========    ==========    ==========
+</TABLE>
+
+
+
+
+
+          See accompanying notes to consolidated financial statements.
+
+                                       F-3
+<PAGE>
+<TABLE>
+<CAPTION>
+             REALMARK PROPERTY INVESTORS LIMITED PARTNERSHIP - VI A
+                                AND SUBSIDIARIES
+
+                   Consolidated Statements of Partners' Equity
+                  Years Ended December 31, 2005, 2004 and 2003
+
+
+
+
+                                                                       General        Limited Partners
+                                                                       Partners     Units          Amount
+                                                                       --------     -----          ------
+<S>                                                                  <C>              <C>          <C>
+Balances at December 31, 2002                                        $ (202,943)      157,378      994,410
+
+Net income (loss)                                                        (9,257)           --    2,809,617
+
+Distributions                                                                --            --   (2,500,000)
+                                                                     ----------    ----------   ----------
+
+Balances at December 31, 2003                                          (212,200)      157,378    1,304,027
+
+Net loss                                                                 (3,132)           --     (101,269)
+
+Distributions                                                                --            --     (829,122)
+                                                                     ----------    ----------   ----------
+
+Balances at December 31, 2004                                          (215,332)      157,378      373,636
+
+Net income                                                                1,187            --       38,381
+                                                                     ----------    ----------   ----------
+
+Balances at December 31, 2005                                        $ (214,145)      157,378      412,017
+                                                                     ==========    ==========   ==========
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          See accompanying notes to consolidated financial statements.
+
+                                       F-4
+<PAGE>
+<TABLE>
+<CAPTION>
+             REALMARK PROPERTY INVESTORS LIMITED PARTNERSHIP - VI A
+                                AND SUBSIDIARIES
+
+                      Consolidated Statements of Cash Flows
+                  Years Ended December 31, 2005, 2004 and 2003
+
+                                                                                  2005            2004          2003
+                                                                                  ----            ----          ----
+<S>                                                                           <C>               <C>           <C>
+Cash flows from operating activities:
+     Net income (loss)                                                        $    39,568       (104,401)     2,800,360
+     Adjustments to reconcile net income (loss) to
+         net cash used in operating activities:
+              Amortization                                                             --             --         76,478
+              Equity in earnings of joint ventures                               (153,505)       (92,278)      (132,003)
+              Gain on sale of properties                                               --             --     (3,108,929)
+Changes in:
+                  Receivable from affiliated parties                               62,681        (62,681)            --
+                  Escrow deposits                                                      --             --        122,193
+                  Other assets                                                         --         61,520        (42,004)
+                  Accounts payable and accrued expenses                           (11,912)       (30,846)      (182,744)
+                  Accrued interest payable                                             --             --        (41,090)
+                  Payable to affiliated parties                                     7,791        (24,408)    (1,317,403)
+                  Security deposits and prepaid rents                                  --             --        (18,797)
+                                                                              -----------    -----------    -----------
+                           Net cash used in operating
+                               activities                                         (55,377)      (253,094)    (1,843,939)
+                                                                              -----------    -----------    -----------
+Cash flows from investing activities:
+     Proceeds from sale of properties                                                  --             --     11,221,312
+     Payments on note receivable                                                       --             --        348,234
+     Distributions received from joint venture                                         --             --         72,000
+     Additions to property and equipment                                               --             --         (6,132)
+                                                                              -----------    -----------    -----------
+                           Net cash provided by investing
+                               activities                                              --             --     11,635,414
+                                                                              -----------    -----------    -----------
+Cash flows from financing activities
+     Principal payments on mortgage loans                                              --             --     (6,337,228)
+     Distributions to partners                                                         --       (829,122)    (2,500,000)
+                                                                              -----------    -----------    -----------
+                           Net cash used in financing
+                               activities                                              --       (829,122)    (8,837,228)
+                                                                              -----------    -----------    -----------
+
+Net increase (decrease) in cash and equivalents                                   (55,377)    (1,082,216)       954,247
+
+Cash and equivalents at beginning of year                                         132,120      1,214,336        260,089
+                                                                              -----------    -----------    -----------
+
+Cash and equivalents at end of year                                           $    76,743        132,120      1,214,336
+                                                                              ===========    ===========    ===========
+Supplemental disclosure of cash flow information -
+     cash paid for interest                                                   $        --             --        443,767
+                                                                              ===========    ===========    ===========
+</TABLE>
+          See accompanying notes to consolidated financial statements.
+
+                                       F-5
+<PAGE>
+             REALMARK PROPERTY INVESTORS LIMITED PARTNERSHIP - VI A
+                                AND SUBSIDIARIES
+
+                   Notes to Consolidated Financial Statements
+                        December 31, 2005, 2004 and 2003
+
+
+(1)  Formation and Operation of Partnership
+- ---  --------------------------------------
+
+     Realmark Property Investors Limited Partnership-VI A (the Partnership) is a
+     Delaware limited partnership formed on September 21, 1987, to invest in a
+     diversified portfolio of income-producing real estate investments.
+
+     In 1987 and 1988, the Partnership sold, through a public offering, 157,378
+     units of limited partnership interest, including 30 units held by an
+     affiliate of the general partners, for $15,737,790. The general partners
+     are Realmark Properties, Inc. (the Corporate General Partner) and Joseph M.
+     Jayson (the Individual General Partner) who is the sole stockholder of J.M.
+     Jayson & Company, Inc. Realmark Properties, Inc. is a wholly-owned
+     subsidiary of J.M. Jayson & Company, Inc.
+
+     Under the partnership agreement, the general partners and their affiliates
+     can receive compensation for services rendered and reimbursement for
+     expenses incurred on behalf of the Partnership (note 4).
+
+(2)  Summary of Significant Accounting Policies
+- ---  ------------------------------------------
+
+     (a) Basis of Accounting and Consolidation
+     -----------------------------------------
+
+         The accompanying consolidated financial statements have been prepared
+         on the accrual basis of accounting in accordance with accounting
+         principles generally accepted in the United States of America and
+         include the accounts of the Partnership and its four subsidiaries, that
+         are wholly-owned:
+
+         (1)   Realmark - Columbia, LLC that owned Inducon-Columbia, a three
+               building office complex in Columbia, South Carolina, which was
+               sold in 2003.
+         (2)   Realmark - Beaver, LLC that owned Beaver Creek, an 80-unit
+               apartment complex located in Monaca, Pennsylvania, which was sold
+               in 2002.
+         (3)   Realmark - Countrybrook, LLC that owned Countrybrook Estates, a
+               240-unit apartment complex located in Louisville, Kentucky, which
+               was sold in 2002.
+         (4)   Realmark - Stonegate, LLC that owned Stonegate, a 130-unit
+               apartment complex located in Mobile, Alabama, which was sold in
+               2003.
+
+         The Partnership also owned a residential property, Pomeroy Park,
+         which was sold in 2003.
+
+         In consolidation, all intercompany accounts and transactions have been
+         eliminated.
+
+     (b) Estimates
+     -------------
+
+         The preparation of financial statements in conformity with generally
+                                       F-6
+<PAGE>
+             REALMARK PROPERTY INVESTORS LIMITED PARTNERSHIP - VI A
+                                AND SUBSIDIARIES
+
+              Notes to Consolidated Financial Statements, Continued
+
+
+(2)  Summary of Significant Accounting Policies, Continued
+- ---  -----------------------------------------------------
+
+     (b) Estimates, Continued
+     ------------------------
+
+         accepted accounting principles requires management to make estimates
+         and assumptions that affect certain reported amounts and disclosures.
+         Accordingly, actual results could differ from those estimates.
+
+     (c) Property and Equipment
+     --------------------------
+
+         At December 31, 2005, the Partnership had an interest in a joint
+         venture, as described in note 5. The Partnership reviews long-lived
+         assets for impairments whenever events or changes in circumstances
+         indicate that the carrying amount of the assets may not be recoverable.
+         In determining whether there is an impairment of long-lived assets, the
+         Partnership compares the sum of the expected future net cash flows
+         (undiscounted and without interest charges) to the carrying amount of
+         the assets. At December 31, 2005, no impairment in value has been
+         recognized.
+
+         The Partnership and its ventures' policy is to consider a property to
+         be held for sale or disposition when the Partnership or venture has
+         committed to a plan to sell or dispose of such property and active
+         marketing activity has commenced or is expected to commence in the near
+         term or the Partnership or venture has concluded that it may dispose of
+         the property by no longer funding operating deficits or debt service
+         requirements of the property thus allowing the lender to realize upon
+         its security. Any properties identified as "held for sale or
+         disposition" are no longer depreciated. All the properties were held
+         for sale in 2005, 2004 and 2003. Depreciation expense not recorded in
+         2003 amounted to $290,000.
+
+     (d) Cash and Equivalents
+     ------------------------
+
+         Cash and equivalents include money market accounts and any highly
+         liquid debt instruments purchased with a maturity of three months or
+         less.
+
+     (e) Unconsolidated Joint Venture
+     --------------------------------
+
+         The Partnership's investment in Research Triangle Joint Venture is an
+         unconsolidated joint venture which is accounted for on the equity
+         method. This joint venture is not consolidated in the Partnership's
+         financial statements because the Partnership is not the majority owner.
+
+     (f) Rental Income
+     -----------------
+
+         Rental income is recognized as earned according to the terms of the
+         leases. Leases for residential properties are generally for periods of
+                                       F-7
+<PAGE>
+             REALMARK PROPERTY INVESTORS LIMITED PARTNERSHIP - VI A
+                                AND SUBSIDIARIES
+
+              Notes to Consolidated Financial Statements, Continued
+
+
+(2)  Summary of Significant Accounting Policies, Continued
+- ---  -----------------------------------------------------
+
+     (f) Rental Income, Continued
+     ----------------------------
+
+         one year or less, payable monthly. Commercial leases are generally for
+         periods of one to five years. Delinquent residential property rent is
+         not recorded.
+
+     (g) Per Unit Data
+     -----------------
+
+         Per limited partnership unit data is based on the weighted average
+         number of limited partnership units outstanding for the year.
+
+     (h) Fair Value of Financial Instruments
+     ---------------------------------------
+
+         The fair value of the Partnership's financial instruments approximated
+         their carrying values at December 31, 2005.
+
+     (i) Income Allocation and Distributable Cash Flow
+     -------------------------------------------------
+
+         The partnership agreement provides that income not arising from sale
+         and refinancing activities and all partnership losses are to be
+         allocated 97% to the limited partners and 3% to the general partners.
+         Partnership income arising from sale or refinancing activities is
+         allocated in the same proportion as distributions or distributable cash
+         from sale proceeds. In the event there is no distributable cash from
+         sale proceeds, taxable income will be allocated 87% to the limited
+         partners and 13% to the general partners. The above is subject to tax
+         laws that were applicable at the time of the formation of the
+         Partnership and may be adjusted due to subsequent changes in the
+         Internal Revenue Code.
+
+         The partnership agreement also provides for the distribution to the
+         partners of net cash flow from operations. In connection with the
+         pending sale of the Partnership's properties (note 6), it is
+         anticipated that there will be no future distributions of net cash flow
+         from operations. Sale or refinancing proceeds are distributed to the
+         extent available, 100% to the limited partners until there has been a
+         return of the limited partner's capital contribution plus an amount
+         sufficient to provide a 7%, not compounded, return on their adjusted
+         capital contributions for all years following the termination of the
+         offering of the units. It is anticipated that there will not be
+         sufficient cash flow from the sale of the Partnership's remaining
+         properties to provide this return to the limited partners. There were
+         no distributions to partners made in 2005. Distributions amounting to
+         $829,122 and $2,500,000 were made in 2004 and 2003, respectively.
+
+                                       F-8
+<PAGE>
+             REALMARK PROPERTY INVESTORS LIMITED PARTNERSHIP - VI A
+                                AND SUBSIDIARIES
+
+              Notes to Consolidated Financial Statements, Continued
+
+
+(2)  Summary of Significant Accounting Policies, Continued
+- ---  -----------------------------------------------------
+
+     (j) Income Taxes
+     ----------------
+
+         No income taxes are included in the consolidated financial statements
+         since the taxable income or loss of the Partnership is reportable by
+         the partners on their income tax returns. At December 31, 2005, there
+         was no difference in the tax bases of the net assets.
+
+     (k) Segment Information
+     -----------------------
+
+         The Partnership's operating segments all involve the ownership and
+         operation of income-producing real property, and are aggregated into
+         one reporting segment.
+
+     (l) Recent Pronouncements
+     -------------------------
+
+         In May 2005, the FASB issued SFAS No. 154, "Accounting Changes and
+         Error Corrections - A Replacement of APB Opinion No. 20 and FASB
+         Statement No. 3" ("SFAS No. 154"). SFAS No. 154 requires the
+         retrospective application to prior periods' financial statements of
+         changes in accounting principle, unless it is impracticable to
+         determine either the period-specific effects or cumulative effect of
+         the accounting change. SFAS No. 154 also requires that a change in
+         depreciation, amortization, or depletion method for long-lived
+         non-financial assets be accounted for as a change in accounting
+         estimate affected by a change in accounting principle. SFAS No. 154 is
+         effective for accounting changes and corrections of errors made in
+         fiscal years beginning after December 15, 2005 and the Partnership will
+         adopt this provision, as applicable, during fiscal year 2006.
+         Management anticipates that the adoption of SFAS No. 154 will have no
+         effect on its financial statements.
+
+(3)  Investments in Real Estate
+- ---  --------------------------
+
+     On January 1, 2002, the Partnership adopted SFAS No. 144, "Accounting for
+     the Impairment or Disposal of Long-Lived Assets." SFAS No. 144 establishes
+     the accounting and reporting standards for the impairment or disposal of
+     long-lived assets by requiring those assets to be measured at the lower of
+     depreciated cost or fair value less selling costs, whether reported on
+     continuing operations or in discontinued operations. The adoption of this
+     standard did not have a material effect on the Partnership's consolidated
+     financial position or results of operations for the year ended December 31,
+     2002.
+
+     On December 17, 2003, the Partnership sold Stonegate Townhouses to an
+     unaffiliated entity for $5,150,000 and recognized a related gain on the
+     sale amounting to $2,218,212.
+
+                                       F-9
+<PAGE>
+             REALMARK PROPERTY INVESTORS LIMITED PARTNERSHIP - VI A
+                                AND SUBSIDIARIES
+
+              Notes to Consolidated Financial Statements, Continued
+
+(3)  Investments in Real Estate, Continued
+- ---  -------------------------------------
+
+     On July 31, 2003, the Partnership sold Inducon Columbia to an unaffiliated
+     entity for $3,150,000 and recognized a related loss on the sale amounting
+     to $148,695.
+
+     On June 30, 2003, the Partnership sold Pomeroy Park Apartments to an
+     unaffiliated entity for $4,000,000 and recognized a related gain on the
+     sale amounting to $1,039,412.
+
+     All of the properties were classified as property held for sale prior to
+     the adoption of SFAS No. 144 and continued to be actively marketed for
+     sale. Accordingly, their results of operations have been recorded in
+     continuing operations.
+
+(4)  Related Party Transactions
+- ---  --------------------------
+
+     The Corporate General Partner and its affiliates earn fees, principally for
+     property and partnership management and are reimbursed for services
+     rendered to the Partnership, as provided for in the partnership agreement.
+     A summary of those items follows:
+<TABLE>
+<CAPTION>
+                                                                         2005         2004        2003
+                                                                         ----         ----        ----
+<S>                                                                   <C>             <C>        <C>
+         Property management fees based on a percent-
+           age (generally 5%) of rental income                        $        -          -      79,745
+
+         Reimbursement for cost of services to the
+           Partnership that include investor relations,
+           marketing of properties, professional fees,
+           communications, supplies, accounting,
+           printing, postage and other items                              29,481     20,206     121,480
+                                                                      ----------     ------     -------
+
+                                                                      $   29,481     20,206     201,225
+                                                                      ==========     ======     =======
+</TABLE>
+     In addition to the above, other properties specific expenses such as
+     payroll, benefits, etc. are charged to property operations on the
+     Partnership's consolidated statements of operations. On January 1, 2005,
+     the interest rate on related party transactions was adjusted from 11% to
+     8%. Receivables from and payables to affiliated parties are due on demand
+     and bear interest at 8% in 2005 and 11% in 2004.
+
+     Property Disposition Fees
+     -------------------------
+
+     The general partners are also allowed to collect a property disposition fee
+     upon sale of acquired properties. This fee is not to exceed the lesser of
+     50% of amounts customarily charged in arm's-length transactions by others
+     rendering similar services for comparable properties or 3% of the sales
+     price. The property disposition fee is subordinate to payments to the
+                                      F-10
+<PAGE>
+             REALMARK PROPERTY INVESTORS LIMITED PARTNERSHIP - VI A
+                                AND SUBSIDIARIES
+
+              Notes to Consolidated Financial Statements, Continued
+
+(4)  Related Party Transactions, Continued
+- ---  -------------------------------------
+
+     Property Disposition Fees, Continued
+     ------------------------------------
+
+     limited partners of a cumulative annual return (not compounded) equal to 7%
+     of their average adjusted capital balances and to repayment to the limited
+     partners of an amount equal to their original capital contributions. Since
+     these conditions described above have not been met, no disposition fees
+     have been paid or accrued on properties sold in prior years.
+
+     Distributions
+     -------------
+
+     U.S. Apartments, LLC, is an affiliated company in which the Individual
+     General Partner of Realmark Property Investors Limited Partnership - VIA is
+     the sole member. U.S. Apartments, LLC owns 9,811.1 units of limited
+     partnership interest and received its proportionate share of distributable
+     proceeds amounting to $50,138 and $155,853 in 2004 and 2003, respectively,
+     from the sale of properties (note 3).
+
+(5)  Investment in Unconsolidated Joint Venture
+- ---  ------------------------------------------
+
+     The Partnership has a 50% interest in a joint venture with Realmark
+     Property Investors Limited Partnership - II (RPILP - II), an entity
+     affiliated through common general partners. The Venture owns and operates
+     the Research Triangle Industrial Park West, an office/warehouse facility
+     located in Research Triangle Park, North Carolina. The joint venture
+     agreement provides that any income, loss, gain, cash flow, or sale proceeds
+     be allocated 50% to the Partnership and 50% to RPILP - II.
+
+     The Research Triangle Industrial Park West facility has been 100% occupied
+     by one tenant for several years. The tenant, whose lease expires on June
+     30, 2006, has notified the joint venture that it intends to vacate the
+     facility upon the expiration of the lease.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      F-11
+<PAGE>
+             REALMARK PROPERTY INVESTORS LIMITED PARTNERSHIP - VI A
+                                AND SUBSIDIARIES
+
+              Notes to Consolidated Financial Statements, Continued
+
+
+(5)  Investment in Unconsolidated Joint Venture, Continued
+- ---  -----------------------------------------------------
+
+     Summary financial information for the Venture follows:
+<TABLE>
+<CAPTION>
+                            Balance Sheet Information
+                            -------------------------
+                                                                                            December 31,
+                                                                                            ------------
+              Assets                                                                    2005           2004
+              ------                                                                    ----           ----
+<S>                                                                                  <C>             <C>
+Property, net of accumulated depreciation                                            $ 1,737,281      1,737,281
+Cash and equivalents                                                                      27,156             --
+Escrow deposits                                                                          780,049        731,672
+Other assets                                                                             299,428        241,414
+                                                                                     -----------    -----------
+
+                      Total assets                                                   $ 2,843,914      2,710,367
+                                                                                     ===========    ===========
+
+         Liabilities and Partners' Deficit
+         ---------------------------------
+
+Liabilities:
+    Mortgage loan payable                                                              4,833,899      4,952,588
+    Accounts payable and accrued expenses                                                 22,030         76,804
+                                                                                     -----------    -----------
+
+                      Total liabilities                                                4,855,929      5,029,392
+                                                                                     -----------    -----------
+
+Partners' deficit:
+    The Partnership                                                                   (1,105,423)    (1,258,928)
+    RPILP - II                                                                          (906,592)    (1,060,097)
+                                                                                     -----------    -----------
+
+                      Total partners' deficit                                         (2,012,015)    (2,319,025)
+                                                                                     -----------    -----------
+
+                      Total liabilities and partners' deficit                        $ 2,843,914      2,710,367
+                                                                                     ===========    ===========
+</TABLE>
+
+
+
+
+
+
+
+
+
+
+
+                                      F-12
+<PAGE>
+             REALMARK PROPERTY INVESTORS LIMITED PARTNERSHIP - VI A
+                                AND SUBSIDIARIES
+
+              Notes to Consolidated Financial Statements, Continued
+
+(5)  Investment in Unconsolidated Joint Venture, Continued
+<TABLE>
+<CAPTION>
+                              Operating Information
+                              ---------------------
+
+                                                                               Years ended December 31,
+                                                                               ------------------------
+                                                                         2005           2004          2003
+                                                                         ----           ----          ----
+<S>                                                                    <C>             <C>            <C>
+Income:
+    Rental                                                             $988,564        976,950        984,634
+    Other                                                                 5,215          1,772          2,231
+                                                                       --------       --------       --------
+
+                      Total income                                      993,779        978,722        986,865
+                                                                       --------       --------       --------
+Expenses:
+    Property operations                                                 201,853        254,302        201,803
+    Interest                                                            404,365        418,830        427,613
+    Administrative:
+         Affiliated parties                                              56,845         58,617         59,078
+         Other                                                           23,706         44,017         15,965
+                                                                       --------       --------       --------
+
+                      Total expenses                                    686,769        775,766        704,459
+                                                                       --------       --------       --------
+
+                      Net income                                       $307,010        202,956        282,406
+                                                                       ========       ========       ========
+
+Allocation of net income:
+    The Partnership                                                     153,505        101,478        141,203
+    RPILP - II                                                          153,505        101,478        141,203
+                                                                       --------       --------       --------
+
+                      Total                                            $307,010        202,956        282,406
+                                                                       ========       ========       ========
+</TABLE>
+     A reconciliation of the Partnership's investment in the Research Triangle
+     Joint Venture is as follows:
+<TABLE>
+<CAPTION>
+                                                                      2005           2004         2003
+                                                                      ----           ----         ----
+<S>                                                                 <C>            <C>          <C>
+Investment in joint venture at beginning of year                    $  6,326       (85,952)     (145,955)
+Distributions from joint venture                                          --            --       (72,000)
+Amortization of excess purchase price                                     --        (9,200)       (9,200)
+Allocation of net income                                             153,505       101,478       141,203
+                                                                    --------      --------      --------
+Gains (losses) in excess of investment in joint
+    venture at end of year                                          $159,831         6,326       (85,952)
+                                                                    ========      ========      ========
+</TABLE>
+                                      F-13
+<PAGE>
+             REALMARK PROPERTY INVESTORS LIMITED PARTNERSHIP - VI A
+                                AND SUBSIDIARIES
+
+              Notes to Consolidated Financial Statements, Continued
+
+(6)  Settlement of Lawsuit
+- ---  ---------------------
+
+     As previously reported, the Partnership, as a nominal defendant, the
+     general partners of the Partnership and of affiliated public partnerships
+     (the "Realmark Partnerships") and the officers and directors of the
+     Corporate General Partner, as defendants, had been involved in a class
+     action litigation at the state court level regarding the payment of fees
+     and other management issues.
+
+     On August 29, 2001, the parties entered into a Stipulation of Settlement
+     (the "Settlement"). On October 4, 2001, the Court issued an "Order
+     Preliminarily Approving Settlement" (the "Hearing Order") and on November
+     29, 2001, the court issued an "Order and Final Judgment Approving
+     Settlement and Awarding Fees and Expenses" and dismissing the complaints
+     with predjudice. The Settlement provided, among other things, that:
+
+     o    The payable to the general partners and/or their affiliates by
+          Realmark Property Investors Limited Partnership - VI A at March 31,
+          2001, in the amount of $481,598, cease to accrue interest.
+     o    All of the Realmark Partnerships' properties be disposed of. The
+          general partners will continue to have primary authority to dispose of
+          the Partnerships' properties. If either (i) the general partners have
+          not sold or contracted to sell 50% of the Partnerships' properties (by
+          value) by April 2, 2002 or (ii) the general partners have not sold or
+          contracted to sell 100% of the Partnerships' properties by September
+          29, 2002, then the primary authority to dispose of the Partnerships'
+          properties will pass to a sales agent designated by plaintiffs'
+          counsel and approved by the Court. On October 4, 2002, the Court
+          appointed a sales agent to work with the general partners to continue
+          to sell the Partnerships' remaining properties.
+
+     The settlement also provided for the payment by the Partnerships of fees to
+     the plaintiffs' attorneys. These payments, which are not calculable at this
+     time but may be significant, are payable out of the proceeds from the sale
+     of all of the properties owned by all of the Realmark Partnerships,
+     following the sale of the last of these properties in each partnership.
+     Plaintiffs' counsel will receive 15% of the amount by which the sales
+     proceeds distributable to limited partners in each partnership exceeds the
+     value of the limited partnership units in each partnership (based on the
+     weighted average of the units' trading prices on the secondary market as
+     reported by Partnership Spectrum for the period May through June 2001). In
+     no event may the increase on which the fees are calculated exceed 100% of
+     the market value of the units as calculated above.
+
+
+
+
+
+
+
+
+
+
+
+
+                                      F-14
+<PAGE>
+                                  Schedule III
+                                  ------------
+
+             REALMARK PROPERTY INVESTORS LIMITED PARTNERSHIP - VI A
+                                AND SUBSIDIARIES
+
+                    Real Estate and Accumulated Depreciation
+                                December 31, 2005
+
+
+
+
+
+<TABLE>
+<CAPTION>
+
+
+                                                                          Gross amounts at which
+                                   Initial Cost to         Cost         Carried at Close of period
+                                      Partnership      capitalized      --------------------------
+ Property                        -------------------  subsequent to          Buildings and              Accumulated
+Description      Encumbrances     Land     Buildings   acquisition    Land    improvements     Total    depreciation
+- -----------      ------------     ----     ---------   -----------    ----    ------------     -----    ------------
+<S>              <C>            <C>        <C>            <C>        <C>        <C>          <C>          <C>
+Research
+Triangle JV
+Raleigh, NC      $ 4,833,899    338,112    4,920,738      220,216    338,112    5,193,980    5,532,092    3,794,811
+                 ===========    =======    =========      =======    =======    =========    =========    =========
+</TABLE>
+(RESTUBBED TABLE)
+<TABLE>
+<CAPTION>
+                                                     Life
+                                                   on which
+                                                 depreciation
+                                                   in latest
+                             Date                 statement of
+ Property                     of         Date      operations
+Description              construction  acquired   is computed
+- -----------              ------------  --------   -----------
+<S>                          <C>         <C>      <C>
+Research
+Triangle JV
+Raleigh, NC                  1983        8/92          - *
+                             ====        ====         ====
+</TABLE>
+*In accordance with Statement of Financial Accounting Standards No. 144, no
+depreciation was recorded during the disposal period, January 1, 2001 through
+December 31, 2005.
+
+
+
+
+
+
+
+
+
+
+
+                                      F-15
+<PAGE>
+                               Schedule III, Cont.
+                               -------------------
+
+             REALMARK PROPERTY INVESTORS LIMITED PARTNERSHIP - VI A
+
+                    Real Estate and Accumulated Depreciation
+                        December 31, 2005, 2004 and 2003
+
+
+(1)  Cost for Federal income tax purposes - none.
+
+(2)  A reconciliation of the carrying amount of land and buildings as of
+     December 31, 2005, 2004 and 2003 is as follows:
+<TABLE>
+<CAPTION>
+                                                                                 Partnership Properties
+                                                                                 ----------------------
+                                                                         2005             2004              2003
+                                                                         ----             ----              ----
+<S>      <C>                                                        <C>                                  <C>
+         Balance at beginning of year                               $           -               -        12,527,712
+         Additions                                                              -               -             6,132
+         Dispositions (5)                                                       -               -       (12,533,844)
+                                                                    -------------    ------------       -----------
+         Balance at end of year                                     $           -               -                 -
+                                                                    =============    ============       ===========
+</TABLE>
+<TABLE>
+<CAPTION>
+                                                                                 Joint Venture Properties
+                                                                                 ------------------------
+                                                                        2005              2004              2003
+                                                                        ----              ----              ----
+<S>      <C>                                                        <C>                 <C>               <C>
+         Balance at beginning of year                               $  5,532,092        5,479,066         5,268,179
+         Additions                                                             -           53,026           210,887
+                                                                    ------------      -----------        ----------
+         Balance at end of year                                     $  5,532,092        5,532,092         5,479,066
+                                                                    ============      ===========        ==========
+</TABLE>
+(3)  A reconciliation of accumulated depreciation for the years ended December
+     31, 2005, 2004 and 2003 is as follows:
+<TABLE>
+<CAPTION>
+                                                                                 Partnership Properties
+                                                                                 ----------------------
+                                                                         2005             2004              2003
+                                                                         ----             ----              ----
+<S>      <C>                                                        <C>               <C>                 <C>
+         Balance at beginning of year                               $           -               -         4,456,759
+         Dispositions (5)                                                       -               -        (4,456,759)
+                                                                    -------------     -----------       -----------
+         Balance at end of year (4)                                 $           -               -                 -
+                                                                    =============     ===========       ===========
+</TABLE>
+
+
+
+
+
+
+                                      F-16
+<PAGE>
+                               Schedule III, Cont.
+                               -------------------
+
+             REALMARK PROPERTY INVESTORS LIMITED PARTNERSHIP - VI A
+
+                    Real Estate and Accumulated Depreciation
+                        December 31, 2005, 2004 and 2003
+
+<TABLE>
+<CAPTION>
+                                                                                 Joint Venture Properties
+                                                                                 ------------------------
+                                                                       2005               2004              2003
+                                                                       ----               ----              ----
+<S>      <C>                                                        <C>                 <C>               <C>
+         Balance at beginning and end of year (4)                   $  3,794,811        3,794,811         3,794,811
+                                                                    ============       ==========       ===========
+</TABLE>
+(4)  Balance applies entirely to buildings and improvements.
+
+(5)  Sale of Stonegate Townhouses, Inducon Columbia, and Pomeroy Park Apartments
+     in 2003.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                      F-17
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-21
+<SEQUENCE>2
+<FILENAME>ex-21.txt
+<TEXT>
+                                   EXHIBIT 21
+                                   ----------
+
+                         SUBSIDIARIES OF THE PARTNERSHIP
+
+
+
+
+Name                                                    State of Formation
+- ----                                                    ------------------
+
+Realmark - Beaver, LLC                                      New York
+Realmark - Countrybrook, LLC                                New York
+Realmark - Inducon Columbia, LLC                            New York
+Realmark - Stonegate, LLC                                   New York
+
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>3
+<FILENAME>ex-31.txt
+<TEXT>
+                                   EXHIBIT 31
+                                   ----------
+
+              CERTIFICATION PURSUANT TO RULE 13a-14(a), AS ADOPTED
+           PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002
+
+I, Joseph M Jayson, Individual General Partner and Principal Financial Officer
+of Realmark Property Investors Limited Partnership - VI A, hereby certify that:
+
+     1.   I have reviewed this annual report on Form 10-K of Realmark Property
+          Investors Limited Partnership - VI A;
+
+     2.   Based on my knowledge, this annual report does not contain any untrue
+          statement of a material fact or omit to state a material fact
+          necessary to make the statements made, in light of the circumstances
+          under which such statements were made, not misleading with respect to
+          the period covered by this annual report;
+
+     3.   Based on my knowledge, the financial statements, and other financial
+          information included in this annual report, fairly present in all
+          material respects the financial condition, results of operations and
+          cash flows of the Partnership as of, and for, the periods presented in
+          this annual report;
+
+     4.   I am responsible for establishing and maintaining disclosure controls
+          and procedures (as defined in Exchange Act Rules 13a-15(e) and
+          15d-15(e)) and internal control over financial reporting (as defined
+          in Exchange Act Rules 13a-15(f) and 15d-15(f)) for the Partnership and
+          I have:
+
+          a.   Designed such disclosure controls and procedures, or caused such
+               disclosure controls and procedures to be designed under my
+               supervision, to ensure the material information relating to the
+               Partnership, including its consolidated subsidiary, is made known
+               to me by others within those entities, particularly during the
+               period in which this annual report is being prepared;
+
+          b.   Designed such internal control over financial reporting, or
+               caused such internal control over financial reporting to be
+               designed under my supervision, to provide reasonable assurance
+               regarding the reliability of financial reporting and the
+               preparation of financial statements for external purposes in
+               accordance with generally accepted accounting principles;
+
+          c.   Evaluated the effectiveness of the Partnership's disclosure
+               controls and procedures and presented in this report our
+               conclusions about the effectiveness of the disclosure controls
+               and procedures, as of the end of the period covered by this
+               report based on such evaluation; and
+
+          d.   Disclosed in this report any change in the Partnership's internal
+               control over financial reporting that occurred during the
+               Partnership's most recent fiscal quarter that has materially
+               affected, or is reasonably likely to materially affect, the
+               Partnership's internal control over financial reporting; and
+
+     5.   I have disclosed, based on my most recent evaluation of internal
+          control over financial reporting, to the Partnership's auditors and
+          the audit committee of the board of directors (or persons performing
+          the equivalent function):
+<PAGE>
+          a.   All significant deficiencies and material weaknesses in the
+               design or operation of internal control over financial reporting
+               which are reasonably likely to adversely affect the Partnership's
+               ability to record, process, summarize and report financial
+               information; and
+
+          b.   Any fraud, whether or not material, that involves management or
+               other employees who have a significant role in the Partnership's
+               internal control over financial reporting.
+
+March 31, 2006                                /s/ Joseph M. Jayson
+- --------------                                --------------------
+      Date                                    Joseph M. Jayson
+                                              Individual General Partner and
+                                              Principal Financial Officer
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-32
+<SEQUENCE>4
+<FILENAME>ex-32.txt
+<TEXT>
+                                   EXHIBIT 32
+                                   ----------
+
+          CERTIFICATION PURSUANT TO 18 U.S.C. SECTION 1350, AS ADOPTED
+           PURSUANT TO SECTION 906 OF THE SARBANES-OXLEY ACT OF 2002
+
+
+     The certification set forth below is hereby made solely for the purpose of
+satisfying the requirements of Section 906 of the Sarbanes-Oxley Act of 2002 and
+may not be relied upon or used for any other purposes.
+
+     In connection with the Annual Report of Realmark Property Investors Limited
+Partnership - VI A (the "Partnership") on Form 10-K for the year ended December
+31, 2005, as filed with the Securities and Exchange Commission on the date
+hereof (the "Report"), I, Joseph M. Jayson, Individual General Partner and
+Principal Financial Officer, certify, pursuant to 18 U.S.C. Section 1350, as
+adopted pursuant to Section 906 of the Sarbanes-Oxley Act of 2002, that to the
+best of my knowledge:
+
+     1.   The Report fully complies with the requirements of section 13(a) or
+          15(d) of the Securities Exchange Act of 1934, as amended; and
+
+     2.   The information contained in the Report fairly presents, in all
+          material respects, the financial condition and results of operations
+          of the Partnership.
+
+
+
+
+     March 31, 2006                              /s/ Joseph M. Jayson
+     --------------                              --------------------
+           Date                                  Joseph M. Jayson
+                                                 Individual General Partner and
+                                                 Principal Financial Officer
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

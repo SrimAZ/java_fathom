@@ -1,0 +1,2943 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ LCjRv61RZkZaHtgXulHxQsHBbfMw/2Wa0WM4RRjsTvWxj+XPXmfe4OZpnR4oLYr/
+ G+iz2av2C1M8hLyST7V5Uw==
+
+<SEC-DOCUMENT>0000950136-06-005444.txt : 20060629
+<SEC-HEADER>0000950136-06-005444.hdr.sgml : 20060629
+<ACCEPTANCE-DATETIME>20060629140218
+ACCESSION NUMBER:		0000950136-06-005444
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		12
+CONFORMED PERIOD OF REPORT:	20060331
+FILED AS OF DATE:		20060629
+DATE AS OF CHANGE:		20060629
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Honda Auto Receivables 2006-1 Owner Trust
+		CENTRAL INDEX KEY:			0001356881
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				330526079
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-132320-01
+		FILM NUMBER:		06932982
+
+	BUSINESS ADDRESS:	
+		STREET 1:		700 VAN NESS AVENUE
+		STREET 2:		C/O AMERICAN HONDA RECIEVABLES CORP
+		CITY:			TORRANCE
+		STATE:			CA
+		ZIP:			90501
+		BUSINESS PHONE:		3107814318
+
+	MAIL ADDRESS:	
+		STREET 1:		P O BOX 2295
+		CITY:			TORRANCE
+		STATE:			CA
+		ZIP:			90509-2295
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	American Honda Receivables 2006-1 Owner Trust
+		DATE OF NAME CHANGE:	20060321
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>file1.htm
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+<PRE><PAGE>
+
+================================================================================
+
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+
+                                   ----------
+
+                                    FORM 10-K
+
+                                   ----------
+
+                                  ANNUAL REPORT
+                        PURSUANT TO SECTIONS 13 OR 15(D)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+(Mark One)
+
+[X]  ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+     ACT OF 1934
+
+                    For the fiscal year ended March 31, 2006
+
+                                       OR
+
+[_]  TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES
+     EXCHANGE ACT OF 1934
+
+            For the transition __________ period from to ___________
+
+                                   ----------
+
+                                  333-132320-01
+                   (COMMISSION FILE NUMBER OF ISSUING ENTITY)
+
+                    HONDA AUTO RECEIVABLES 2006-1 OWNER TRUST
+             (EXACT NAME OF ISSUING ENTITY SPECIFIED IN ITS CHARTER)
+
+                                   333-132320
+                      (COMMISSION FILE NUMBER OF DEPOSITOR)
+
+                        AMERICAN HONDA RECEIVABLES CORP.
+              (EXACT NAME OF DEPOSITOR AS SPECIFIED IN ITS CHARTER)
+
+                       AMERICAN HONDA FINANCE CORPORATION
+               (EXACT NAME OF SPONSOR AS SPECIFIED IN ITS CHARTER)
+
+           DELAWARE                                               20-6860465
+       (STATE OR OTHER                                        (I.R.S EMPLOYER
+JURISDICTION OF ORGANIZATION                                 IDENTIFICATION NO.)
+    OF THE ISSUING ENTITY)
+
+C/O AMERICAN HONDA RECEIVABLES CORP.                               90503
+       20800 MADRONA AVENUE                                      (ZIP CODE)
+           TORRANCE, CA
+(ADDRESS OF PRINCIPAL EXECUTIVE OFFICES
+      OF THE ISSUING ENTITY)
+
+                                 (310) 972-2511
+                     (TELEPHONE NUMBER, INCLUDING AREA CODE)
+
+================================================================================
+
+<PAGE>
+
+          Securities registered pursuant to Section 12(b) of the Act:
+
+Title of Each Class   Name of Each Exchange on Which Registered
+- -------------------   -----------------------------------------
+        None                            None
+
+          Securities registered pursuant to Section 12(g) of the Act:
+
+                                      None
+
+Indicate by check mark if the registrant is a well-known seasoned issuer, as
+defined in Rule 405 of the Securities Act.                      Yes [_]   No [X]
+
+Indicate by check mark if the registrant is not required to file reports
+pursuant to Section 13 or Section 15(d) of the Act.             Yes [_]   No [X]
+
+Indicate by check mark whether the registrant (1) has filed all reports required
+to be filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+the preceding 12 months (or for such shorter period that the registrant was
+required to file such reports), and (2) has been subject to such filing
+requirements for the past 90 days.                                Yes [X] No [_]
+
+Indicate by check mark if disclosure of delinquent filers pursuant to Item 405
+of Regulation S-K is not contained herein, and will not be contained, to the
+best of registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.                                                                   [X]
+
+Indicate by check mark whether the registrant is a large accelerated filer, an
+accelerated filer, or a non-accelerated filer. See definition of "accelerated
+filer and large accelerated filer" in Rule 12b-2 of the Exchange Act. (Check
+one):
+
+Large Accelerated Filer [_]   Accelerated Filer [_]   Non-Accelerated Filer [X]
+
+Indicate by check mark whether the registrant is a shell company (as defined in
+Rule 12b-2 of the Exchange Act).                                Yes [_]   No [X]
+
+Registrant has no voting or non-voting class of common equity outstanding and
+held by nonaffiliates as of the date of this report.
+
+================================================================================
+
+
+                                       -2-
+
+<PAGE>
+
+PART I
+
+THE FOLLOWING ITEMS HAVE BEEN OMITTED IN ACCORDANCE WITH GENERAL INSTRUCTION J
+TO FORM 10-K:
+
+     (A)  ITEM 1, BUSINESS
+
+     (B)  ITEM 1A, RISK FACTORS
+
+     (C)  ITEM 2, PROPERTIES
+
+     (D)  ITEM 3, LEGAL PROCEEDINGS
+
+     (E)  ITEM 4, SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+ITEM 1B. UNRESOLVED STAFF COMMENTS.
+
+Not applicable
+
+SUBSTITUTE INFORMATION PROVIDED IN ACCORDANCE WITH GENERAL INSTRUCTION J TO FORM
+10-K:
+
+ITEM 1112(B) OF REGULATION AB. SIGNIFICANT OBLIGORS OF POOL ASSETS (FINANCIAL
+INFORMATION).
+
+No single obligor represents more than 10% of the pool assets held by Honda Auto
+Receivables 2006-1 Owner Trust (the "Trust").
+
+ITEM 1114(B)(2) OF REGULATION AB. CREDIT ENHANCEMENT AND OTHER SUPPORT, EXCEPT
+FOR CERTAIN DERIVATIVES INSTRUMENTS (INFORMATION REGARDING SIGNIFICANT
+ENHANCEMENT PROVIDERS).
+
+No entity or group of affiliated entities provides any external credit
+enhancement or other support with respect to either payment on the pool assets
+held by the Trust or payments on the notes (the "Notes") or certificates (the
+"Certificates") issued by the Trust.
+
+ITEM 1115(B) OF REGULATION AB. CERTAIN DERIVATIVES INSTRUMENTS (FINANCIAL
+INFORMATION).
+
+No entity or group of affiliated entities provides any derivative instruments
+that are used to alter the payment characteristics of the cashflows from the
+Trust.
+
+ITEM 1117 OF REGULATION AB. LEGAL PROCEEDINGS.
+
+No legal proceedings are pending against any of American Honda Finance
+Corporation (the "Sponsor"), American Honda Receivables Corp. (the "Depositor"),
+JPMorgan Chase Bank, N.A. (the "Indenture Trustee"), FDI Consulting, Inc. dba
+FDI Collateral Management ("FDI") or the Trust that are or would be material to
+holders of the Notes or the Certificates.
+
+PART II
+
+THE FOLLOWING ITEMS HAVE BEEN OMITTED IN ACCORDANCE WITH GENERAL INSTRUCTION J
+TO FORM 10-K:
+
+     (A)  ITEM 5, MARKET FOR REGISTRANT'S COMMON EQUITY, RELATED STOCKHOLDER
+          MATTERS AND ISSUER PURCHASES OF EQUITY SECURITIES
+
+     (B)  ITEM 6, SELECTED FINANCIAL DATA
+
+     (C)  ITEM 7, MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION
+          AND RESULTS OF OPERATION
+
+     (D)  ITEM 7A, QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     (E)  ITEM 8, FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     (F)  ITEM 9, CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING
+          AND FINANCIAL DISCLOSURE
+
+
+                                       -3-
+
+<PAGE>
+
+     (G)  ITEM 9A, CONTROLS AND PROCEDURES
+
+ITEM 9B. OTHER INFORMATION.
+
+Not applicable
+
+PART III
+
+THE FOLLOWING ITEMS HAVE BEEN OMITTED IN ACCORDANCE WITH GENERAL INSTRUCTION J
+TO FORM 10-K:
+
+     (A)  ITEM 10, DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     (B)  ITEM 11, EXECUTIVE COMPENSATION
+
+     (C)  ITEM 12, SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND
+          MANAGEMENT AND RELATED STOCKHOLDER MATTERS
+
+     (D)  ITEM 13, CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     (E)  ITEM 14, PRINCIPAL ACCOUNTANT FEES AND SERVICES
+
+SUBSTITUTE INFORMATION PROVIDED IN ACCORDANCE WITH GENERAL INSTRUCTION J TO FORM
+10-K:
+
+ITEM 1119 OF REGULATION AB. AFFILIATIONS AND CERTAIN RELATIONSHIPS AND RELATED
+TRANSACTIONS.
+
+The Sponsor is the originator, as contemplated by Item 1110 of Regulation AB, of
+all of the pool assets owned by the Trust. The Sponsor is also the primary
+servicer. The Depositor is a wholly-owned subsidiary of the Sponsor and,
+therefore, a wholly-owned subsidiary of the originator and the primary servicer.
+Through its purchase of the Certificates, the Depositor has acquired a 100%
+ownership interest in the Trust; therefore, the Trust is an affiliated party of
+the Depositor and, indirectly, of the Sponsor (including in its role as
+originator and primary servicer).
+
+The Indenture Trustee is not affiliated with any of the Sponsor (including in
+its role as originator and primary servicer), the Depositor or the Trust. FDI,
+as a special servicer, is likewise not affiliated with any of the Sponsor
+(including in its role as originator and primary servicer), the Depositor or the
+Trust.
+
+There are no significant obligors, external enhancement or support providers, or
+other material parties related to the Notes or Certificates.
+
+In addition, there are no business relationships, agreements, arrangements,
+transactions or understandings outside the ordinary course of business or on
+terms other than would be obtained in an arm's length transaction with an
+unrelated party, apart from the transaction involving the issuance of the Notes
+and Certificates by the Trust, between the Sponsor, the Depositor or the Trust
+and any of the parties mentioned in this Item.
+
+Since February 2002, the Sponsor has contracted with FDI's parent, triVIN, Inc.,
+for FDI to provide certain software-based services to the Sponsor in connection
+with the titling and registering of vehicles through online services made
+available by the motor vehicle administrations in various states. This contract
+was most recently updated in February 2006 to include, among other things, a new
+fee schedule. The vehicles for which FDI performs these services correspond to
+approximately 37% of the receivables contained in the asset pool held by the
+Trust. For these services, FDI charges and the Sponsor pays between $0.25 and
+$7.50 per titling transaction, per vehicle, depending on the service provided by
+FDI. In addition, FDI charges and the Sponsor pays approximately $155 per hour
+of customized programming provided by FDI.
+
+ITEM 1122 OF REGULATION AB. COMPLIANCE WITH APPLICABLE SERVICING
+CRITERIA.
+
+The Sponsor (in its role as servicer), the Indenture Trustee and FDI
+(collectively, the "Servicing Parties") have each been identified by the
+registrant as parties participating in the servicing function with respect to
+the asset pool held by the Trust. Each of the Servicing Parties has completed a
+report on an assessment of
+
+
+                                       -4-
+
+<PAGE>
+
+compliance with the servicing criteria applicable to it (each, a "Servicing
+Report"), which Servicing Reports are attached as exhibits to this Form 10-K. In
+addition, each of the Sponsor and the Indenture Trustee has provided an
+attestation report (each, an "Attestation Report") by one or more registered
+public accounting firms, which reports are also attached as exhibits to this
+Form 10-K. Neither of the Servicing Reports prepared by the Indenture Trustee or
+FDI, or the Attestation Report provided by the Indenture Trustee, has identified
+any material instance of noncompliance with the servicing criteria applicable to
+the respective Servicing Party. The registrant has not included an Attestation
+Report prepared on behalf of FDI as an exhibit to this Form 10-K because the
+accountants representing FDI, Ernst & Young LLP, were unable to provide the
+registrant with their Attestation Report in time for the filing deadline of this
+Form 10-K.
+
+The Servicing Report prepared by the Sponsor and the related Attestation Report
+have identified two material instances of noncompliance with the servicing
+criteria applicable to the Sponsor. Specifically, the Sponsor had not, as of and
+for the four-day period ended March 31, 2006, instituted policies and procedures
+to monitor any performance or other triggers and events of default in accordance
+with the transaction agreements or to monitor third-party performance and
+compliance with servicing activities. Except for these two material instances of
+noncompliance, neither the Servicing Report prepared by the Sponsor nor the
+related Attestation Report has identified any material instance of noncompliance
+with the servicing criteria applicable to the Sponsor.
+
+ITEM 1123 OF REGULATION AB. SERVICER COMPLIANCE STATEMENT.
+
+The Sponsor (in its role as servicer) and FDI have been identified by the
+registrant as servicers with respect to the asset pool held by the Trust. Each
+of the Sponsor and FDI has completed a statement of compliance with applicable
+servicing criteria (each a "Compliance Statement"), in each case signed by an
+authorized officer of the Sponsor and FDI, respectively. The Compliance
+Statements are attached as exhibits to this Form 10-K.
+
+PART IV
+
+ITEM 15. EXHIBITS.
+
+The exhibits listed below are either included or incorporated by reference as
+indicated:
+
+Exhibit 3.1 - Articles of Incorporation of the Depositor, as last amended on
+July 31, 2003 and filed with the secretary of state of California on August 12,
+2003.
+
+Exhibit 3.2 - Amended and Restated By-laws of the Depositor, in effect since
+April 1, 2004.
+
+Exhibit 4.1 - Indenture, dated as of March 1, 2006, between Honda Auto
+Receivables 2006-1 Owner Trust and JPMorgan Chase Bank, N.A., as indenture
+trustee, incorporated by reference to exhibit 4.1 to Form 8-K dated March 28,
+2006, and filed by the registrant on March 28, 2006.
+
+Exhibit 4.2 - Amended and Restated Trust Agreement, dated March 28, 2006, among
+American Honda Receivables Corp., Citibank, N.A., as owner trustee, and
+Wilmington Trust Company, as Delaware Trustee, incorporated by reference to
+exhibit 4.2 to Form 8-K dated March 28, 2006, and filed by the registrant on
+March 28, 2006.
+
+Exhibit 31.1 - Certification of senior officer in charge of the servicing
+function of the servicer pursuant to Section 302 of the Sarbanes-Oxley Act of
+2002.
+
+Exhibit 33.1 - Report on Assessment of Compliance with Servicing Criteria for
+Asset-Backed Securities of American Honda Finance Corporation.
+
+Exhibit 33.2 - Report on Assessment of Compliance with Servicing Criteria for
+Asset-Backed Securities of JPMorgan Chase Bank, N.A.
+
+Exhibit 33.3 - Report on Assessment of Compliance with Servicing Criteria for
+Asset-Backed Securities of FDI Computer Consulting, Inc., dba FDI Collateral
+Management.
+
+
+                                       -5-
+
+<PAGE>
+
+Exhibit 34.1 - Attestation Report on Assessment of Compliance with Servicing
+Criteria for Asset-Backed Securities of KPMG LLP, on behalf of American Honda
+Finance Corporation.
+
+Exhibit 34.2 - Attestation Report on Assessment of Compliance with Servicing
+Criteria for Asset-Backed Securities of PricewaterhouseCoopers LLP, on behalf of
+JPMorgan Chase Bank, N.A.
+
+Exhibit 35.1 - Servicing Compliance Statement of American Honda Finance
+Corporation.
+
+Exhibit 35.2 - Servicing Compliance Statement of FDI Computer Consulting, Inc.,
+dba FDI Collateral Management.
+
+Exhibit 99.1 - Annual Servicer Report provided American Honda Finance
+Corporation to holders of Notes and Certificates.
+
+
+                                       -6-
+
+<PAGE>
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned hereunto duly authorized.
+
+                                        HONDA AUTO RECEIVABLES 2006-1 OWNER
+                                        TRUST
+
+                                        BY:
+                                        AMERICAN HONDA FINANCE CORPORATION, AS
+                                        SERVICER
+
+
+                                        By: /s/ Paul C. Honda
+                                            ------------------------------------
+                                            Paul C. Honda
+                                            Assistant Vice President, Assistant
+Date: June 29, 2006                         Secretary and Compliance Officer
+
+- --------------------------------------------------------------------------------
+
+EXHIBIT INDEX
+
+EXHIBIT               DESCRIPTION
+- -------               -----------
+
+Exhibit 3.1    Articles of Incorporation of the Depositor, as last amended on
+               July 31, 2003 and filed with the secretary of state of California
+               on August 12, 2003.
+
+Exhibit 3.2    Amended and Restated By-laws of the Depositor, in effect since
+               April 1, 2004.
+
+Exhibit 4.1    Indenture, dated as of March 1, 2006, between Honda Auto
+               Receivables 2006-1 Owner Trust and JPMorgan Chase Bank, N.A., as
+               indenture trustee, incorporated by reference to exhibit 4.1 to
+               Form 8-K dated March 28, 2006, and filed by the registrant on
+               March 28, 2006.
+
+Exhibit 4.2    Amended and Restated Trust Agreement, dated March 28, 2006, among
+               American Honda Receivables Corp., Citibank, N.A., as owner
+               trustee, and Wilmington Trust Company, as Delaware Trustee,
+               incorporated by reference to exhibit 4.2 to Form 8-K dated March
+               28, 2006, and filed by the registrant on March 28, 2006.
+
+Exhibit 31.1   Certification of senior officer in charge of the servicing
+               function of the servicer pursuant to Section 302 of the
+               Sarbanes-Oxley Act of 2002.
+
+Exhibit 33.1   Report on Assessment of Compliance with Servicing Criteria for
+               Asset-Backed Securities of American Honda Finance Corporation.
+
+Exhibit 33.2   Report on Assessment of Compliance with Servicing Criteria for
+               Asset-Backed Securities of JPMorgan Chase Bank, N.A.
+
+Exhibit 33.3   Report on Assessment of Compliance with Servicing Criteria for
+               Asset-Backed Securities of FDI Computer Consulting, Inc., dba FDI
+               Collateral Management.
+
+Exhibit 34.1   Attestation Report on Assessment of Compliance with Servicing
+               Criteria for Asset-Backed Securities of KPMG LLP, on behalf of
+               American Honda Finance Corporation.
+
+Exhibit 34.2   Attestation Report on Assessment of Compliance with Servicing
+               Criteria for Asset-Backed Securities of PricewaterhouseCoopers
+               LLP, on behalf of JPMorgan Chase Bank, N.A.
+
+Exhibit 35.1   Servicing Compliance Statement of American Honda Finance
+               Corporation.
+
+Exhibit 35.2   Servicing Compliance Statement of FDI Computer Consulting, Inc.,
+               dba FDI Collateral Management.
+
+
+                               -7-
+
+<PAGE>
+
+Exhibit 99.1   Annual Servicer Report provided American Honda Finance
+               Corporation to holders of Notes and Certificates.
+
+
+                               -8-
+
+</PRE>
+</BODY>
+</HTML>
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.1
+<SEQUENCE>2
+<FILENAME>file2.htm
+<DESCRIPTION>ARTICLES OF INCORPORATION OF THE DEPOSITOR
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+<PAGE>
+
+                                                                     Exhibit 3.1
+
+                              AMENDED AND RESTATED
+
+                            ARTICLES OF INCORPORATION
+
+                                       OF
+
+                        AMERICAN HONDA RECEIVABLES CORP.
+
+                                   ----------
+
+                                    ARTICLE I
+
+                                      NAME
+
+     The name of the corporation is American Honda Receivables Corp.
+
+                                   ARTICLE II
+
+                             PURPOSE OF CORPORATION
+
+     (a) Subject to paragraph (b) below, the purpose of the corporation (the
+"Corporation") is to engage in any lawful act or activity for which a
+corporation may be organized under the General Corporation Law of California
+other than the banking business, the trust company business or the practice of a
+profession permitted to be incorporated by the California Corporations Code.
+
+     (b) Notwithstanding paragraph (a) above, the purpose of the Corporation is
+limited to the following purposes, and activities incident to and necessary or
+convenient to accomplish the fallowing purposes: (i) to acquire, own, hold,
+sell, transfer, assign, pledge, finance, refinance and otherwise deal with, new
+and used automobiles, light duty trucks and minivans (the "Receivables"); (ii)
+to authorize, issue, sell and deliver one or more series of obligations,
+consisting of one or more classes of certificates or notes or other evidence of
+indebtedness (the "Securities") that are collateralized by or evidence an
+interest in the Receivables; and (ii) negotiate, authorize, execute, deliver and
+assume the obligations of any agreement relating to the activities set forth in
+clauses (i) and (ii) above, including but not limited to any pooling and
+servicing agreement, indenture, reimbursement agreement, credit support
+agreement, receivables purchase agreement or underwriting agreement and to
+engage in any lawful activity which is incidental to the activities contemplated
+by any such agreement. So long as any outstanding debt of the Corporation or
+Securities are rated by any nationally recognized statistical rating
+organization, the Corporation shall not issue notes or otherwise borrow money
+unless (A) the Corporation has made a written request to the related nationally
+recognized statistical rating organization to issue notes or incur borrowings
+which notes or borrowings are rated by the related nationally recognized
+statistical rating organization the same as or higher than the rating afforded
+such rated debt or Securities, or (B) such notes or borrowings (1) are fully
+subordinated (and which shall provide for payment only after payment in respect
+of all outstanding rated debt and/or Securities) or are nonrecourse against any
+assets of the Corporation other than the assets pledged to secure such notes
+
+
+                                       1
+
+<PAGE>
+
+or borrowings, (2) do not constitute a claim against the Corporation in the
+event such assets are insufficient to pay such notes or borrowings, and (3)
+where such notes or borrowings are secured by the rated debt or Securities, are
+fully subordinated (and which shall provide for payment only after payment in
+respect of all outstanding rated debt and/or Securities) to such rated debt or
+Securities.
+
+                                   ARTICLE III
+
+Reserved
+
+                                   ARTICLE IV
+
+                                  CAPITAL STOCK
+
+     The Corporation shall have one class of stock designated as Common Stock,
+and the total number of shares of stock of that class that the Corporation shall
+have authority to issue is 1,000 shares of no par stook. No shareholder shall
+have any preemptive right to acquire additional shares of the Corporation.
+
+                                    ARTICLE V
+
+                              INDEPENDENT DIRECTORS
+
+     The Corporation shall at all times, except as noted hereafter, have at
+least two Directors (each, an "Independent Director") who is not (a) a director,
+officer or employee of any affiliate of the Corporation; (b) a person related to
+any officer or director of any affiliate of the Corporation; (c) a holder
+(directly or indirectly) of more than 10% of any voting securities of any
+affiliate of the Corporation; or (d) a person related to a holder (directly or
+indirectly) of more than 10% of any voting securities of any affiliate of the
+Corporation. In the event of the death, incapacity, resignation or removal of
+all Independent Directors, the Board of Directors shall promptly appoint an
+Independent Director for each Independent Director whose death, incapacity,
+resignation or removal caused the related vacancy on the Board of Directors;
+provided, however, that the Board of Directors shall not vote on any matter
+unless and until at least two Independent Directors have been duly appointed to
+serve; on the Board.
+
+
+                                       2
+
+<PAGE>
+
+                                   ARTICLE VI
+
+                    LIMITATIONS ON ACTIONS BY THE CORPORATION
+
+     Notwithstanding any other provision of these Articles and any provision of
+law, the Corporation shall not do any of the following:
+
+     (a) engage in any business or activity other than as set forth in Article
+II hereof;
+
+     (b) without the affirmative vote of a majority of the members of the Board
+of Directors of the Corporation (which must include the affirmative vote of all
+duly appointed Independent Directors), (i) dissolve or liquidate, in whole or in
+part, or institute proceedings to be adjudicated bankrupt or insolvent, (ii)
+consent to the institution of bankruptcy or insolvency proceedings against it,
+(iii) file a petition seeking or consent for reorganization or relief under any
+applicable federal or state law relating to bankruptcy, (iv) consent to the
+appointment of a receiver, liquidator, assignee, trustee, sequestrator or other
+similar official of the Corporation or a substantial past of its property, (v)
+make a general assignment for the benefit of creditors, (vi) admit in writing
+its inability to pay its debts generally as they become due, or (vii) take any
+corporate action in furtherance of the actions set forth in clauses (i) through
+(vi) of this paragraph; provided, however, that no director may be required by
+any shareholder of the Corporation to consent to the institution of bankruptcy
+or insolvency proceedings against the Corporation so long as it is solvent, or
+
+     (c) without the unanimous affirmative vote of the members of the Board of
+Directors of the Corporation, merge or consolidate with any other corporation,
+company or entity or sell all or substantially all of its assets or acquire all
+or substantially all of the assets or capital stock or other ownership interest
+of any other corporation, company or entity, except for the acquisition of
+Receivables of American Honda Finance Corporation ("American Honda") and the
+sale of Receivables to one or more trusts in accordance with the terms of
+Article II(b) hereof, on which there shall be no such restriction.
+
+
+                                       3
+
+<PAGE>
+
+                                   ARTICLE VII
+
+                                INTERNAL AFFAIRS
+
+     The Corporation shall insure at all times that (a) it maintains separate
+corporate records and books of account from those of American Honda, and (b)
+except as permitted by contract between the Corporation and American Honda with
+respect to deposits in certain accounts of collections of trade receivables of
+American Honda that were not sold to the Corporation pursuant to an agreement
+between them, which will be promptly remitted to the owner thereof, none of the
+Corporation's assets will be commingled with those of American Honda or any of
+their affiliates.
+
+                                  ARTICLE VIII
+
+                                   AMENDMENTS
+
+     The Corporation reserves the right to amend, alter, change or repeal any
+provision contained in these Articles in any manner now or hereafter provided
+herein or by statute; and, except as provided with respect to the
+indemnification of directors, all rights, preferences and privileges conferred
+by these Articles upon shareholders, directors on any other person are granted
+subject to such right; provided, however, that the Corporation shall not amend,
+alter, change or repeal any provision of Articles II and V through VIII (the
+"Restricted Articles") without the unanimous vote of the full Board of Directors
+and provided, further, that the Corporation shall not amend or change any
+Article so as to be inconsistent with the Restricted Articles.
+
+                                   ARTICLE IX
+
+          LIABILITY OF DIRECTORS FOR MONETARY DAMAGES; INDEMNIFICATION
+
+     (a) The liability of the Directors of the Corporation for monetary damages
+shall be eliminated to the fullest extent permissible under California law.
+
+     (b) The Corporation is authorized to provide indemnification of the
+Directors and other agents of the Corporation (as defined in Section 317 of the
+California General Corporation Law) through Bylaw provisions, agreements with
+agents, vote of shareholders or disinterested directors, or otherwise, in excess
+of the indemnification otherwise permitted by Section 317 of the California
+General Corporation Law subject only to the applicable limits set forth in
+Section 204 of the California General Corporation Law.
+
+
+                                       4
+
+<PAGE>
+
+                            CERTIFICATE OF AMENDMENT
+
+                                       OF
+
+                            ARTICLES OF INCORPORATION
+
+                                       OF
+
+                        AMERICAN HONDA RECEIVABLES CORP.
+                            A CALIFORNIA CORPORATION
+
+                                   ----------
+
+Y. Kohama and R. Nakamura hereby certify that:
+
+     1. They are the duly elected and acting president and secretary,
+respectively, of AMERICAN HONDA RECEIVABLES CORP., a California Corporation,
+
+     2. The Articles of Incorporation of this corporation are amended and
+restated in full to read as set forth in Exhibit A hereto, which is incorporated
+herein by this reference and made a part hereof.
+
+     3. The foregoing amendment and restatement of the Articles of Incorporation
+has been duly approved by the Board of Directors of the Corporation.
+
+     4. The foregoing amendment and restatement of the Articles of Incorporation
+has been duly approved by the required vote of Shareholders in accordance with
+Section 902 of the California General Corporation Law; the total number of
+outstanding shares of each class entitled to vote with respect to the amendment
+and restatement of the Articles of Incorporation was 1,000; and the number of
+shares of each class voting in favor of the amendment and restatement equaled or
+exceeded the vote required, such required vote being a majority of the
+outstanding shares of the Corporation.
+
+We further declare under penalty of perjury under the laws of the State of
+California that the matters set forth in this certificate are true and correct
+of our own knowledge.
+
+Dated: July 5, 1995
+
+
+                                        /s/ Y. Kohama
+                                        ----------------------------------------
+                                        Y. Kohama, President
+
+
+                                        /s/ R. Nakamura
+                                        ----------------------------------------
+                                        R. Nakamura, Secretary
+
+
+                                       5
+
+<PAGE>
+
+                            CERTIFICATE OF AMENDMENT
+
+                                       OF
+
+                            ARTICLES OF INCORPORATION
+
+                                       OF
+
+                        AMERICAN HONDA RECEIVABLES CORP.
+                            A CALIFORNIA CORPORATION
+
+                                   ----------
+
+Y. Takahashi and M. Tanaka hereby certify that:
+
+     1.   They are the duly elected and acting president and secretary,
+          respectively, of AMERICAN HONDA RECEIVABLES CORP., a California
+          corporation (the "Corporation").
+
+     2.   Paragraph (b) of Article H of the Articles of Incorporation of the
+          Corporation (the "Articles of Incorporation") is amended to read as
+          follows:
+
+               (b) Notwithstanding paragraph (a) above, the purpose of the
+          Corporation is limited to the following purposes, and activities
+          incident to and necessary or convenient to accomplish the following
+          purposes; (i) to acquire, own, hold, sell, transfer, assign, pledge,
+          finance, refinance and otherwise deal with, receivables arising out of
+          or relating to the financing or sale of new or used motor vehicles,
+          including automobiles, light duty trucks and recreational vehicles,
+          monies due thereunder, security interests in the motor vehicles
+          financed thereby, proceeds from claims on insurance policies related
+          thereto, and related rights (collectively, the "Receivables"); (ii) to
+          authorize, issue, sell and deliver one or more series of obligations,
+          consisting of one or more classes of certificates or notes or other
+          evidences of indebtedness (the "Securities") that are collateralized
+          by or evidence an interest in the Receivables; and (iii) to negotiate,
+          authorize, execute, deliver and assume the obligations of any
+          agreement relating to the activities set forth in clauses (i) and (ii)
+          above, including but not limited to any pooling and servicing
+          agreement, indenture, reimbursement agreement, credit support
+          agreement, receivables purchase agreement or underwriting agreement
+          and to engage it any lawful activity which is incidental to the
+          activities contemplated by any such agreement. So long as any
+          outstanding debt of the Corporation or Securities are rated by any
+          nationally recognized statistical rating organization, the Corporation
+          shall not issue notes or otherwise borrow money unless (A) the
+          Corporation has made a written request to the related nationally
+          recognized statistical rating organization to issue notes or incur
+          borrowings which notes or borrowings are rated by the related
+          nationally recognized statistical rating organization the same as or
+          higher than the rating
+
+
+                                       6
+
+<PAGE>
+
+          afforded such rated debt or Securities, or (B) such notes or
+          borrowings (1) are fully subordinated (and which shall provide for
+          payment only after payment in respect of all outstanding rated debt
+          and/or Securities) or are nonrecourse against any assets of the
+          Corporation other than the assets pledged to secure such notes or
+          borrowings, (2) do not constitute a claim against the Corporation in
+          the event such assets are insufficient to pay such notes or
+          borrowings, and (3) where such notes or borrowings are secured by the
+          rated debt or Securities, are fully subordinated (and which shall
+          provide for payment only after payment in respect of all outstanding
+          rated debt and/or Securities) to such rated debt or Securities."
+
+     3.   Article VII of the Articles of Incorporation is amended to read as
+          follows:
+
+                                INTERNAL AFFAIRS
+
+               The Corporation shall insure at all times that
+
+          (a)  it maintains separate corporate records, financial statements and
+               books of account from those of American Honda and each other
+               affiliate of the Corporation;
+
+          (b)  except as permitted by contract between the Corporation and
+               American Honda with respect to deposits in certain accounts of
+               collections of trade receivables of American Honda that were not
+               sold to the Corporation pursuant to an agreement between them,
+               which will be promptly remitted to the owner thereof, none of the
+               Corporation's assets will be commingled with those of American
+               Honda or any of their affiliates and all such assets will be
+               maintained so that such assets are readily identifiable as assets
+               of the Corporation and not those of any other individual,
+               partnership (whether general or limited), limited liability
+               company, corporation, trust estate, association, nominee or other
+               entity (collectively, "Person"), including maintaining the
+               Corporation's own bank accounts separate from any other Person;
+
+          (c)  it observes all corporate formalities, including maintaining
+               minutes of the Corporation's meetings;
+
+          (d)  it conducts its dealings with third parties, including American
+               Honda and its subsidiaries and affiliates, and otherwise holds
+               itself out to the public, in its own name, as a separate and
+               independent entity;
+
+          (e)  it uses separate stationary, invoices, and checks and, to the
+               extent reasonably required in light of its contemplated business
+               operations, maintains an office separate from the offices of
+               American Honda and its subsidiaries and affiliates, and every
+               other Person, and conspicuously identifies such office as its
+               office;
+
+                                       7
+
+
+<PAGE>
+
+          (f)  conducts its dealings with third parties, including American
+               Honda and its subsidiaries and affiliates, and every other
+               Person., on an arm-length's basis by, among other things, paying
+               to any such third party fair value for shared overhead or for any
+               services or leased premises provided by such third party or any
+               of their employees or agents;
+
+          (g)  it files its own tax returns, if any, as may be required under
+               applicable law, to the extent not part of a consolidated group of
+               another taxpayer;
+
+          (h)  it pays its liabilities out of its funds and does not pay the
+               liabilities of American Honda or any other Person out of its
+               funds;
+
+          (i)  it does not guarantee, become obligated on, hold itself out as
+               being obligated or available to satisfy, acquire or assume the
+               liabilities of American Honda, any of its subsidiaries or
+               affiliates, or any of its subsidiaries or affiliates, or any
+               other Person, or pledge its assets for the benefit of American
+               Honda, any of its subsidiaries or affiliates, or any other
+               Person;
+
+          (j)  it corrects any known misunderstanding regarding the
+               Corporation's separate and distinct legal identity and refrains
+               from engaging in any activity that compromises the separate legal
+               identity of the Corporation or the separateness of its assets;
+
+          (k)  it ensures that its capitalization is adequate in light of its
+               business and purpose;
+
+          (l)  it maintains a sufficient number of employees in light of its
+               contemplated business operations, pays the salaries of its
+               employees, if any, out of its own funds, and, to the extent that
+               it shares officers and employees with any affiliates, allocates
+               fairly and reasonably the salaries of, and the expenses related
+               to providing the benefits of, officers or other employees shared
+               with such affiliate;
+
+          (m)  if the business of the Corporation is so limited as to reasonably
+               be conducted from the premises of an affiliate, it allocates
+               fairly and reasonably any overhead for office space shared with
+               any subsidiary or any other affiliate;
+
+          (n)  it does not identify itself as being a division or a part of
+               American Honda or any other Person, and it does not permit
+               American Honda or any other Person to identify the Corporation as
+               being a division or a part of American Honda or any other Person;
+
+          (o)  it does not acquire any securities or obligations of American
+               Honda or any other affiliate of American Honda (other than
+               Securities issued pursuant to Article II hereof); and
+
+
+                                       8
+
+<PAGE>
+
+          (p)  it causes its financial statements to be prepared in accordance
+               with U.S. generally accepted accounting principles in a manner
+               that indicates the separate existence of the Corporation and its
+               assets and liabilities;
+
+          provided, however, that failure by the Corporation to comply with any
+          of the foregoing shall not affect the status of the Corporation as a
+          separate legal entity.
+
+     4. The foregoing amendments of the Articles of Incorporation have been duly
+approved by the Board of Directors of the Corporation.
+
+     5. The foregoing amendments of the Articles of Incorporation have been duly
+approved by the required vote of Shareholders in accordance with Section 902 of
+the California Corporations Code. The total number of outstanding shares of the
+Corporation is 1,000, consisting of a single class; and the number of shares
+voting in favor of the amendment equaled or exceeded the vote required. The
+percentage vote required was more than 50% of the outstanding shares of the
+Corporation.
+
+     We further declare under penalty of perjury under the laws of the State of
+California that the matters set forth in this certificate are true and correct
+of our own knowledge.
+
+Dated: July 31, 2003
+
+
+                                        /s/ Y. Takahashi
+                                        ----------------------------------------
+                                        Y. Takahashi, President
+
+
+                                        /s/ M. Tanaka
+                                        ----------------------------------------
+                                        M. Tanaka, Secretary
+
+
+                                       9
+
+
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-3.2
+<SEQUENCE>3
+<FILENAME>file3.htm
+<DESCRIPTION>AMENDED AND RESTATED BY-LAWS OF THE DEPOSITOR
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+<PAGE>
+
+                                                                     Exhibit 3.2
+
+                       SECOND AMENDED AND RESTATED BYLAWS
+
+                                       OF
+
+                        AMERICAN HONDA RECEIVABLES CORP.
+
+                           (a California corporation)
+
+                                   ----------
+
+                                    ARTICLE I
+
+                                     OFFICES
+
+     Section 1.01 Principal Executive Office. The principal executive office of
+American Honda Receivables Corp. (the "Corporation") shall be at 700 Van Ness
+Avenue, Torrance, California 90501 or such other location that the Board of
+Directors (the "Board") shall fix from time to time.
+
+     Section 1.02 Other Offices. The Corporation may also have offices at such
+other places both within and without the State of California as the Board or the
+President may from time to time determine or the business of the Corporation may
+require.
+
+                                   ARTICLE II
+
+                                  SHAREHOLDERS
+
+     Section 2.01 Annual Meeting and Election of Directors. The Annual Meeting
+of Shareholders shall be held on such date and at such time as the Board
+determines. The Directors shall be elected and any other proper business may be
+transacted at each Annual Meeting of Shareholders.
+
+     Section 2.02 Special Meetings. Special Meetings of Shareholders may be
+called by the Board, the Chairman of the Board, if any, the President or the
+holders of shares entitled to cast not less than ten percent (10%) of the votes
+at such Special Meeting. Each Special Meeting shall be held at such date and
+time as is requested by the person or persons calling such Special Meeting
+within the limits fixed by law.
+
+     Section 2.03 Place of Meetings. Each Annual or Special Meeting of
+Shareholders shall be held at such location as may be determined by the Board,
+or if no such determination is made at such place as may be determined by the
+President. If no location is so determined, any Annual or Special Meeting shall
+be held at the principal executive office of the Corporation.
+
+     Section 2.04 Notice of Meetings. Notice of each Annual or Special Meeting
+of Shareholders shall contain such information, and shall be given to such
+persons at such time, and
+
+<PAGE>
+
+in such manner, as the Board shall determine, or if no such determination is
+made, as the President shall determine, subject to the requirements of
+applicable law.
+
+     Section 2.05 Conduct of Meetings. Subject to the requirements of applicable
+law, all Annual and Special Meetings of Shareholders shall be conducted in
+accordance with such rules and procedures as the Board may determine and, as to
+matters not governed by such rules and procedures, as the chairman of such
+Annual or Special Meetings shall determine.
+
+     Section 2.06 Quorum. The holders of a majority of the shares issued and
+outstanding and entitled to vote at an Annual or Special Meeting of the
+Shareholders shall be requisite and shall constitute a quorum thereat for the
+transaction of business except as otherwise provided by statute, by the Articles
+of Incorporation (the "Articles") or by these Bylaws. If a quorum is not present
+or represented at a meeting of the Shareholders, the Shareholders entitled to
+vote shall have power to adjourn such meeting from time to time, without notice
+other than an announcement at such meeting, until a quorum is present or
+represented. At any such adjourned meeting at which a quorum is present or
+represented, any business may be transacted that might have been transacted at
+the meeting as originally notified.
+
+     Section 2.07 Proxies. Every person entitled to vote or to execute consents
+may do so either in person or by written proxy filed with the Secretary of the
+Corporation authorizing another person or persons to vote with respect to such
+shares. The proxy shall not be valid after the expiration of eleven (11) months
+from the date thereof unless otherwise provided in the proxy. Every proxy
+continues in full force and effect until revoked by the person executing it
+prior to the vote pursuant thereto, except as otherwise provided in the
+applicable law.
+
+     Section 2.08 Action Without Meeting. Any action required by statute to be
+taken at any Annual or Special Meeting of the Shareholders, or any action that
+may be taken at any Annual or Special Meeting of the Shareholders, may be taken
+without a meeting, without prior notice if a consent in writing setting forth
+the action so taken, shall be signed by the holders of the outstanding shares
+having not less than the minimum number of votes that would be necessary to
+authorize or take such action at a meeting at which all shares entitled to vote
+thereon were present and voted. The signed consent or a signed copy shall be
+placed in the Minute Book of the Corporation and prompt notice of the taking of
+the corporate action shall be given to those Shareholders who have not consented
+in writing.
+
+                                   ARTICLE III
+
+                                    DIRECTORS
+
+     Section 3.01 Number. The authorized number of Directors on the Board shall
+not be less than four nor more than six unless changed by a duly adopted Bylaw
+amending this Section 3.01, as provided by these Bylaws and pursuant to
+applicable law. The Board shall initially be comprised of five Directors. The
+exact number of Directors shall be fixed, from time to time within the limits
+specified, by resolution duly adopted either by the Board or the Shareholders.
+
+     Section 3.02 Qualification-Independent Director; Election, Term.
+
+
+                                       2
+
+<PAGE>
+
+     (a) Of the authorized number of Directors provided in Section 3.01; the
+Corporation shall at all times, except as noted hereafter, have at least two
+Directors (each, an "Independent Director") who is not (i) a director, officer
+or employee of any affiliate of the Corporation; (ii) a person related to any
+officer or director of any affiliate of the Corporation; (iii) a holder
+(directly or indirectly) of more than ten percent (10%) of any voting securities
+of any affiliate of the Corporation; or (iv) a person related to a holder
+(directly or indirectly) of more than ten percent (10%) of any voting securities
+of any affiliate of the Corporation. In the event of the death, incapacity,
+resignation or removal of all Independent Directors, the Board shall promptly
+appoint an Independent Director for each Independent Director whose death,
+incapacity, resignation or removal caused the related vacancy on the Board;
+provided, however, that the Board shall not vote on any matter unless and until
+at least two Independent Directors have been duly appointed to serve on the
+Board.
+
+     (b) Except as otherwise provided by Sections 3.03 and 3.04 herein, the
+Directors shall be elected at the Annual Meeting of Shareholders.
+
+     (c) Each Director elected shall hold office until the next Annual Meeting
+of Shareholders and until his successor has been elected and qualified or until
+his death, resignation, retirement, disqualification or removal.
+
+     Section 3.03 Removal of Directors. Except as otherwise provided by
+applicable law, a director may only be removed by the Shareholders.
+
+     Section 3.04 Vacancies on the Board. Vacancies on the Board, excluding
+vacancies created by removal of Directors, may be filled by approval of the
+Board or, if the number of Directors then in office is less than a quorum, by
+(1) the unanimous written consent of the Directors then in office, (2) the
+affirmative vote of a majority of the remaining Directors, or (3) a sole
+remaining Director. The Shareholders may at any time elect a Director or
+Directors to fill any vacancy or vacancies not filled by the Board and shall
+have the right to fill any vacancy or vacancies created by the removal of one or
+more Directors,
+
+     Section 3.05 Powers. Subject to limitations of the Articles, the Bylaws,
+and applicable law relating to actions required to be approved by the
+Shareholders or by the outstanding shares, the business and affairs of the
+Corporation shall be managed and all corporate powers shall be exercised by or
+under the direction of the Board. The Board may delegate the management of the
+day-to-day operation of the business of the Corporation to the officers of the
+Corporation or other persons provided that the business and affairs of the
+Corporation shall be managed by and all corporate powers shall be exercised
+under the ultimate direction of the Board.
+
+     Section 3.06 Quorum. A majority of the members of the Board shall
+constitute a quorum of the Board for the transaction of business. Every act or
+decision done or made by a majority of the members of the Board present at a
+meeting duly held at which a quorum is present shall constitute the act of the
+Board. In the absence of a quorum, a majority of the members of the Board
+present at the time and place of any meeting may adjourn such meeting from time
+to time until a quorum is present. Notice of any adjourned meeting need not be
+given.
+
+
+                                       3
+
+<PAGE>
+
+     Section 3.07 Meetings of the Board. The Board may designate any place,
+within or without the State of California, for the holding of any meeting. If no
+such designation is made, the meeting shall be held at the Corporation's
+principal executive office. Subject to the requirements of applicable law, all
+meetings of the Board shall be conducted in accordance with such rules and
+procedures as the Board may approve and, as to matters not governed by such
+rules and procedures, as the chairman of such meeting shall determine.
+
+     The Board by resolution may provide for the holding of regular meetings,
+with or without notice, and may fix the times and places within or outside the
+State of California at which such meetings shall be held.
+
+     Section 3.08 Action Without Meeting. Any action required or permitted to be
+taken at any meeting of the Board or of any committee thereof may be taken
+without a meeting if a written consent setting forth the action so taken is
+signed by all members of the Board or of such committee, as the case may be, and
+such written consent is filed with the Secretary of the Corporation and placed
+in the Minute Book. Such consent shall have the same force and effect as a
+unanimous vote at a meeting of such Board or committee.
+
+     Section 3.09 Committee. The Board may, by resolution adopted by a majority
+of the whole Board, designate one or more committees, each committee to consist
+of two or more of the Directors of the Corporation. Any such committee, to the
+extent provided in the resolution of the Board, shall have and may exercise all
+the powers and authority of the Board in the management of the business and
+affairs of the Corporation, and may authorize the seal of the Corporation to be
+affixed to all papers which may require it; but no such committee shall have any
+powers or authority in reference to:
+
+     (a) the approval of any action for which the California General Corporation
+Law also requires approval of the Shareholders or approval of the outstanding
+shares;
+
+     (b) amending the Articles;
+
+     (c) approving an agreement of merger or consolidation;
+
+     (d) recommending to the Shareholders the sale, lease or exchange of all or
+substantially all of the Corporation's property and assets otherwise than in the
+usual and regular course of its business;
+
+     (e) recommending to the Shareholders a dissolution of the Corporation or a
+revocation thereof;
+
+     (f) amending or repealing the Bylaws of the Corporation or adopting new
+Bylaws of the Corporation;
+
+     (g) amending or repealing any resolution of the Board which by its express
+terms is not so amendable or repealable;
+
+
+                                       4
+
+<PAGE>
+
+     (h) appointing other committees of the Board or the members thereof;
+
+     (i) filling vacancies in or removing members of the Board or on any
+committee appointed by the Board;
+
+     (j) fixing the compensation of the Directors for serving on the Board or
+for serving as a member of any committee thereof; or
+
+     (k) a "distribution", as such term is defined in Section 166 of the
+California General Corporation Law, except at a rate, in a periodic amount or
+within a specific price range determined by the Board, and, unless the
+resolution of the Board expressly so provides, no such committee shall have the
+power or authority to otherwise declare a dividend or to authorize the issuance
+of stock.
+
+Any such committee shall report on its meetings to the Board at the next meeting
+of the Board.
+
+     Section 3.10 Executive Committee of the Board. Subject to these Bylaws,
+including Sections 3.07, 3.08 and 3.09, the Articles and the provisions of
+applicable law, the Executive Committee of the Board (the "Executive Committee")
+is authorized by unanimous written consent of all its Executive Committee
+members to bind this Corporation without the consent of other members of the
+Board and shall have and may exercise all of the authority of the Board in the
+management of the business and affairs of the Corporation, including the power
+to authorize the seal of the Corporation to be affixed to all papers which may
+require it. Upon the unanimous consent of all members of the Executive
+Committee, the Executive Committee is also authorized by these Bylaws to
+authorize the fixture purchase and sale of Receivables as defined and provided
+for in the Articles.
+
+     Section 3.11 Removal of Committee Members. Any member of the Executive
+Committee and other committees may be removed by the Board by the affirmative
+vote of a majority of the whole Board, whenever in its judgment the best
+interests of the Corporation will be served thereby.
+
+     Section 3.12 Vacancies in Committees. A vacancy occurring in the Executive
+Committee or any other committee of the Board (by death, resignation,
+retirement, disqualification, removal or otherwise) may be filled by the Board
+in the manner provided for original designation in Section 3.09.
+
+     Section 3.13 Compensation. Members of the Board, the Executive Committee or
+any other committee may, by resolution of the Board, be allowed compensation for
+their service to the Corporation, including for attending Board or committee
+meetings.
+
+     Section 3.14 Telephone and Similar Meetings. Members of the Board and
+committee members may participate in and hold a meeting by means of conference
+telephone or similar communications equipment, so long as all persons
+participating in the meeting can hear each other. Participation in such meeting
+shall constitute presence in person at the meeting, unless a person
+
+
+                                       5
+
+<PAGE>
+
+authorized to participate in such meeting participates in the meeting for the
+express purpose of objecting to the transaction of any business on the ground
+that the meeting was not lawfully called or convened.
+
+     Section 3.15 Written Action or Minutes. The Board, the Executive Committee
+and any other committees shall keep either a record of action taken or Minutes
+of their proceedings and, in the case of any committee, report the same to the
+Board when required. The Minutes of the proceedings of the Board, the Executive
+Committee and other committees shall be placed in the Minute Book of the
+Corporation.
+
+                                   ARTICLE IV
+
+                          INDEMNIFICATION OF DIRECTORS
+
+                       OFFICERS AND OTHER CORPORATE AGENTS
+
+     Section 4.01 Indemnification. This Corporation shall, to the maximum extent
+and in the manner permitted by the California General Corporation Law, indemnify
+and hold harmless each of the directors and other "agents" of the Corporation,
+as the term "agent" is defined in Section 317(a)) of the California General
+Corporation Law, as amended from time to time, from and against any "expenses"
+as defined in Section 317(a), judgments, fines, settlements, and other amounts
+actually and reasonably incurred in connection with any "proceeding" (as defined
+in said Section 317(a) arising by reason of the fact that such person is or was
+a director of the Corporation acting in good faith and in a manner reasonably
+believed by such director to be in the best interests of the Corporation. The
+Corporation shall advance to its directors and other agents expenses incurred in
+defending any proceeding prior to the final disposition thereof to the full
+extent and in the manner permitted by applicable law.
+
+     Section 4.02 Right to Indemnification. This section shall create a right of
+indemnification for each person referred to in Section 4.01, whether or not the
+proceeding to which the indemnification relates arose in whole or in part prior
+to adoption of such section and in the event of death such right shall extend to
+such person's legal representatives. The right of indemnification hereby given
+shall not be exclusive of any other rights such person may have whether by law
+or under any agreement, insurance policy, vote of Directors or Shareholders, or
+otherwise.
+
+     Section 4.03 Insurance. Subject to the requirements of applicable law, the
+Corporation shall have power to purchase and maintain insurance on behalf of any
+agent of the corporation against any liability asserted against or incurred by
+the agent in such capacity or arising out of the agent's status as such whether
+or not the Corporation would have the power to indemnify the agent against such
+liability.
+
+                                    ARTICLE V
+
+                                    OFFICERS
+
+     Section 5.0.1 Principal Officers. The principal officers of the Corporation
+shall be a
+
+
+                                       6
+
+<PAGE>
+
+President, a Secretary and a Treasurer, each of whom shall have the authority to
+perform the duties provided in these Bylaws or as may from time to time be
+assigned by the Board. One person may hold two or more offices, except that the
+Secretary may not also hold the office of President.
+
+     Section 5.02 Subordinate Officers. The Corporation may also have, at the
+discretion of the Board, one or more Vice Presidents, one or more Assistant
+Secretaries, one or more Assistant Treasurers and such other officers as the
+business of the Corporation may require, each of whom shall have the authority
+and perform the duties as may be provided in these Bylaws or as may from time to
+time be assigned by the Board.
+
+     Section 5.03 Appointment of the Corporation's Officers. The Board or the
+Executive Committee shall appoint the officers of the Corporation, each such
+officer to hold his office until the earlier of his death, resignation,
+retirement; disqualification or removal. Thereafter, the Board or the Executive
+Committee may, from time to time, appoint other officers of the Corporation to
+fill a vacancy in any office or otherwise, each such officer to hold his office
+until the earlier of his death, resignation, disqualification or removal from
+office.
+
+     Section 5.04 Removal and Resignation.
+
+     (a) Any officer may be removed, either with or without cause, by the
+unanimous written consent of the Executive Committee or by a majority of the
+members of the Board at the time in office, at any regular or Special Meeting of
+the Board.
+
+     (b) Any officer may resign at any time by giving written notice to the
+Corporation. Any such resignation shall take effect at the date of the receipt
+of such notice or at any later time specified therein; and unless otherwise
+specified therein, the acceptance of such resignation shall not be necessary in
+order to make such resignation effective.
+
+     Section 5.05 President. The President, unless a Chairman of the Board is
+elected by the Board, shall, if present, preside at all meetings of the
+Shareholders or the Board.
+
+     The President shall, subject to the ultimate direction of the Board, have
+general supervision, direction and control of the business and affairs of the
+Corporation. He shall have the general powers and duties of management usually
+vested in the chief executive officer of a corporation.
+
+     The President shall provide the general and active management of the
+business operations of the Corporation and shall see that all orders and
+resolutions of the Board are carried into effect. He shall develop and issue or
+cause to be issued such operating policies, procedures and guidelines respecting
+the conduct of the business of the Corporation and of its officers, employees
+and agents as he shall deem appropriate; and shall possess the power and
+authority to authorize exceptions to and deviations from such policies,
+procedures and guidelines where he, in good faith, determines that such
+exceptions or deviations serve the best interests of the Corporation and would
+neither violate applicable law nor do damage to the reputation of the
+Corporation or its Shareholders.
+
+     The President shall execute bonds, mortgages and other contracts requiring
+a seal, under the seal of the Corporation, except where required or permitted by
+law to be otherwise signed and
+
+
+                                       7
+
+<PAGE>
+
+executed and except where the signing and execution thereof shall be delegated
+by the Board to some other officer or agent of the Corporation.
+
+     Section 5.06 Secretary.
+
+     (a) The Secretary shall keep, or cause to be kept, the Minute Book of the
+Corporation at the principal executive office of the Corporation, or such other
+place as the Board may order, of all meetings of Shareholders, the Board and its
+committees, with the time and place of holding, whether regular or special and
+if special, how authorized and the notice thereof given, the names of those
+present at Board and committee meetings, the number of shares present or
+represented at meetings of the Shareholders and the proceedings thereof.
+
+     (b) The Secretary shall keep, or cause to be kept, at the principal
+executive office of the Corporation or at the office of the Corporation's
+transfer agent, a share register, or a duplicate share register, showing the
+names of the shareholders and their addresses; the number and classes of shares
+held by each; the number and date of certificates issued for the same; and the
+number and date of cancellation of every certificate surrendered for
+cancellation.
+
+     (c) The Secretary shall give, or cause to be given, notice of all the
+meetings of the Shareholders and of the Board and of any committees thereof
+required by these Bylaws or by applicable law to be given, and he shall keep the
+seal of the Corporation in safe custody.
+
+     (d) The Secretary shall be under the supervision of the President. He shall
+perform such other duties and have such other authority and powers as the Board
+may from time to time prescribe or as the President may from time to time
+delegate.
+
+     Section 5.07 Treasurer.
+
+     (a) The Treasurer shall deposit or cause the deposit of all monies and
+other valuables in the name and to the credit of the Corporation with such
+depositories as may be designated by the Board.
+
+     (b) The Treasurer shall have custody of the corporate funds and securities
+and shall keep full and accurate accounts of receipts and disbursements of the
+Corporation.
+
+     (c) The Treasurer shall be responsible for effecting the properly
+authorized disbursement of funds of the Corporation and shall provide
+appropriate and timely accounting of his transactions as Treasurer to the
+President and the Board.
+
+     (d) The Treasurer shall keep and maintain, or cause to be kept and
+maintained, adequate and correct accounts of the properties and business
+transactions of the Corporation, including accounts of its assets, liabilities,
+receipts, disbursements, gains, losses, capital, additional paid-in capital and
+retained earnings. Capital and additional paid-in capital shall be classified
+according to source and shown in separate accounts.
+
+     (e) The Treasurer shall provide appropriate and timely reports on the
+financial
+
+
+                                       8
+
+<PAGE>
+
+condition of and the results of operations of the Corporation to the President
+and the Board.
+
+     (f) The Treasurer shall perform such other duties and may have such other
+authority and powers as the Board may from time to time prescribe or as the
+President may from time to time delegate.
+
+     Section 5.08 Vice Presidents. The Vice Presidents, if any, shall exercise
+and perform such powers and duties with respect to the administration of the
+business affairs and operations of the Corporation as may from time to time be
+assigned to each of them by the President or by the Board, or if not ranked, the
+Vice President designated by the Board may perform all of the duties of the
+President and when so acting shall have all of the powers of and be subject to
+all the restrictions upon the President.
+
+     Section 5.09 Assistant Secretaries. The Assistant Secretaries, if any, may,
+in the absence or disability of the Secretary, perform all of the duties of the
+Secretary and when so acting shall have all the powers of and be subject to all
+the restrictions upon the Secretary.
+
+     Section 5.10 Assistant Treasurer. The Assistant Treasurers, if any, may, in
+the absence or disability of the Treasurer, perform all of the duties of the
+Treasurer and when so acting shall have all the powers of and be subject to all
+the restrictions upon the Treasurer.
+
+     Section 5.11 Compensation. The compensation, if any, of the officers and
+agents of the Corporation shall be fixed from time to time by the Board or the
+Executive Committee.
+
+                                   ARTICLE VI
+
+                                   AMENDMENTS
+
+     Section 6.01 Bylaws. Subject to applicable law and the limitations set
+forth in the Articles, new Bylaws may be adopted or these Bylaws may be amended,
+restated or repealed by the Shareholders or the Board, except that Sections 3.01
+and 3.02 may only be amended, restated or repealed by the Shareholders.
+
+                                   ARTICLE VII
+
+                               GENERAL PROVISIONS
+
+     Section 7.01 Seal. The Board shall adopt a corporate seal, which shall be
+in the form of a circle and shall bear the name of the Corporation and words and
+figures showing that the Corporation was incorporated in the State of California
+and the date of incorporation.
+
+     Section 7.02 Method of Notice. Whenever by statute, the Articles, these
+Bylaws, or otherwise, notice is required to be given to a Director, committee
+member or Shareholder, and no provision is made therein as to how the notice
+shall be given, it shall not be construed to mean personal notice, but any such
+notice may be given:
+
+
+                                       9
+
+<PAGE>
+
+     (a) in writing by mail, first-class postage prepaid, addressed to the
+Director, committee member, or Shareholder and the address appearing on the
+books of the Corporation;
+
+     (b) by facsimile transmission; or
+
+     (c) in any other method permitted by law.
+
+Any such notice required or permitted to be given by mail shall be deemed given
+at the time when the same is deposited in accordance with the terms of this
+Section in the United States mails.
+
+     Section 7.03 Waiver of Notice. Except as otherwise provided by applicable
+law, whenever notice is required to be given by these Bylaws or the Articles or
+by law, the person entitled to said notice may waive such notice in writing,
+either before or after the time stated therein, and such waiver shall be deemed
+equivalent to notice. All such waivers shall be filed in the Minute Book of the
+Corporation or made a part of the minutes of the meeting.
+
+     Section 7.04 Fiscal Year. The fiscal year of the Corporation shall end on
+the last day of March in each year.
+
+     Section 7.05 Construction. Whenever the context so requires, the masculine
+gender shall include the feminine and neuter genders and the singular shall
+include the plural, and conversely. If any portion of these Bylaws shall be
+invalid or inoperative, then, so far as is reasonable and possible:
+
+     (a) the remainder of these Bylaws shall be considered valid and operative,
+and
+
+     (b) effect shall be given to the intent manifested by the portion held
+invalid or inoperative.
+
+     Section 7.06 Headings. The headings set forth in these Bylaws are for
+organization, convenience and clarity. In interpreting these Bylaws, the
+headings shall be subordinated in importance to other written material.
+
+     Section 7.07 Relation to the Articles. These Bylaws are subject to and are
+governed by the Articles, the provisions of applicable law, and any written
+agreement by a majority in interest of the Shareholders filed with the
+Corporation at its principal place of business.
+
+
+                                       10
+
+
+
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31.1
+<SEQUENCE>4
+<FILENAME>file4.htm
+<DESCRIPTION>CERTIFICATION OF SENIOR OFFICER
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+<PAGE>
+
+                                                                    Exhibit 31.1
+
+SERVICER CERTIFICATION
+
+I, Paul C. Honda, certify that:
+
+1. I have reviewed this annual report on Form 10-K and all reports on Form 10-D
+required to be filed in respect of the period covered by this report on Form
+10-K of Honda Auto Receivables 2006-1 Owner Trust (the "Exchange Act periodic
+reports");
+
+2. Based on my knowledge, the Exchange Act periodic reports, taken as a whole,
+do not contain any untrue statement of a material fact or omit to state a
+material fact necessary to make the statements made, in light of the
+circumstances under which such statements were made, not misleading with respect
+to the period covered by this report;
+
+3. Based on my knowledge, all the distribution, servicing and other information
+required to be provided under Form 10-D for the period covered by this report is
+included in the Exchange Act periodic reports;
+
+4. I am responsible for reviewing the activities performed by the Servicer and
+based on my knowledge and the compliance review conducted in preparing the
+Servicer compliance statement required in this report under Item 1123 of
+Regulation AB, and except as disclosed in the Exchange Act periodic reports, the
+Servicer has fulfilled its obligations under the Sale and Servicing Agreement in
+all material respects; and
+
+5. All the reports on assessment of compliance with servicing criteria for
+asset-backed securities and their related attestation reports on assessment of
+compliance with servicing criteria for asset-backed securities required to be
+included in this report in accordance with Item 1122 of Regulation AB and
+Exchange Act Rules 13a-18 and 15d-18 have been included as an exhibit to this
+report, except as otherwise disclosed in this report. Any material instances of
+noncompliance described in such reports have been disclosed in this report on
+Form 10-K.
+
+     In giving the certifications above, I have reasonably relied on information
+provided to me by the following unaffiliated parties: FDI Computer Consulting
+Inc., dba FDI Collateral Management and JPMorgan Chase Bank, N.A..
+
+Date: June 26, 2006
+
+
+/s/ Paul C. Honda
+- -------------------------------------
+Paul C. Honda
+Assistant Vice President, Assistant
+Secretary and Compliance Officer of
+American Honda Finance Corporation
+
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-33.1
+<SEQUENCE>5
+<FILENAME>file5.htm
+<DESCRIPTION>REPORT ON ASSESSMENT OF COMPLIANCE WITH SERVICING
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+<PAGE>
+
+                                                                    Exhibit 33.1
+
+                            MANAGEMENT'S ASSERTION ON
+
+                     COMPLIANCE WITH REGULATION AB CRITERIA
+
+     American Honda Finance Corporation (the "Asserting Party") is responsible
+for assessing compliance as of March 31, 2006 and for the period from March 28,
+2006 (date of issuance of the Honda Auto Receivables 2006-1 Owner Trust) through
+March 31, 2006 (the "Reporting Period") with the servicing criteria set forth in
+Title 17, Section 229.1122(d) of the Code of Federal Regulations (the "CFR"),
+except for the criteria set forth in Sections 229.1122(d)(1)(iii)-(iv),
+229.1122(d)(2)(vi), 229.1122(d)(4)(ix)-(xi), 229.1122(d)(4)(xiii) and
+229.1122(d)(4)(xv) in the CFR, which the Asserting Party has concluded are not
+applicable to the servicing of the Honda Auto Receivables 2006-1 Owner Trust
+asset-backed securitization transaction backed by auto receivables and serviced
+by the Asserting Party (the "Applicable Servicing Criteria"). The sole
+asset-backed securitization transaction covered by this report was the Honda
+Auto Receivables 2006-1 Owner Trust.
+
+     The Asserting Party has assessed its compliance with the Applicable
+Servicing Criteria for the Reporting Period and has identified two material
+instances of noncompliance with servicing criteria set forth in Sections
+229.1122(d)(1)(i) and 229.1122(d)(1)(ii), respectively, of the CFR.
+Specifically, as of and for the four-day period ended March 31, 2006, the
+Asserting Party had not instituted policies and procedures to monitor any
+performance or other triggers and events of defaults in accordance with the
+transaction agreements or to monitor third party performance and compliance with
+servicing activities. The Asserting Party has furthermore concluded that, with
+the exception of the aforementioned material instance of noncompliance, the
+Asserting Party has complied, in all material respects, with the Applicable
+Servicing Criteria for the Honda Auto Receivables 2006-1 Owner Trust
+asset-backed securitization transaction backed by auto receivables serviced by
+the Asserting Party.
+
+<PAGE>
+
+     KPMG LLP, an independent registered public accounting firm, has issued an
+attestation report on the assessment of compliance with the Applicable Servicing
+Criteria for the Reporting Period as set forth in this assertion.
+
+American Honda Finance Corporation
+
+
+/s/ Paul C. Honda
+- ------------------------------------------
+Paul C. Honda
+Assistant Vice President,
+Assistant Secretary and Compliance Officer
+
+Date:  June 26, 2006
+
+
+                                       2
+
+
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-33.2
+<SEQUENCE>6
+<FILENAME>file6.htm
+<DESCRIPTION>REPORT ON ASSESSMENT OF COMPLIANCE WITH SERVICING
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+<PAGE>
+
+                                                                    Exhibit 33.2
+
+                            MANAGEMENT'S ASSERTION ON
+                     COMPLIANCE WITH REGULATION AB CRITERIA
+
+     JPMorgan Chase Bank, National Association (the "Asserting Party") is
+responsible for assessing compliance as of March 31, 2006 and for the period
+from March 28, 2006 (date of issuance of the Honda Auto Receivables 2006-1 Owner
+Trust) through March 31, 2006 (the "Reporting Period") with the servicing
+criteria set forth in Section 229.1122(d) of the Code of Federal Regulations
+(the "CFR"), except for criteria 229.1122(d)1(i) - (iv), 2(i), 2(iii) - (vii),
+3(i) and 4(i) - (xv) in the CFR, which the Asserting Party has concluded are not
+applicable to the servicing of the Honda Auto Receivables 2006-1 Owner Trust
+asset-backed securitization transaction backed by auto receivables and serviced
+by the Asserting Party (the "Applicable Servicing Criteria"). The sole
+asset-backed securitization transaction covered by this report was the Honda
+Auto Receivables 2006-1 Owner Trust.
+
+     The Asserting Party has assessed its compliance with the Applicable
+Servicing Criteria for the Reporting Period and has concluded that the Asserting
+Party has complied, in all material respects, with the Applicable Servicing
+Criteria for the Honda Auto Receivables 2006-1 Owner Trust asset-backed
+securitization transaction backed by auto receivables serviced by the Asserting
+Party.
+
+     PricewaterhouseCoopers LLP, an independent registered public accounting
+firm, has issued an attestation report on the assessment of compliance with the
+Applicable Servicing Criteria for the Reporting Period as set forth in this
+assertion.
+
+     JPMorgan Chase Bank, N.A., as Indenture Trustee
+
+
+/s/ Kelly A. Mathieson
+- -------------------------------------
+Kelly A Mathieson, Managing Director
+Date: June 20, 2006
+
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-33.3
+<SEQUENCE>7
+<FILENAME>file7.htm
+<DESCRIPTION>REPORT ON ASSESSMENT OF COMPLIANCE WITH SERVICING
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+<PAGE>
+
+                                                                    Exhibit 33.3
+
+June 20, 2006
+
+American Honda Finance Corporation
+20800 Madrona Ave.
+Torrance, California 90503
+
+Attention: Michael J. Greene
+
+Re: Assessment of compliance for services provided pursuant to the Title
+Administration Agreement dated as of February 5, 2002 between triVIN, Inc.
+(triVIN) for services provided by its wholly owned subsidiary, FDI Computer
+Consulting, Inc., dba FDI Collateral Management, and American Honda Finance
+Corporation (AFHC).
+
+     The Company (as defined below) is responsible for assessing compliance with
+the servicing criteria applicable to it. The Company used the criteria in
+paragraph (d) of Section 1122 of Regulation AB (17 C.F.R. 229.1122(d)) to assess
+compliance with the applicable servicing criteria
+
+     Relating to the services FDI Computer Consulting, Inc., dba FDI Collateral
+Management (the "Company") provides pursuant to the Title Administration
+Agreement dated as of February 5, 2002 between triVIN and AFHC, the Company
+complied in all material respects with the applicable servicing criteria set
+forth in Item 1122 of Regulation AB (17 C.F.R. 229.1122) identified below as of
+and for the period of March 28, 2006 through March 31, 2006 (the "Applicable
+Servicing Criteria"). The extent and nature of the applicability of the
+Applicable Servicing Criteria to the Company's services is qualified by the
+additional information provided below.
+
+     The registered public accounting firm, Ernst and Young LLP has been
+retained to issue an attestation report on the party's compliance with the
+Applicable Servicing Criteria.
+
+      REGULATION AB SECTION 229.1122(D) (ITEM 1122(D)) SERVICING CRITERIA.
+
+<FONT size="1">
+
+   Regulation AB                                                  Applicable Servicing                 Additional
+     Reference                 Servicing criteria.                Criteria/Compliance                  Information
+- ------------------   ---------------------------------------   -------------------------   ----------------------------------
+
+1122(d)(1)           General servicing considerations.
+
+1122(d)(1)(i)        Policies and procedures are instituted   Applicable.                  "Transaction agreements" refer to
+                     to monitor any performance or other      FDI in compliance.           agreements between AHFC and
+                     triggers and events of default in                                     triVIN, Inc., parent company of
+                     accordance with the transaction                                       FDI.
+                     agreements.
+
+1122(d)(1)(ii)       If any material servicing activities      Not applicable.
+                     are outsourced to third parties,
+                     policies and procedures are instituted
+                     to monitor the
+</FONT>
+
+<PAGE>
+
+<FONT size="1">
+
+                     third party's performance and
+                     compliance with such servicing
+                     activities.
+
+1122(d)(1)(iii)      Any requirements in the transaction       Not applicable.
+                     agreements to maintain a back-up
+                     servicer for the pool assets are
+                     maintained.
+
+1122(d)(1)(iv)       A fidelity bond and errors and            Not applicable.
+                     omissions policy is in effect on the
+                     party participating in the servicing
+                     function throughout the reporting
+                     period in the amount of coverage
+                     required by and otherwise in accordance
+                     with the terms of the transaction
+                     agreements.
+
+                     Cash collection and administration.
+
+1122(d)(2)(i)        Payments on pool assets are deposited     Not applicable.
+                     into the appropriate custodial bank
+                     accounts and related bank clearing
+                     accounts no more than two business days
+                     of receipt, or such other number of
+                     days specified in the transaction
+                     agreements.
+
+1122(d)(2)(ii)       Disbursements made via wire transfer on   Not applicable.
+                     behalf of an obligor or to an investor
+                     are made only by authorized personnel.
+
+1122(d)(2)(iii)      Advances of funds or guarantees           Not applicable.
+                     regarding collections, cash flows or
+                     distributions, and any interest or
+                     other fees charged for such advances,
+                     are made, reviewed and approved as
+                     specified in the transaction
+                     agreements.
+
+1122(d)(2)(iv)       The related accounts for the              Not applicable.
+                     transaction, such as cash reserve
+                     accounts or accounts established as a
+                     form of overcollateralization, are
+                     separately maintained (e.g., with
+                     respect to commingling of cash) as set
+                     forth in the transaction agreements.
+
+1122(d)(2)(v)        Each custodial account is                 Not applicable.
+</FONT>
+
+<PAGE>
+
+<FONT size="1">
+
+                     maintained at a federally insured
+                     depository institution as set forth in
+                     the transaction agreements. For
+                     purposes of this criterion, "federally
+                     insured depository institution" with
+                     respect to a foreign financial
+                     institution means a foreign financial
+                     institution that meets the requirements
+                     of Section 240.13k-1(b)(1) of this
+                     chapter.
+
+1122(d)(2)(vi)       Unissued checks are safeguarded so as     Not applicable.
+                     to prevent unauthorized access.
+
+1122(d)(2)(vii)      Reconciliations are prepared on a         Not applicable.
+                     monthly basis for all asset-backed
+                     securities related bank accounts,
+                     including custodial accounts and
+                     related bank clearing accounts. These
+                     reconciliations:
+
+1122(d)(2)(vii)(A)   Are mathematically accurate;              Not applicable.
+
+1122(d)(2)(vii)(B)   Are prepared within 30 calendar days      Not applicable.
+                     after the bank statement cutoff date,
+                     or such other number of days specified
+                     in the transaction agreements;
+
+1122(d)(2)(vii)(C)   Are reviewed and approved by someone      Not applicable.
+                     other than the person who prepared the
+                     reconciliation; and
+
+1122(d)(2)(vii)(D)   Contain explanations for reconciling      Not applicable.
+                     items. These reconciling items are
+                     resolved within 90 calendar days of
+                     their original identification, or such
+                     other number of days specified in the
+                     transaction agreements.
+
+                     Investor remittances and reporting.
+
+1122(d)(3)(i)        Reports to investors, including those     Not applicable.
+                     to be filed with the Commission, are
+                     maintained in accordance with the
+                     transaction agreements and applicable
+                     Commission requirements. Specifically,
+                     such reports:
+</FONT>
+
+<PAGE>
+
+<FONT size="1">
+
+1122(d)(3)(i)(A)     Are prepared in accordance with           Not applicable.
+                     timeframes and other terms set forth in
+                     the transaction agreements;
+
+1122(d)(3)(i)(B)     Provide information calculated in         Not applicable.
+                     accordance with the terms specified in
+                     the transaction agreements;
+
+1122(d)(3)(i)(C)     Are filed with the Commission as          Not applicable.
+                     required by its rules and regulations;
+                     and
+
+1122(d)(3)(i)(D)     Agree with investors' or the trustee's    Not applicable.
+                     records as to the total unpaid
+                     principal balance and number of pool
+                     assets serviced by the servicer.
+
+1122(d)(3)(ii)       Amounts due to investors are allocated    Not applicable.
+                     and remitted in accordance with
+                     timeframes, distribution priority and
+                     other terms set forth in the
+                     transaction agreements.
+
+1122(d)(3)(iii)      Disbursements made to an investor are      Not applicable.
+                     posted within two business days to the
+                     servicer's investor records, or such
+                     other number of days specified in the
+                     transaction agreements.
+
+1122(d)(3)(iv)       Amounts remitted to investors per the     Not applicable.
+                     investor reports agree with cancelled
+                     checks, or other form of payment, or
+                     custodial bank statements.
+
+                     Pool asset administration.
+
+1122(d)(4)(i)        Collateral or security on pool assets     Applicable.                 Amendment 3 - "General Agreement
+                     is maintained as required by the          FDI in compliance.          Changes", paragraph 3, re: General
+                     transaction agreements or related pool                                Security Precautions
+                     asset documents.
+
+1122(d)(4)(ii)       Pool assets and related documents are     Applicable.                 Amendment 3 - "General Agreement
+                     safeguarded as required by the            FDI in Compliance.          Changes", paragraph 3, re: General
+                     transaction agreements.                                               Security Precautions
+</FONT>
+
+<PAGE>
+
+<FONT size="1">
+
+1122(d)(4)(iii)      Any additions, removals or                Not applicable.
+                     substitutions to the asset pool are
+                     made, reviewed and approved in
+                     accordance with any conditions or
+                     requirements in the transaction
+                     agreements.
+
+1122(d)(4)(iv)       Payments on pool assets, including any    Not applicable.
+                     payoffs, made in accordance with the
+                     related pool asset documents are posted
+                     to the applicable servicer's obligor
+                     records maintained no more than two
+                     business days after receipt, or such
+                     other number of days specified in the
+                     transaction agreements, and allocated
+                     to principal, interest or other items
+                     (e.g., escrow) in accordance with the
+                     related pool asset documents.
+
+1122(d)(4)(v)        The servicer's records regarding the      Not applicable.
+                     pool assets agree with the servicer's
+                     records with respect to an obligor's
+                     unpaid principal balance.
+
+1122(d)(4)(vi)       Changes with respect to the terms or
+                     status of an obligor's pool asset         Not applicable.
+                     (e.g., loan modifications or re-agings)
+                     are made, reviewed and approved by
+                     authorized personnel in accordance with
+                     the transaction agreements and related
+                     pool asset documents.
+
+1122(d)(4)(vii)      Loss mitigation or recovery actions       Not applicable.
+                     (e.g., forbearance plans, modifications
+                     and deeds in lieu of foreclosure,
+                     foreclosures and repossessions, as
+                     applicable) are initiated, conducted
+                     and concluded in accordance with the
+                     timeframes or other requirements
+                     established by the transaction
+                     agreements.
+
+1122(d)(4)(viii)     Records documenting collection efforts    Not applicable.
+                     are maintained during the period a pool
+                     asset is delinquent in
+</FONT>
+
+<PAGE>
+
+<FONT size="1">
+
+                     accordance with the transaction
+                     agreements. Such records are maintained
+                     on at least a monthly basis, or such
+                     other period specified in the
+                     transaction agreements, and describe
+                     the entity's activities in monitoring
+                     delinquent pool assets including, for
+                     example, phone calls, letters and
+                     payment rescheduling plans in cases
+                     where delinquency is deemed temporary
+                     (e.g., illness or unemployment).
+
+1122(d)(4)(ix)       Adjustments to interest rates or rates     Not applicable.
+                     of return for pool assets with variable
+                     rates are computed based on the related
+                     pool asset documents.
+
+1122(d)(4)(x)        Regarding any funds held in trust for      Not applicable.
+                     an obligor (such as escrow accounts):
+
+1122(d)(4)(x)(A)     Such funds are analyzed, in accordance    Not applicable.
+                     with the obligor's pool asset
+                     documents, on at least an annual basis,
+                     or such other period specified in the
+                     transaction agreements;
+
+1122(d)(4)(x)(B)     Interest on such funds is paid, or        Not applicable.
+                     credited, to obligors in accordance
+                     with applicable pool asset documents
+                     and state laws; and
+
+1122(d)(4)(x)(C)     Such funds are returned to the obligor    Not applicable.
+                     within 30 calendar days of full
+                     repayment of the related pool asset, or
+                     such other number of days specified in
+                     the transaction agreements.
+
+1122(d)(4)(xi)       Payments made on behalf of an obligor     Not applicable.
+                     (such as tax or insurance payments) are
+                     made on or before the related penalty
+                     or expiration dates, as indicated on
+                     the appropriate bills or notices for
+                     such payments, provided that such
+                     support has been received by the
+                     servicer at least 30 calendar days
+                     prior to
+</FONT>
+
+<PAGE>
+
+<FONT size="1">
+
+                     these dates, or such other number of
+                     days specified in the transaction
+                     agreements.
+
+1122(d)(4)(xii)      Any late payment penalties in             Not applicable.
+                     connection with any payment to be made
+                     on behalf of an obligor are paid from
+                     the servicer's funds and not charged to
+                     the obligor, unless the late payment
+                     was due to the obligor's error or
+                     omission.
+
+1122(d)(4)(xiii)     Disbursements made on behalf of an        Not applicable.
+                     obligor are posted within two business
+                     days to the obligor's records
+                     maintained by the servicer, or such
+                     other number of days specified in the
+                     transaction agreements.
+
+1122(d)(4)(xiv)      Delinquencies, charge-offs and            Not applicable.
+                     uncollectable accounts are recognized
+                     and recorded in accordance with the
+                     transaction agreements.
+
+1122(d)(4)(xv)       Any external enhancement or other         Not applicable.
+                     support, identified in Item 1114(a)(1)
+                     through (3) or Item 1115 of this
+                     Regulation AB, is maintained as set
+                     forth in the transaction agreements.
+</FONT>
+
+
+Date: June 20, 2006                     By: /s/ Jeff Cooke
+                                            ------------------------------------
+                                        Name: Jeff Cooke
+                                        Title: President
+
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-34.1
+<SEQUENCE>8
+<FILENAME>file8.htm
+<DESCRIPTION>ATTESTATION RPT ON ASSESS OF COMP W/SERVICING
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+<PAGE>
+
+                                                                    Exhibit 34.1
+
+             REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+The Board of Directors
+American Honda Finance Corporation:
+
+We have examined American Honda Finance Corporation's (the Company) compliance
+with the servicing criteria set forth in Item 1122(d) of the Securities and
+Exchange Commission's Regulation AB for Asset Backed Notes, Series 2006-1,
+except for the servicing criteria 1122(d)(1)(iii), 1122(d)(1)(iv),
+1122(d)(2)(vi), 1122(d)(4)(ix), 1122(d)(4)(x), 1122(d)(4)(xi), 1122(d)(4)(xiii),
+and 1122(d)(4)(xv), which the Company has determined as being applicable to the
+activities it performs with respect to the asset-backed securities transactions
+being serviced as of March 31, 2006 and for the four-day period from March 28,
+2006 (the date of issuance of the Honda Auto Receivables 2006-1 Owner Trust)
+through March 31, 2006. Management is responsible for American Honda Finance
+Corporation's compliance with those servicing criteria. Our responsibility is to
+express an opinion on American Honda Finance Corporation's compliance based on
+our examination.
+
+Our examination was conducted in accordance with the standards of the Public
+Company Accounting Oversight Board (United States) and, accordingly, included
+examining, on a test basis, evidence about the Company's compliance with the
+servicing criteria specified above and performing such other procedures as we
+considered necessary in the circumstances. We believe that our examination
+provides a reasonable basis for our opinion. Our examination does not provide a
+legal determination on the Company's compliance with the servicing criteria.
+
+Our examination disclosed the following material noncompliance with
+1122(d)(1)(i) and 1122(d)(1)(ii) applicable to American Honda Finance
+Corporation during the four-day period ended March 31, 2006. There were no
+policies and procedures instituted to monitor any performance or other triggers
+and events of defaults in accordance with the transaction agreement. There were
+no policies and procedures instituted to monitor third-party performance and
+compliance with servicing activities.
+
+In our opinion, except for the material noncompliance described in the third
+paragraph, American Honda Finance Corporation complied, in all material
+respects, with the aforementioned servicing criteria for the four-day period
+ended March 31, 2006.
+
+/s/ KPMG LLP
+
+Los Angeles, California
+
+June 23, 2006
+
+
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-34.2
+<SEQUENCE>9
+<FILENAME>file9.htm
+<DESCRIPTION>REPORT ON ASSESSMENT OF COMPLIANCE WITH SERVICING
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+<PAGE>
+
+                                                                    Exhibit 34.2
+
+             REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM
+
+To the Board of Directors
+JPMorgan Chase Bank, National Association:
+
+We have examined management's assertion, included in the accompanying
+Management's Assertion on Compliance with Regulation AB Criteria, that JPMorgan
+Chase Bank, National Association (the "Bank") complied with the servicing
+criteria set forth in Section 229.1122(d) of the Code of Federal Regulations
+(the "CFR") for the Bank's Honda Auto Receivables 2006-1 Owner Trust
+asset-backed securitization transaction backed by auto receivables and serviced
+by the Bank as of March 31, 2006 and for the period from March 28, 2006 (the
+date of issuance of the Honda Auto Receivables 2006-1 Owner Trust) through March
+31, 2006 (the "Reporting Period"), except for servicing criteria (d)(1)(i) -
+(iv), 2(i), 2(iii) - (vii), 3(i) and 4(i) - (xv) in Section 229.1122(d) of the
+CFR, which the Bank has concluded are servicing criteria not applicable to the
+servicing of the Honda Auto Receivables 2006-1 Owner Trust asset-backed
+securitization transaction backed by auto receivables and serviced by the Bank
+(the "Applicable Servicing Criteria"). The sole asset-backed securitization
+transaction covered by this report is the Honda Auto Receivables 2006-1 Owner
+Trust. Management is responsible for the Bank's compliance with the Applicable
+Servicing Criteria. Our responsibility is to express an opinion on management's
+assertion about the Bank's compliance based on our examination.
+
+Our examination was conducted in accordance with the standards of the Public
+Company Accounting Oversight Board (United States) and, accordingly, included
+examining, on a test basis, evidence about the Bank's compliance with the
+Applicable Servicing Criteria and performing such other procedures as we
+considered necessary in the circumstances. We believe that our examination
+provides a reasonable basis for our opinion. Our examination does not provide a
+legal determination on the Bank's compliance with the Applicable Servicing
+Criteria.
+
+In our opinion, management's assertion that the Bank complied with the
+Applicable Servicing Criteria as of March 31, 2006 and for the period from March
+28, 2006 through March 31, 2006 is fairly stated, in all material respects.
+
+
+/s/ PricewaterhouseCoopers LLP
+
+New York, New York
+June 20, 2006
+
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-35.1
+<SEQUENCE>10
+<FILENAME>file10.htm
+<DESCRIPTION>SERVICING COMPLIANCE STATEMENTS OF AMERICAN HONDA
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+<PAGE>
+
+                                                                    Exhibit 35.1
+
+                       AMERICAN HONDA FINANCE CORPORATION
+                          ANNUAL COMPLIANCE CERTIFICATE
+       PURSUANT TO SECTION 3.11(A) OF THE SALE AND SERVICING AGREEMENT AND
+                           ITEM 1123 OF REGULATION AB
+
+     I, Paul Honda, do hereby certify that I am the Assistant Vice President,
+Assistant Secretary and Compliance Officer of American Honda Finance
+Corporation, a California corporation (the "Company"), and further certify on
+behalf of the Company in its capacity as servicer (the "Servicer" and "Sponsor")
+under the Sale and Servicing Agreement (the "Agreement") dated as of March 1,
+2006 among the Servicer and Sponsor, American Honda Receivables Corp., as
+Seller, and Honda Auto Receivables 2006-1 Owner Trust as follows:
+
+     (i) A review of the activities of the Servicer during the 4 day period
+     ended March 31, 2006, and of its performance under the Agreement has been
+     made under my supervision;
+
+     (ii) To the best of my knowledge and information, based upon such review,
+     the Servicer has fulfilled all its obligations under the Agreement
+     throughout such period in all material respects; and
+
+     (iii) To the best of my knowledge and information, no event of default nor
+     any event which with the giving of notice or lapse of time, or both, would
+     become an event of default the Agreement, has occurred or is continuing.
+
+     IN WITNESS WHEREOF, I have hereunto set my hand this 26th day of June,
+2006.
+
+
+                                   /s/ Paul C. Honda
+                                   ---------------------------------------------
+                                   Paul C. Honda
+                                   Assistant Vice President, Assistant Secretary
+                                   and Compliance Officer
+
+
+
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-35.2
+<SEQUENCE>11
+<FILENAME>file11.htm
+<DESCRIPTION>SERVICING COMPLIANCE STATEMENT OF FDI COMPUTER CON
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+<PAGE>
+
+                                                                    Exhibit 35.2
+
+June 20, 2006
+
+American Honda Finance Corporation
+20800 Madrona Ave.
+Torrance, California 90503
+
+Attention: Michael J. Greene
+
+Re: Assessment of compliance for services provided pursuant to the Title
+Administration Agreement dated as of February 5, 2002 between triVIN, Inc.
+(triVIN) for services provided by its wholly owned subsidiary, FDI Computer
+Consulting, Inc., dba FDI Collateral Management (the Company), and American
+Honda Finance Corporation (AFHC).
+
+     a)   A review of the Company's activities and performance under the Title
+          Administration Agreement dated as of February 5, 2002 between triVIN
+          and AFHC during the period commencing March 28, 2006 through and
+          including March 31, 2006 has been conducted under my supervision, and;
+
+     b)   To the best of my knowledge, based upon such review, the Company has
+          fulfilled its obligations under the Title Administration Agreement
+          dated as of February 5, 2002 between triVIN and AFHC in all material
+          respects throughout the period commencing March 28, 2006 through and
+          including March 31, 2006.
+
+Signed as of June 20, 2006.
+
+                                               FDI COMPUTER CONSULTING INC.,
+                                               DBA FDI COLLATERAL
+                                               MANAGEMENT
+
+
+                                               By: /s/ Jeff Cooke
+                                                   -----------------------------
+                                                   Name: Jeff Cooke
+                                                   Title: President
+
+
+
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>12
+<FILENAME>file12.htm
+<DESCRIPTION>ANNUAL SERVICER REPORT PROVIDED AMERICAN HONDA FIN
+<TEXT>
+<HTML>
+<HEAD>
+<TITLE>
+</TITLE>
+</HEAD>
+<BODY>
+<PRE>
+<PAGE>
+
+                                                                          page 1
+
+
+                       AMERICAN HONDA FINANCE CORPORATION
+               Annual Statement to Certificateholder -- Honda Auto
+                         Receivables 2006-1 Owner Trust
+                            04/01/05 through 03/31/06
+
+<FONT size="1">
+I. ORIGINAL DEAL PARAMETER INPUTS
+- ---------------------------------
+
+   (A) Total Portfolio Balance                                                                              $1,303,489,996.17
+   (B) Total Securities Balance                                                                             $1,303,489,996.17
+   (C) Class A-1 Notes
+       (i)   Class A-1 Notes Balance                                                                          $298,000,000.00
+       (ii)  Class A-1 Notes Percentage (C(i)/B)                                                                        22.86%
+       (iii) Class A-1 Notes Rate                                                                                     4.93378%
+       (iv)  Class A-1 Notes Accrual Basis                                                                         Actual/360
+
+   (D) Class A-2 Notes
+       (i)   Class A-2 Notes Balance                                                                          $316,000,000.00
+       (ii)  Class A-2 Notes Percentage (D(i)/B)                                                                        24.24%
+       (iii) Class A-2 Notes Rate                                                                                       5.100%
+       (iv)  Class A-2 Notes Accrual Basis                                                                             30/360
+   (E) Class A-3 Notes
+       (i)   Class A-3 Notes Balance                                                                          $400,000,000.00
+       (ii)  Class A-3 Notes Percentage (E(i)/B)                                                                        30.69%
+       (iii) Class A-3 Notes Rate                                                                                       5.070%
+       (iv)  Class A-3 Notes Accrual Basis                                                                             30/360
+   (F) Class A-4 Notes
+       (i)   Class A-4 Notes Balance                                                                          $247,130,000.00
+       (ii)  Class A-4 Notes Percentage (F(i)/B)                                                                        18.96%
+       (iii) Class A-4 Notes Rate                                                                                       5.080%
+       (iv)  Class A-4 Notes Accrual Basis                                                                             30/360
+   (G) Certificates
+       (i)   Certificates Balance                                                                              $42,359,996.17
+       (ii)  Certificates Percentage (G(i)/B)                                                                            3.25%
+       (iii) Certificates Rate                                                                                          0.000%
+       (iv)  Certificates Accrual Basis                                                                                30/360
+   (H) Servicing Fee Rate                                                                                                1.00%
+   (I) Portfolio Summary
+       (i)   Weighted Average Coupon (WAC)                                                                               6.34%
+       (ii)  Weighted Average Original Maturity (WAOM)                                                                  57.92 months
+       (iii) Weighted Average Remaining Maturity (WAM)                                                                  52.88 months
+       (iv)  Number of Receivables                                                                                     74,512
+   (J) Reserve Fund
+       (i)   Reserve Account Initial Deposit Percentage                                                                  0.50%
+       (ii)  Reserve Account Initial Deposit                                                                    $6,517,449.98
+       (iii) Specified Reserve Account Percentage                                                                        0.75%
+       (iv)  Specified Reserve Account Balance                                                                  $9,776,174.97
+   (K) Yield Supplement Account Deposit                                                                        $25,667,158.93
+
+II. INPUTS FROM PREVIOUS MONTHLY SERVICER REPORTS
+- -------------------------------------------------
+   (A) Total Portfolio Balance                                                                              $1,303,489,996.17
+   (B) Total Securities Balance                                                                             $1,303,489,996.17
+   (C) Cumulative Note and Certificate Pool Factor                                                                  1.0000000
+   (D) Class A-1 Notes
+       (i)   Class A-1 Notes Balance                                                                          $298,000,000.00
+       (ii)  Class A-1 Notes Pool Factor                                                                            1.0000000
+       (iii) Class A-1 Notes Interest Carryover Shortfall                                                               $0.00
+       (iv)  Class A-1 Notes Principal Carryover Shortfall                                                              $0.00
+   (E) Class A-2 Notes
+       (i)   Class A-2 Notes Balance                                                                          $316,000,000.00
+       (ii)  Class A-2 Notes Pool Factor                                                                            1.0000000
+       (iii) Class A-2 Notes Interest Carryover Shortfall                                                               $0.00
+       (iv)  Class A-2 Notes Principal Carryover Shortfall                                                              $0.00
+   (F) Class A-3 Notes
+       (i)   Class A-3 Notes Balance                                                                          $400,000,000.00
+       (ii)  Class A-3 Notes Pool Factor                                                                            1.0000000
+       (iii) Class A-3 Notes Interest Carryover Shortfall                                                               $0.00
+       (iv)  Class A-3 Notes Principal Carryover Shortfall                                                              $0.00
+   (G) Class A-4 Notes
+       (i)   Class A-4 Notes Balance                                                                          $247,130,000.00
+       (ii)  Class A-4 Notes Pool Factor                                                                            1.0000000
+       (iii) Class A-4 Notes Interest Carryover Shortfall                                                               $0.00
+       (iv)  Class A-4 Notes Principal Carryover Shortfall                                                              $0.00
+   (H) Certificates
+       (i)   Certificates Balance                                                                              $42,359,996.17
+       (ii)  Certificates Pool Factor                                                                               1.0000000
+       (iii) Certificates Interest Carryover Shortfall                                                                  $0.00
+       (iv)  Certificates Principal Carryover Shortfall                                                                 $0.00
+   (I) Servicing Fee
+       (i) Servicing Fee Shortfall                                                                                      $0.00
+   (J) End of Prior Month Account Balances
+       (i)   Reserve Account                                                                                    $6,517,449.98
+       (ii)  Yield Supplement Account                                                                          $25,667,158.93
+       (iii) Payahead Account                                                                                           $0.00
+       (iv)  Advances Outstanding                                                                                       $0.00
+   (K) Portfolio Summary as of End of Prior Year
+       (i)   Weighted Average Coupon (WAC)                                                                               6.34%
+       (ii)  Weighted Average Remaining Maturity (WAM)                                                                  52.88 months
+       (iii) Number of Receivables                                                                                     74,512
+   (L) Note and Certificate Percentages
+       (i)   Note Percentage                                                                                           100.00%
+       (ii)  Certificate Percentage                                                                                      0.00%
+</FONT>
+
+<PAGE>
+
+                                                                          page 2
+
+
+                       AMERICAN HONDA FINANCE CORPORATION
+               Annual Statement to Certificateholder -- Honda Auto
+                         Receivables 2006-1 Owner Trust
+                            04/01/05 through 03/31/06
+
+<FONT size="1">
+III. INPUTS FROM THE MAINFRAME
+- ------------------------------
+
+   (A) Precomputed Contracts Principal
+      (i)    Scheduled Principal Collections                                                                            $0.00
+      (ii)   Prepayments in Full                                                                                        $0.00
+      (iii)  Prepayments in Full due to Repurchases                                                                     $0.00
+   (B) Precomputed Contracts Total Collections                                                                          $0.00
+   (C) Precomputed Interest Receivables Interest (B-A((i)+(ii)+(iii)))                                                  $0.00
+   (D) Simple Interest Receivables Principal
+      (i)    Principal Collections                                                                             $26,675,248.40
+      (ii)   Prepayments in Full                                                                               $14,950,488.13
+      (iii)  Repurchased Receivables Related to Principal                                                               $0.00
+   (E) Simple Interest Receivables Interest
+      (i)   Simple Interest Collections                                                                         $6,771,386.37
+   (F) Payment Advance for Precomputes
+      (i)    Reimbursement of Previous Advances                                                                         $0.00
+      (ii)   Current Advance Amount                                                                                     $0.00
+   (G) Interest Advance for simple Interest - Net                                                                 $407,294.82
+   (H) Payahead Account
+      (i)    Payments Applied                                                                                           $0.00
+      (ii)   Additional Payaheads                                                                                       $0.00
+   (I) Portfolio Summary as of End of Month
+      (i)    Weighted Average Coupon (WAC)                                                                               6.34%
+      (ii)   Weighted Average Remaining Maturity (WAM)                                                                  51.63 months
+      (iii)  Remaining Number of Receivables                                                                           73,593
+
+   (J) Delinquent Receivables                                                  # Units         Dollar Amount
+                                                                             -----------    -------------------
+      (i)    30-59 Days Delinquent                                           20    0.03%    $368,125.52   0.03%
+      (ii)   60-89 Days Delinquent                                            2    0.00%    $ 27,233.74   0.00%
+      (iii)  90 Days or More Delinquent                                       0    0.00%    $      0.00   0.00%
+   (K) Vehicles Repossessed During Collection Period                         10    0.01%    $160,936.41   0.01%
+   (L) Total Accumulated Repossessed Vehicles in Inventory                   10    0.01%    $160,936.41   0.01%
+
+IV. INPUTS DERIVED FROM OTHER SOURCES
+- -------------------------------------
+   (A) Collection Account Investment Income                                                                             $0.00
+   (B) Reserve Account Investment Income                                                                           $16,952.89
+   (C) Yield Supplement Account Investment Income                                                                  $66,764.66
+   (D) Trust Fees Expense                                                                                               $0.00
+   (E) Aggregate Net Losses for Collection Period                                                                   $1,882.59
+   (F) Liquidated Receivables Information
+      (i)    Gross Principal Balance on Liquidated Receivables                                                      $1,882.59
+      (ii)   Liquidation Proceeds                                                                                       $0.00
+      (iii)  Recoveries from Prior Month Charge Offs                                                                    $0.00
+   (G) Days in Accrual Period                                                                                              21
+   (H) Deal age                                                                                                             1
+
+                                                                   COLLECTIONS
+                                                                   -----------
+
+V. INTEREST COLLECTIONS
+- ------------------------
+   (A) Total Interest Collections (III(C+E(i)+G)                                                                $7,178,681.19
+
+VI. PRINCIPAL COLLECTIONS
+- -------------------------
+   (A) Principal Payments Received  (III(A((i)+(ii))+(D(i)+(ii)))                                              $41,625,736.53
+   (B) Liquidation Proceeds  (IV(H(i)))                                                                                 $0.00
+   (C) Repurchased Loan Proceeds Related to Principal  (III(A(iii)+D(iii)))                                             $0.00
+   (D) Recoveries from Prior Charge Offs (IV(H(ii)))                                                                    $0.00
+   (E) Total Principal Collections (A+B+C+D)                                                                    41,625,736.53
+
+VII. TOTAL INTEREST AND PRINCIPAL COLLECTIONS  (V(C)+VI(E))                                                     48,804,417.72
+- -----------------------------------------------------------
+
+VIII. YIELD SUPPLEMENT DEPOSIT                                                                                  $1,561,927.28
+- ------------------------------
+
+IX. TOTAL AVAILABLE AMOUNT (VII+VIII)                                                                           50,366,345.00
+- -------------------------------------
+
+                                                                  DISTRIBUTIONS
+                                                                  -------------
+
+X. FEE DISTRIBUTIONS
+- --------------------
+   (A) Servicing Fee
+      (i)    Servicing Fee Due (I(H)/12)(II(B))+(II(H)(i))                                                      $1,086,241.66
+      (ii)   Servicing Fee Paid                                                                                  1,086,241.66
+                                                                                                               --------------
+      (iii)  Servicing Fee Shortfall                                                                                    $0.00
+   (B) Reserve Account Investment Income (IV(B))                                                                    16,952.89
+   (C) Yield Supplement Account Investment Income  (IV(C))                                                              $0.00
+   (D) Trust Fees Expense (IV(D))                                                                                       $0.00
+
+XI. DISTRIBUTIONS TO NOTEHOLDERS
+- --------------------------------
+   (A) Interest
+      (i) Class A-1 Notes
+             (a) Class A-1 Notes Interest Due                                                                     $857,655.42
+             (b) Class A-1 Notes Interest Paid                                                                     857,655.42
+                                                                                                               --------------
+             (c) Class A-1 Notes Interest Shortfall                                                                     $0.00
+      (ii)  Class A-2 Notes
+             (a) Class A-2 Notes Interest Due                                                                     $895,333.33
+             (b) Class A-2 Notes Interest Paid                                                                     895,333.33
+                                                                                                               --------------
+             (c) Class A-2 Notes Interest Shortfall                                                                     $0.00
+      (iii) Class A-3 Notes
+             (a) Class A-3 Notes Interest Due                                                                   $1,126,666.67
+             (b) Class A-3 Notes Interest Paid                                                                   1,126,666.67
+                                                                                                               --------------
+             (c) Class A-3 Notes Interest Shortfall                                                                     $0.00
+      (iv)  Class A-4 Notes
+             (a) Class A-4 Notes Interest Due                                                                     $697,455.78
+</FONT>
+
+<PAGE>
+
+                                                                          page 3
+
+
+                       AMERICAN HONDA FINANCE CORPORATION
+               Annual Statement to Certificateholder -- Honda Auto
+                         Receivables 2006-1 Owner Trust
+                            04/01/05 through 03/31/06
+
+<FONT size="1">
+
+             (b) Class A-4 Notes Interest Paid                                                                     697,455.78
+                                                                                                               --------------
+             (c) Class A-4 Notes Interest Shortfall                                                                     $0.00
+</FONT>
+
+<PAGE>
+                                                                                                    page 4
+
+                       AMERICAN HONDA FINANCE CORPORATION
+               Annual Statement to Certificateholder -- Honda Auto
+                         Receivables 2006-1 Owner Trust
+                           04/01/05 through 03/31/06
+
+<FONT size="1">
+
+      (v)    Total Note Interest
+             (a)  Total Note Interest Due                                                                       $3,577,111.20
+             (b)  Total Note Interest Paid                                                                       3,577,111.20
+                                                                                                            -----------------
+             (c) Total Note Interest Shortfall                                                                          $0.00
+             (d) Reserve Fund Withdrawn for Note Interest                                                               $0.00
+
+Amount available for distributions after Fees & Interest
+   (VIII-(IX(A)(ii)-(D))-X(A)(v)(b))                                                                            45,702,992.14
+   (B) Principal
+      (i)    Noteholders' Principal Distribution Amounts                                                       $41,627,619.12
+      (ii)   Class A-1 Notes Principal
+             (a)  Class A-1 Notes Principal Due                                                                 41,627,619.12
+             (b)  Class A-1 Notes Principal Paid                                                                41,627,619.12
+                                                                                                            -----------------
+             (c)  Class A-1 Notes Principal Shortfall                                                                   $0.00
+             (d)  Reserve Fund drawn                                                                                    $0.00
+      (iii)  Class A-2 Notes Principal
+             (a)  Class A-2 Notes Principal Due                                                                         $0.00
+             (b)  Class A-2 Notes Principal Paid                                                                         0.00
+                                                                                                            -----------------
+             (c)  Class A-2 Notes Principal Shortfall                                                                   $0.00
+             (d)  Reserve Fund drawn                                                                                    $0.00
+      (iv)   Class A-3 Notes Principal
+             (a)  Class A-3 Notes Principal Due                                                                         $0.00
+             (b)  Class A-3 Notes Principal Paid                                                                         0.00
+                                                                                                            -----------------
+             (c)  Class A-3 Notes Principal Shortfall                                                                   $0.00
+             (d)  Reserve Fund drawn                                                                                    $0.00
+      (v)    Class A-4 Notes Principal
+             (a)  Class A-4 Notes Principal Due                                                                         $0.00
+             (b)  Class A-4 Notes Principal Paid                                                                         0.00
+                                                                                                            -----------------
+             (c)  Class A-4 Notes Principal Shortfall                                                                   $0.00
+             (d)  Reserve Fund drawn                                                                                    $0.00
+      (vi)   Total Notes Principal
+             (a)  Total Notes Principal Due                                                                    $41,627,619.12
+             (b)  Total Notes Principal Paid                                                                    41,627,619.12
+                                                                                                            -----------------
+             (c) Total Notes Principal Shortfall                                                                        $0.00
+             (d) Reserve Fund drawn                                                                                     $0.00
+Amount available for distributions to the Certificates and Reserve Fund                                          4,075,373.02
+
+XIII. DISTRIBUTIONS TO CERTIFICATEHOLDERS
+- -----------------------------------------
+   (A) Interest
+      (i)    Certificate Monthly Interest Due                                                                           $0.00
+      (ii)   Certificate Interest Shortfall Beginning Balance                                                           $0.00
+      (iii)  Total Certificate Interest Due                                                                             $0.00
+      (iv)   Certificate Interest Paid                                                                                   0.00
+                                                                                                            -----------------
+      (v) Certificate Interest Shortfall Ending Balance                                                                 $0.00
+   (B) Principal
+      (i)    Certificate Monthly Principal Due                                                                          $0.00
+      (ii)   Certificate Principal Shortfall Beginning Balance                                                          $0.00
+      (iii)  Total Certificate Principal Due                                                                            $0.00
+      (iv)   Certificate Principal Paid                                                                                  0.00
+                                                                                                            -----------------
+      (v)    Certificate Principal Shortfall Ending Balance                                                             $0.00
+
+XII. RESERVE FUND DEPOSIT
+- -------------------------
+   Amount available for deposit into reserve account                                                            $4,075,373.02
+   Amount deposited into reserve account                                                                         3,258,724.99
+   Excess Amount Released from Reserve Account                                                                           0.00
+   Excess funds available to Certificateholders                                                                    816,648.03
+
+                                                                DISTRIBUTIONS SUMMARY
+                                                                ---------------------
+
+   (A) Total Collections                                                                                       $50,366,345.00
+   (B) Service Fee                                                                                              $1,086,241.66
+   (C) Trustee Fees                                                                                                      0.00
+   (D) Class A1 Amount                                                                                         $42,485,274.54
+   (E) Class A2 Amount                                                                                            $895,333.33
+   (F) Class A3 Amount                                                                                          $1,126,666.67
+   (G) Class A4 Amount                                                                                            $697,455.78
+   (H) Certificateholders                                                                                               $0.00
+   (I) Amount Deposited into Reserve Account                                                                    $3,258,724.99
+   (J) Release to seller                                                                                          $816,648.03
+   (K) Total amount distributed                                                                                $50,366,345.00
+   (L) Amount of Draw from Reserve Account                                                                               0.00
+   (M) Excess Amount Released from Reserve Account                                                                       0.00
+
+                                                           PORTFOLIO AND SECURITY SUMMARY
+                                                           ------------------------------
+                                                                                      Beginning                    End
+                                                                                      of Period                 of Period
+                                                                                  -----------------         -----------------
+
+XIV. POOL BALANCES AND PORTFOLIO INFORMATION
+- --------------------------------------------
+   (A) Balances and Principal Factors
+      (i)    Aggregate Balance of Notes                                           $1,261,130,000.00         $1,219,502,380.88
+      (ii)   Note Pool Factor                                                             1.0000000                 0.9669918
+      (iii)  Class A-1 Notes Balance                                                 298,000,000.00            256,372,380.88
+      (iv)   Class A-1 Notes Pool Factor                                                  1.0000000                 0.8603100
+      (v)    Class A-2 Notes Balance                                                 316,000,000.00            316,000,000.00
+      (vi)   Class A-2 Notes Pool Factor                                                  1.0000000                 1.0000000
+      (vii)  Class A-3 Notes Balance                                                 400,000,000.00            400,000,000.00
+      (viii) Class A-3 Notes Pool Factor                                                  1.0000000                 1.0000000
+      (ix)   Class A-4 Notes Balance                                                 247,130,000.00            247,130,000.00
+      (x)    Class A-4 Notes Pool Factor                                                  1.0000000                 1.0000000
+      (xi)   Certificates Balance                                                     42,359,996.17             42,359,996.17
+      (xii)  Certificates Pool Factor                                                     1.0000000                 1.0000000
+</FONT>
+
+<PAGE>
+                                                                                                    page 5
+
+                       AMERICAN HONDA FINANCE CORPORATION
+               Annual Statement to Certificateholder -- Honda Auto
+                         Receivables 2006-1 Owner Trust
+                           04/01/05 through 03/31/06
+
+<FONT size="1">
+
+      (xiii) Total Principal Balance of Notes and Certificates                     1,303,489,996.17          1,261,862,377.05
+   (B) Portfolio Information
+
+      (i)    Weighted Average Coupon (WAC)                                                     6.34%                     6.34%
+      (ii)   Weighted Average Remaining Maturity (WAM)                                        52.88 months              51.63 months
+      (iii)  Remaining Number of Receivables                                                 74,512                    73,593
+      (iv)   Portfolio Receivable Balance                                         $1,303,489,996.17         $1,261,862,377.05
+   (C) Outstanding Advance Amount                                                             $0.00               $407,294.82
+   (D) Outstanding Payahead Balance                                                           $0.00                     $0.00
+</FONT>
+
+<PAGE>
+                                                                                                    page 6
+
+                       AMERICAN HONDA FINANCE CORPORATION
+               Annual Statement to Certificateholder -- Honda Auto
+                         Receivables 2006-1 Owner Trust
+                           04/01/05 through 03/31/06
+
+
+                               SUMMARY OF ACCOUNTS
+                               -------------------
+
+<FONT size="1">
+XV. RECONCILIATION OF RESERVE ACCOUNT
+- -------------------------------------
+
+   (A) Beginning Reserve Account Balance                                                                        $6,517,449.98
+   (B) Draws
+      (i)   Draw for Servicing Fee                                                                                       0.00
+      (ii)  Draw for Interest                                                                                            0.00
+      (iii) Draw for Realized Losses                                                                                     0.00
+   (C) Excess Interest Deposited into the Reserve Account                                                        3,258,724.99
+   (D) Reserve Account Balance Prior to Release                                                                  9,776,174.97
+   (E) Reserve Account Required Amount                                                                           9,776,174.97
+   (F) Final Reserve Account Required Amount                                                                     9,776,174.97
+   (G) Excess Reserve Account Amount                                                                                     0.00
+   (H) Ending Reserve Account Balance                                                                            9,776,174.97
+
+XVI. RECONCILIATION OF YIELD SUPPLEMENT ACCOUNT
+- -----------------------------------------------
+   (A) Beginning Yield Supplement Account Balance                                                               25,667,158.93
+   (B) Investment Earnings                                                                                          66,764.66
+   (C) Investment Earnings Withdraw                                                                                      0.00
+   (D) Additional Yield Supplement Amounts                                                                               0.00
+   (E) Yield Supplement Deposit Amount                                                                           1,561,927.28
+   (F) Release of Yield Deposit Account Balance to Seller                                                                0.00
+                                                                                                            -----------------
+   (G) Ending Yield Supplement Account Balance                                                                  24,171,996.31
+
+XVII. NET LOSS AND DELINQUENCY ACCOUNT ACTIVITY
+- -----------------------------------------------
+   (A) Liquidated Contracts
+      (i)  Liquidation Proceeds                                                                                        $0.00
+      (ii) Recoveries on Previously Liquidated Contracts                                                                0.00
+   (B) Aggregate Net Losses for Collection Period                                                                   1,882.59
+   (C) Net Loss Rate for Collection Period (annualized)                                                                 0.00%
+   (D) Cumulative Net Losses for all Periods                                                                       $1,882.59
+
+   (E) Delinquent Receivables                                                            # Units             Dollar Amount
+                                                                                   ------------------      -----------------
+      (i)   30-59 Days Delinquent                                                        20      0.03%      $368,125.52  0.03%
+      (ii)  60-89 Days Delinquent                                                         2      0.00%       $27,233.74  0.00%
+      (iii) 90 Days or More Delinquent                                                    0      0.00%            $0.00  0.00%
+
+XVIII. REPOSSESSION ACTIVITY                                                             # Units             Dollar Amount
+- ----------------------------                                                       ------------------      -----------------
+   (A) Vehicles Repossessed During Collection Period                                   10       0.01%      $160,936.41  0.01%
+   (B) Total Accumulated Repossessed Vehicles in Inventory                             10       0.01%      $160,936.41  0.01%
+
+XIX. TESTS FOR INCREASE IN SPECIFIED RESERVE ACCOUNT BALANCE
+- ------------------------------------------------------------
+   (A) Ratio of Net Losses to the Pool Balance as of Each Collection Period
+      (i)   Second Preceding Collection Period                                                                          0.00%
+      (ii)  Preceding Collection Period                                                                                 0.00%
+      (iii) Current Collection Period                                                                                   0.00%
+      (iv)  Three Month Average (Avg(i,ii,iii))                                                                         0.00%
+   (B) Ratio of Balance of Contracts Delinquent 60 Days or More to the
+         Outstanding Balance of Receivables.
+
+      (i)   Second Preceding Collection Period                                                                          0.00%
+      (ii)  Preceding Collection Period                                                                                 0.00%
+      (iii) Current Collection Period                                                                                   0.02%
+      (iv)  Three Month Average (Avg(i,ii,iii))                                                                         0.02%
+
+   (C) Loss and Delinquency Trigger Indicator                                                            Trigger was not hit.
+</FONT>
+
+   I hereby certify that the servicing report provided is true
+   and accurate to the best of my knowledge.
+
+
+   /s/ Paul C. Honda
+   ------------------------
+   Paul C. Honda
+   Assistant Vice President, Assistant Secretary and Compliance Officer
+
+
+
+
+
+
+
+
+
+
+
+
+</PRE>
+</BODY>
+</HTML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----

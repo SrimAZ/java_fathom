@@ -1,0 +1,1920 @@
+-----BEGIN PRIVACY-ENHANCED MESSAGE-----
+Proc-Type: 2001,MIC-CLEAR
+Originator-Name: webmaster@www.sec.gov
+Originator-Key-Asymmetric:
+ MFgwCgYEVQgBAQICAf8DSgAwRwJAW2sNKK9AVtBzYZmr6aGjlWyK3XmZv3dTINen
+ TWSM7vrzLADbmYQaionwg5sDW3P6oaM5D3tdezXMm7z1T+B+twIDAQAB
+MIC-Info: RSA-MD5,RSA,
+ ATPLZVL2d+PotTKBFwNhWryeLDrLWacTwKXRli5RBeZvjka3Bzo6hOPoLK6yHQ4D
+ aUt8NXxLjG62Y2VKH9HAjQ==
+
+<SEC-DOCUMENT>0001337010-06-000004.txt : 20060628
+<SEC-HEADER>0001337010-06-000004.hdr.sgml : 20060628
+<ACCEPTANCE-DATETIME>20060628163115
+ACCESSION NUMBER:		0001337010-06-000004
+CONFORMED SUBMISSION TYPE:	10-K
+PUBLIC DOCUMENT COUNT:		4
+CONFORMED PERIOD OF REPORT:	20060331
+FILED AS OF DATE:		20060628
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NILT TRUST
+		CENTRAL INDEX KEY:			0001244824
+		IRS NUMBER:				526935346
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-106763-02
+		FILM NUMBER:		06930377
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O NISSAN NORTH AMERICA, INC.
+		STREET 2:		990 WEST 190TH STREET, MAILSTOP M8A
+		CITY:			TORRANCE
+		STATE:			CA
+		ZIP:			90502
+		BUSINESS PHONE:		3107198584
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NISSAN NORTH AMERICA, INC.
+		STREET 2:		990 WEST 190TH STREET, MAILSTOP M8A
+		CITY:			TORRANCE
+		STATE:			CA
+		ZIP:			90502
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NISSAN-INFINITI LT
+		CENTRAL INDEX KEY:			0001244827
+		IRS NUMBER:				336226449
+		FISCAL YEAR END:			0331
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-106763-01
+		FILM NUMBER:		06930374
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O NISSAN NORTH AMERICA, INC.
+		STREET 2:		990 WEST 190TH STREET, MAILSTOP M8A
+		CITY:			TORRANCE
+		STATE:			CA
+		ZIP:			90502
+		BUSINESS PHONE:		3107198235
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O NISSAN NORTH AMERICA, INC.
+		STREET 2:		990 WEST 190TH STREET, MAILSTOP M8A
+		CITY:			TORRANCE
+		STATE:			CA
+		ZIP:			90502
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	NISSAN INFINITI LT
+		DATE OF NAME CHANGE:	20030620
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			NISSAN AUTO LEASING LLC II
+		CENTRAL INDEX KEY:			0001244832
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				954885574
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-106763
+		FILM NUMBER:		06930375
+
+	BUSINESS ADDRESS:	
+		STREET 1:		990 W 190TH STREET
+		CITY:			TORRANCE
+		STATE:			CA
+		ZIP:			90502
+		BUSINESS PHONE:		3107198583
+
+	MAIL ADDRESS:	
+		STREET 1:		990 W 190TH STREET
+		CITY:			TORRANCE
+		STATE:			CA
+		ZIP:			90502
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nissan Auto Lease Trust 2005-A
+		CENTRAL INDEX KEY:			0001337010
+		STANDARD INDUSTRIAL CLASSIFICATION:	ASSET-BACKED SECURITIES [6189]
+		IRS NUMBER:				954885574
+
+	FILING VALUES:
+		FORM TYPE:		10-K
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	333-127992
+		FILM NUMBER:		06930376
+
+	BUSINESS ADDRESS:	
+		STREET 1:		990 WEST 190 STREET
+		CITY:			TORRANCE
+		STATE:			CA
+		ZIP:			90502
+		BUSINESS PHONE:		310-719-8509
+
+	MAIL ADDRESS:	
+		STREET 1:		990 WEST 190 STREET
+		CITY:			TORRANCE
+		STATE:			CA
+		ZIP:			90502
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>bodynalt05a10k.htm
+<DESCRIPTION>NALT 2005-A 10-K FOR FYE 3/31/06
+<TEXT>
+<html>
+  <head>
+    <title>
+      NALT 2005-A 10-K for FYE 3/31/06
+</title>
+<!-- Licensed to: nissan-->
+<!-- Document Created using EDGARizer HTML 3.0.4.0 -->
+<!-- Copyright 2006 EDGARfilings, Ltd., an IEC company.-->
+<!-- All rights reserved EDGARfilings.com -->
+</head>
+  <body bgcolor="#ffffff"><br>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman"><strong>UNITED
+      STATES</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman"><strong>SECURITIES
+      AND EXCHANGE COMMISSION</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman"><strong>WASHINGTON,
+      D.C. 20549</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman"><strong>FORM
+      10-K</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman"><strong>FOR
+      ANNUAL AND TRANSITION REPORTS</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman"><strong>PURSUANT
+      TO SECTIONS 13 OR 15(d) OF THE</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman"><strong>SECURITIES
+      EXCHANGE ACT OF 1934</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Mark
+      One)</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+
+          <tr valign="top" style="line-height: 1.25;">
+            <td style="width: 36pt;">&#160;&#160; <font style="DISPLAY: inline; FONT-FAMILY: Wingdings">x</font></td>
+            <td>
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">ANNUAL
+                REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+                ACT OF
+                1934</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For
+      the
+      fiscal year ended March 31, 2006</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Or</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><br></div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+
+          <tr valign="top" style="line-height: 1.25;">
+            <td style="width: 36pt;">&#160;&#160; <font style="DISPLAY: inline; FONT-FAMILY: Wingdings">o</font></td>
+            <td>
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">TRANSITION
+                REPORT PURSUANT TO SECTION 13 OR 15(d) OF THE SECURITIES EXCHANGE
+                ACT OF
+                1934</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">For
+      the
+      transition period from __________________ to
+      _________________________</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Commission
+      file numbers 333-127992, 333-127992-01, 333-127992-02 and
+      333-127992-03</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>NISSAN
+      AUTO LEASE TRUST 2005-A</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>(Issuer
+      with respect to the Notes)</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>NISSAN
+      AUTO LEASING LLC II</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>(Originator
+      of the Note Issuer and Transferor of the SUBI Certificate to the Note
+      Issuer)</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>NILT
+      TRUST</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>(Transferor
+      of the SUBI Certificate to Nissan Auto Leasing LLC II)</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>NISSAN-INFINITI
+      LT</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>(Issuer
+      with respect to the SUBI Certificate)</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Exact
+      name of registrants as specified in their charter)</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table cellpadding="0" cellspacing="0" width="100%">
+
+          <tr>
+            <td valign="top" width="38%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>DELAWARE</strong></font></div>
+            </td>
+            <td valign="top" width="2%">&#160;</td>
+            <td valign="top" width="39%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>Nissan
+                Auto Leasing LLC II</strong></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+                95-4885574</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>NILT
+                Trust</strong></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+                52-6935346</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>Nissan-Infiniti
+                LT</strong></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+                33-6226449</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>Nissan
+                Auto Lease Trust 2005-A</strong></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">
+                51-6567936</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" width="38%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(State
+                or other jurisdiction of incorporation or organization)</font></div>
+            </td>
+            <td valign="top" width="2%">&#160;</td>
+            <td valign="top" width="39%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(I.R.S.
+                Employer Identification No.)</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong><u>990
+      West 190th Street, Torrance, California</u></strong></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 342pt">&#160;</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong><u>90502</u></strong></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 18pt">&#160;</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Address
+      of principal executive offices)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 342pt">&#160;</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Zip
+      Code)</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(Registrant&#8217;s
+      telephone number, including area code)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong><u>(310)
+      719-8509</u></strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Securities
+      registered pursuant to Section 12(b) of the Act: </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><u>None</u></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Securities
+      registered pursuant to Section 12(g) of the Act: </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><u>None</u></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+      by check mark if the registrant is a well-known seasoned issuer (as defined
+      in
+      Rule 405 of the Securities Act). Yes <font style="DISPLAY: inline; FONT-FAMILY: Wingdings">o </font></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">No
+<font style="DISPLAY: inline; FONT-FAMILY: Wingdings">x</font></font></div>
+    <div>&#160;</div>
+    <div><br>&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+        </div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div><br>&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+      by check mark if the registrant is not required to file reports pursuant to
+      Section 13 or Section 15(d) of the Securities Exchange Act. Yes <font style="DISPLAY: inline; FONT-FAMILY: Wingdings">o</font></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">No
+<font style="DISPLAY: inline; FONT-FAMILY: Wingdings">x</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+      by check mark whether the registrant (1) has filed all reports required to
+      be
+      filed by Section 13 or 15(d) of the Securities Exchange Act of 1934 during
+      the
+      preceding 12 months (or for such shorter period that the registrant was required
+      to file such reports), and (2) has been subject to such filing requirements
+      for
+      the past 90 days. Yes <font style="DISPLAY: inline; FONT-FAMILY: Wingdings">x</font>&#160; </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">No
+<font style="DISPLAY: inline; FONT-FAMILY: Wingdings">o</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+      by check mark if disclosure of delinquent filers pursuant to Item 405 of
+      Regulation S-K is not contained herein, and will not be contained, to the best
+      of registrant's knowledge, in definitive proxy or information statements
+      incorporated by reference in Part III of this Form 10-K or any amendment to
+      this
+      Form 10-K. <font style="DISPLAY: inline; FONT-FAMILY: Wingdings">x</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+      by check mark whether the registrant is a large accelerated filer, an
+      accelerated filer, or a non-accelerated filer. See definition of &#8220;accelerated
+      filer and large accelerated filer&#8221; in Rule 12b-2 of the Securities Exchange Act.
+      (Check one):</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Large
+      Accelerated Filer: <font style="DISPLAY: inline; FONT-FAMILY: Wingdings">o</font></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 171pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Accelerated
+      Filer: <font style="DISPLAY: inline; FONT-FAMILY: Wingdings">o</font></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 144pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Non-Accelerated
+      Filer: <font style="DISPLAY: inline; FONT-FAMILY: Wingdings">x</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Indicate
+      by check mark whether the registrant is a shell company (as defined in Rule
+      12b-2 of the Exchange Act). Yes <font style="DISPLAY: inline; FONT-FAMILY: Wingdings">o</font></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">No
+<font style="DISPLAY: inline; FONT-FAMILY: Wingdings">x</font></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">State
+      the
+      aggregate market value of the voting and non-voting common equity held by
+      non-affiliates computed by reference to the price at which the common equity
+      was
+      last sold, or the average bid and asked price of such common equity, as of
+      the
+      last business day of the registrant&#8217;s most recently completed second fiscal
+      quarter. </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><u>None</u></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Registrant
+      does not have any voting stock.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Documents
+      Incorporated by Reference. </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>See
+      Item 15(b).</strong></font></div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div><br>&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">2</font></div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div><br>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>PART
+      I</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>Item
+      1.</strong></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;</font></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong><u>BUSINESS</u></strong></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>.</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">This
+      Annual Report on Form 10-K is being filed by Nissan Auto Leasing LLC II (&#8220;NALL
+      II&#8221;), Nissan-Infiniti LT (&#8220;NILT), NILT Trust and Nissan Auto Lease Trust 2005-A
+      (the &#8220;Trust&#8221;), a Delaware statutory trust formed pursuant to a trust agreement,
+      dated as of August 25, 2005, between NALL II, as Transferor (the &#8220;Transferor&#8221;),
+      and Wilmington Trust Company, as owner trustee (the &#8220;Owner Trustee&#8221;). Reference
+      is further made to the Indenture, dated as of October 25, 2005, among the Trust,
+      as issuer, and U.S. Bank National Association, as indenture trustee (the
+&#8220;Indenture Trustee,&#8221; together with the Owner Trustee, the &#8220;Trustees&#8221;), providing
+      for the issuance by the Trust of notes entitled &#8220;Nissan Auto Lease Trust 2005-A
+      4.271% Asset Backed Notes, Class A-1&#8221; (the &#8220;Class A-1 Notes&#8221;), &#8220;Nissan Auto
+      Lease Trust 2005-A 4.61% Asset Backed Notes, Class A-2&#8221; (the &#8220;Class A-2 Notes&#8221;),
+&#8220;Nissan Auto Lease Trust 2005-A 4.70% Asset Backed Notes, Class A-3&#8221; (the &#8220;Class
+      A-3 Notes&#8221;) and &#8220;Nissan Auto Lease Trust 2005-A Floating Rate Asset Backed
+      Notes, Class A-4&#8221; (the &#8220;Class A-4 Notes&#8221;, together with the Class A-1 Notes, the
+      Class A-2 Notes and the Class A-3 Notes, the &#8220;Notes&#8221;), registered under the
+      Securities Act of 1933. Certain information that may otherwise have been
+      required to be included herein pursuant to Form 10-K has been omitted herefrom,
+      or in certain cases certain information has been included herein in lieu of
+      such
+      otherwise required information, in accordance with the letter, dated
+      June&#160;28, 1996 (the &#8220;No-Action Letter&#8221;), of the staff of the Office of Chief
+      Counsel of the Division of Corporation Finance of the Securities and Exchange
+      Commission issued with respect to series of pass-through securities issued
+      by
+      trusts formed by the Transferor or an affiliate thereof, as originator,
+      including the Notes.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>Item
+      2.</strong></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;</font></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong><u>PROPERTIES</u></strong></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>.</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+      following table sets forth the aggregate information of the Trust for the period
+      from October 18, 2005 (commencement of operations) through March 31, 2006
+      (Dollars in thousands). </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+      aggregate information has been reported on an accrual basis. Therefore, cash
+      activity for the month of March 2006, which was subsequently settled on April
+      17, 2006, is included.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div>
+      <table cellpadding="0" cellspacing="0" width="100%">
+
+          <tr>
+            <td align="justify" valign="top" width="63%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Principal
+                Distributions</font></div>
+            </td>
+            <td align="right" valign="top" width="10%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$173,400</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="63%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Interest
+                Distributions</font></div>
+            </td>
+            <td align="right" valign="top" width="10%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$28,725</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="63%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Servicing
+                Fees Paid to Servicer (Nissan Motor Acceptance
+                Corporation)</font></div>
+            </td>
+            <td align="right" valign="top" width="10%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$7,413</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="63%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Class
+                A-1 Notes Percentage of Servicing Fees</font></div>
+            </td>
+            <td align="right" valign="top" width="10%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">10.24%</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="63%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Class
+                A-2 Notes Percentage of Servicing Fees</font></div>
+            </td>
+            <td align="right" valign="top" width="10%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">16.32%</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="63%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Class
+                A-3 Notes Percentage of Servicing Fees</font></div>
+            </td>
+            <td align="right" valign="top" width="10%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">30.02%</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="63%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Class
+                A-4 Notes Percentage of Servicing Fees</font></div>
+            </td>
+            <td align="right" valign="top" width="10%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">32.96%</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="63%">&#160;</td>
+            <td align="right" valign="top" width="10%">&#160;</td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="63%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Certificates
+                Percentage of Servicing Fees</font></div>
+            </td>
+            <td align="right" valign="top" width="10%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">10.46%</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="63%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Additional
+                Servicing Compensation Paid to Servicer</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;&#160;
+                (Nissan Motor Acceptance Corporation)</font></div>
+            </td>
+            <td align="right" valign="top" width="10%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$0.00</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="63%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Net
+                Credit Losses</font></div>
+            </td>
+            <td align="right" valign="top" width="10%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$(3,185)</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="63%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Cumulative
+                Residual Loss</font></div>
+            </td>
+            <td align="right" valign="top" width="10%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$(647)</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="63%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Total
+                Number of Auctioned Vehicles</font></div>
+            </td>
+            <td align="right" valign="top" width="10%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">255</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="63%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Average
+                Net Credit Loss Ratio (including repossessions)</font></div>
+            </td>
+            <td align="right" valign="top" width="10%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">0.04%</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="63%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Total
+                Number of Defaulted Contracts</font></div>
+            </td>
+            <td align="right" valign="top" width="10%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">524</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div><br>&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">3</font></div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div><br>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><br></div>
+    <div>
+      <table cellpadding="0" cellspacing="0" width="100%">
+
+          <tr>
+            <td align="left" valign="top" width="34%">&#160;</td>
+            <td valign="top" width="18%" style="border-bottom: black thin solid;">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Number
+                of</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Delinquency
+                Ratios</font></div>
+            </td>
+            <td width="1%">&#160;</td>
+            <td valign="middle" width="21%" style="border-bottom: black thin solid;">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Dollar
+                Amount of</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Accounts</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="34%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">61
+                Days or More Delinquent</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+            <td valign="top" width="18%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: -0.9pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">0.20%</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+            <td width="1%">&#160;</td>
+            <td valign="top" width="21%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">0.21%</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><br></div>
+    <div>
+      <table cellpadding="0" cellspacing="0" width="100%">
+
+          <tr>
+            <td align="left" valign="top" width="34%">&#160;</td>
+            <td valign="top" width="18%" style="border-bottom: black thin solid;">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Number
+                of</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Delinquent</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Accounts</font></div>
+            </td>
+            <td valign="top" width="21%" style="border-bottom: black thin solid;">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">($
+                in thousands)</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="34%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">61
+                Days or More Delinquent</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+            <td valign="top" width="18%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: -0.9pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">783</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+            <td valign="top" width="21%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: -0.9pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">$18,279</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>Item
+      3.</strong></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;</font></font></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong><u>LEGAL
+      PROCEEDINGS</u></strong></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>.</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;
+</font>Nothing
+      to report.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>Item
+      4.</strong></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong><u>SUBMISSION
+      OF MATTERS TO A VOTE OF SECURITY HOLDERS.</u></strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>Nothing
+      to
+      report.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>PART
+      II</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: -72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>Item
+      5.</strong></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong><u>MARKET
+      FOR REGISTRANT'S COMMON EQUITY AND RELATED STOCKHOLDER
+      MATTERS.</u></strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: -72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+
+          <tr valign="top" style="line-height: 1.25;">
+            <td style="width: 36pt;">&#160;</td>
+            <td style="width: 36pt;">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;&#160;
+                (a)</font></div>
+            </td>
+            <td>
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font>There
+                is no
+                established public trading market for the common equity of the
+                Trust.</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+
+          <tr valign="top" style="line-height: 1.25;">
+            <td style="width: 36pt;">&#160;</td>
+            <td style="width: 18pt;">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">&#160;&#160;(b)</font></div>
+            </td>
+            <td>
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;On
+                March 31, 2006, there was one holder of record of the common equity
+                issued
+                by the Trust.</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: -72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>Item
+      9.</strong></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong><u>CHANGES
+      IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND FINANCIAL
+      DISCLOSURE.</u></strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: -72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: -72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font>Nothing
+      to report.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>PART
+      III</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: -72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>Item
+      12.<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font></strong></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong><u>SECURITY
+      OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT.</u></strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: -72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div>
+      <table cellpadding="0" cellspacing="0" width="100%">
+
+          <tr>
+            <td valign="top" width="11%" style="border-bottom: black thin solid;">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Title</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+            <td width="1%">&#160;</td>
+            <td align="left" valign="top" width="22%" style="border-bottom: black thin solid;">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Name
+                and Address of</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Beneficial
+                Owner</font></div>
+            </td>
+            <td width="1%">&#160;</td>
+            <td align="left" valign="top" width="22%" style="border-bottom: black thin solid;">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Amount
+                and Nature of</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Beneficial
+                Ownership</font></div>
+            </td>
+            <td width="1%">&#160;</td>
+            <td valign="top" width="10%" style="border-bottom: black thin solid;">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Percent
+                of</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Class</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" width="11%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Certificates</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+            <td width="1%">&#160;</td>
+            <td align="left" valign="top" width="22%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Nissan
+                Auto Leasing LLC II</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+            </td>
+            <td width="1%">&#160;</td>
+            <td align="left" valign="top" width="22%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Directly
+                owns 100% of the Certificates of the Trust</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+            </td>
+            <td width="1%">&#160;</td>
+            <td valign="top" width="10%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">100%</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>PART
+      IV</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: -72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>Item
+      15.</strong></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;</font></font></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong><u>EXHIBITS,
+      FINANCIAL STATEMENT SCHEDULES AND REPORTS ON FORM 8-K.</u></strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: -72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+
+          <tr valign="top" style="line-height: 1.25;">
+            <td style="width: 36pt;">&#160;</td>
+            <td style="width: 36pt;">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font>(a)</strong></font></div>
+            </td>
+            <td>
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong><u>List
+                of documents filed as part of the Annual
+                Report:</u></strong></font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+      exhibits listed on the accompanying Exhibit Index on page 7 are filed as part
+      of
+      this report.</font></div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div><br>&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">4</font></div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div><br>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font>(b)<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font></strong></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong><u>Reports
+      on Form 8-K:</u></strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">NALL
+      II,
+      NILT, NILT Trust and the Trust filed certain transaction documents in connection
+      with the close of the transaction to issue the Notes on October 17, 2005 and
+      October 19, 2005 in Current Reports on Form 8-K. In addition, NALL II, NILT,
+      NILT Trust and the Trust filed Current Reports on Form 8-K regarding monthly
+      distributions of principal and interest to noteholders on November 30, 2005
+      for
+      the month ended October 31, 2005, on December 29, 2005 for the month ended
+      November 30, 2005, on January 30, 2006 for the month ended December 31, 2005,
+      on
+      February 27, 2006 for the month ended January 31, 2006, on March 29, 2006 for
+      the month ended February 28, 2006, and on April 28, 2006 for the month ended
+      March&#160;31, 2006, and included in each such Form 8-K report, as Exhibit 20.1,
+      was the monthly settlement statement for each respective month end as provided
+      by the Servicer to the Trustees.</font></div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div><br>&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">5</font></div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div><br>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>SIGNATURES</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Pursuant
+      to the requirements of Section 13 or 15(d) of the Securities Exchange Act of
+      1934, the Registrant has duly caused this report to be signed on its behalf
+      by
+      the undersigned, thereunto duly authorized.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 72pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Date:
+      June 28, 2006</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 234pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;NISSAN
+      AUTO LEASING
+      LLC II</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 234pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;By:</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 18pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><u>/s/
+      Kazuhiko Kazama_____________</u></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 180pt">&#160;</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 270pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;</font>Name:</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 31.15pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Kazuhiko
+      Kazama</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 270pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;
+Title:</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 31.15pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Treasurer</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 234pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;</font>NISSAN
+      AUTO LEASE TRUST
+      2005-A</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 261pt; TEXT-INDENT: -27pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;By:</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Nissan
+      Auto Leasing LLC II, solely as</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 261pt; TEXT-INDENT: -27pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font>originator
+      of Nissan Auto Lease
+      2005-A</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 270pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;</font>By:</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 13.15pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><u>/s/
+      Kazuhiko Kazama_____________</u></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 157.5pt">&#160;</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 288pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;Name:</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 31.5pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Kazuhiko
+      Kazama</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 288pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;Title:</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 31.5pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Treasurer</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 234pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;NILT
+      TRUST</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 261pt; TEXT-INDENT: -27pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;By:</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Nissan
+      Motor Acceptance Corporation,</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160
+;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;
+</font>solely
+      as grantor and
+      beneficiary</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 270pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font>By:</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 13.15pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><u>/s/
+      Kazuhiko Kazama___________</u></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 157.5pt">&#160;</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 288pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;</font></font>Name:</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Kazuhiko
+      Kazama</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 288pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font>Title:</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Treasurer</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 234pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;NISSAN-INFINITI
+      LT</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 261pt; TEXT-INDENT: -27pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;By:</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 9pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Nissan
+      Motor Acceptance Corporation,</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160
+;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;
+</font>solely
+      as originator of
+      Nissan-Infiniti LT</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 270pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font>By:</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 13.15pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><u>/s/
+      Kazuhiko Kazama</u></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 157.5pt">&#160;</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 288pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font>Name:</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Kazuhiko
+      Kazama</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 288pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font>Title:</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Treasurer</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><br>&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">6</font></div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div><br>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>EXHIBIT
+      INDEX</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table cellpadding="0" cellspacing="0" width="100%">
+
+          <tr>
+            <td valign="middle" width="11%" style="border-bottom: black thin solid;">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Exhibit
+                No.</font></div>
+            </td>
+            <td width="1%">&#160;</td>
+            <td valign="middle" width="47%" style="border-bottom: black thin solid;">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Description</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+            <td width="1%">&#160;</td>
+            <td valign="middle" width="20%" style="border-bottom: black thin solid;">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Sequentially</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Numbered
+                </font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Page</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" width="11%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">31</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+            <td width="1%">&#160;</td>
+            <td align="left" valign="middle" width="47%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Certification
+                pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 and Relevant
+                Rules and Regulations of the Securities and Exchange
+                Commission</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+            <td width="1%">&#160;</td>
+            <td valign="top" width="20%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">8</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" width="11%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">99.1</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+            <td width="1%">&#160;</td>
+            <td align="left" valign="middle" width="47%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Report
+                of Independent Registered Public Accounting Firm and Management&#8217;s
+                Assertion on Compliance with Nissan Motor Acceptance Corporation&#8217;s
+                Established Minimum Servicing Standards for Automobile Leases</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+            <td width="1%">&#160;</td>
+            <td valign="top" width="20%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">9</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+          </tr>
+          <tr>
+            <td valign="top" width="11%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">99.2</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+            <td width="1%">&#160;</td>
+            <td align="left" valign="middle" width="47%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Officer's
+                Certificate of the Servicer Regarding Compliance, dated as of March
+                31,
+                2006</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+            <td width="1%">&#160;</td>
+            <td valign="top" width="20%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">13</font></div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><br>&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">7</font></div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-31
+<SEQUENCE>2
+<FILENAME>nalt05a10kex31.htm
+<DESCRIPTION>CERTIFICATION PURSUANT TO SECTION 302 OF THE SARBANES-OXLEY ACT OF 2002 AND RELEVANT RULES AND REGULATIONS OF THE SEC
+<TEXT>
+<html>
+  <head>
+    <title>
+      Certification pursuant to Section 302 of the Sarbanes-Oxley Act of 2002 and
+      Relevant Rules and Regulations of the SEC
+</title>
+<!-- Licensed to: nissan-->
+<!-- Document Created using EDGARizer HTML 3.0.4.0 -->
+<!-- Copyright 2006 EDGARfilings, Ltd., an IEC company.-->
+<!-- All rights reserved EDGARfilings.com -->
+</head>
+  <body bgcolor="#ffffff"><br>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 14pt; FONT-FAMILY: Times New Roman"><strong>CERTIFICATION
+      PURSUANT TO SECTION 302(A)</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 14pt; FONT-FAMILY: Times New Roman"><strong>OF
+      THE SARBANES-OXLEY ACT OF 2002</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">I,
+      Kazuhiko Kazama, certify that:</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(1)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">I
+      have
+      reviewed this annual report on Form 10-K, and all reports on Form 8-K containing
+      distribution or settlement statements filed in respect of periods included
+      in
+      the year covered by this annual report, of Nissan Auto Lease Trust
+      2005-A;</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(2)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Based
+      on
+      my knowledge, the information in these reports, taken as a whole, does not
+      contain any untrue statement of a material fact or omit to state a material
+      fact
+      necessary to make the statements made, in light of the circumstances under
+      which
+      such statements were made, not misleading as of the last day of the period
+      covered by this annual report;</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(3)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Based
+      on
+      my knowledge, the distribution or servicing information required to be provided
+      to the trustee by the servicer under the pooling and servicing, or similar
+      agreement, for inclusion in these reports, is included in these
+      reports;</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(4)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Based
+      on
+      my knowledge and upon the annual compliance statement included in the report
+      and
+      required to be delivered to the trustee in accordance with the terms of the
+      pooling and servicing agreement, or similar agreement, and except as disclosed
+      in the reports, the servicer has fulfilled its obligations under the servicing
+      agreement; and</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(5)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+      reports disclose all significant deficiencies relating to the servicer&#8217;s
+      compliance with the minimum servicing standards based upon the report provided
+      by an independent registered public accountant, after conducting a review in
+      compliance with the Uniform Single Attestation Program for Mortgage Bankers
+      or
+      similar procedure, as set forth in the pooling and servicing, or similar
+      agreement that is included in these reports.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">June
+      28,
+      2006</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">By:</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 207pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;</font></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><u>/s/
+      Kazuhiko Kazama</u></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;Kazuhiko
+      Kazama</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;Treasurer</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;Nissan
+      Auto
+      Leasing LLC II</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: -36pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">&#160;</div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">8</font></div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">&#160;</div>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.1
+<SEQUENCE>3
+<FILENAME>nalt05a10kex99_1.htm
+<DESCRIPTION>REPORT OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM AND MANAGEMENT'S ASSERTION ON COMPLIANCE WITH NMAC'S ESTABLISHED MINIMUM SERVICING STANDARDS FOR AUTOMOBILE LEASES
+<TEXT>
+<html>
+  <head>
+    <title>
+      Report of Independent Registered Public Accounting Firm and Management's Assertion
+      on Compliance with NMAC's Established Minimum Servicing Standards for Automobile
+      Leases
+</title>
+<!-- Licensed to: nissan-->
+<!-- Document Created using EDGARizer HTML 3.0.4.0 -->
+<!-- Copyright 2006 EDGARfilings, Ltd., an IEC company.-->
+<!-- All rights reserved EDGARfilings.com -->
+</head>
+  <body bgcolor="#ffffff"><br>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman"><strong>REPORT
+      OF INDEPENDENT REGISTERED PUBLIC ACCOUNTING FIRM</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">To
+      the
+      Board of Directors of</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Nissan
+      Motor Acceptance Corporation, as Servicer</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Torrance,
+      California</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">We
+      have
+      examined management&#8217;s assertion that Nissan Motor Acceptance Corporation (the
+&#8220;Company&#8221;) has complied as of March 31, 2006, and for the period from October
+      18, 2005 (commencement of operations) to March 31, 2006, with its established
+      minimum servicing standards described in the accompanying Management&#8217;s
+      Assertion, dated May 26, 2006, for the Nissan Auto Lease Trust 2005-A.
+      Management is responsible for the Company&#8217;s compliance with those minimum
+      servicing standards. Our responsibility is to express an opinion on management&#8217;s
+      assertion about the Company&#8217;s compliance based on our examination.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Our
+      examination was conducted in accordance with attestation standards established
+      by the American Institute of Certified Public Accountants, as adopted by the
+      Public Company Accounting Oversight Board, and accordingly, included examining,
+      on a test basis, evidence about the Company&#8217;s compliance with its minimum
+      servicing standards and performing such other procedures as we considered
+      necessary in the circumstances. We believe that our examination provides a
+      reasonable basis for our opinion. Our examination does not provide a legal
+      determination on the Company&#8217;s compliance with its minimum servicing
+      standards.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">In
+      our
+      opinion, management&#8217;s assertion that the Company complied with the
+      aforementioned minimum servicing standards as of March 31, 2006, and for the
+      period from October 18, 2005 (commencement of operations) to March 31, 2006,
+      for
+      the Nissan Auto Lease Trust 2005-A is fairly stated, in all material respects,
+      based on the criteria set forth in Appendix I.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">/s/
+      DELOITTE &amp; TOUCHE</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Los
+      Angeles, California</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">May
+      31,
+      2006</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div><br>&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">9</font></div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman"><strong>MANAGEMENT&#8217;S
+      ASSERTION</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">As
+      of
+      March 31, 2006 and for the period from October 18, 2005 (commencement of
+      operations) to March 31, 2006, Nissan Motor Acceptance Corporation (the
+&#8220;Company&#8221;) has complied, in all material respects, with the Company&#8217;s
+      established minimum servicing standards for automobile leases serviced by the
+      Company for the Nissan Auto Lease Trust 2005-A as set forth in Appendix I (the
+      &#8220;Standards&#8221;). The Standards are based on the Mortgage Banker&#8217;s Association of
+      America&#8217;s Uniform Single Attestation Program for Mortgage Bankers, modified to
+      address the unique characteristics of servicing automobile leases.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div align="left">
+      <table border="0" cellpadding="0" cellspacing="0" width="50%">
+
+          <tr>
+            <td align="justify" valign="top" width="55%" style="border-bottom: black thin solid;">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">/s/
+                Steve Lambert</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="55%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Steve
+                Lambert - President</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="55%" style="border-bottom: black thin solid;">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">/s/</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>&#160;</strong></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Kazuhiko
+                Kazama</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="55%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Kazuhiko
+                Kazama - Treasurer</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="55%" style="border-bottom: black thin solid;">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font id="TAB1" style="MARGIN-LEFT: 36pt"></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">/s/
+                Anthony Wall</font></div>
+            </td>
+          </tr>
+          <tr>
+            <td align="left" valign="top" width="55%">
+              <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+              <div style="DISPLAY: block; MARGIN-LEFT: 36pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Anthony
+                Wall - Director, Accounting and
+                Reporting</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="left"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">May
+      26,
+      2006</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div><br>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">10</font></div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="right"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong><em><u>APPENDIX
+      I</u></em></strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>NISSAN
+      MOTOR ACCEPTANCE CORPORATION&#8217;S MINIMUM SERVICING STANDARDS FOR AUTOMOBILE
+      LEASES</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><br></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>I.</strong></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>CUSTODIAL
+      BANK ACCOUNTS</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+
+          <tr valign="top" style="line-height: 1.25;">
+            <td style="width: 36pt;">&#160;</td>
+            <td style="width: 36pt;">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1.</font></div>
+            </td>
+            <td>
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Reconciliations
+                shall be prepared on a monthly basis for all custodial bank accounts
+                and
+                related bank clearing accounts. These reconciliations
+                shall:</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 90pt; TEXT-INDENT: -18pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif">&#183;</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Be
+      mathematically accurate</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 90pt; TEXT-INDENT: -18pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif">&#183;</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Be
+      prepared within forty-five (45) calendar days after the cutoff date</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 90pt; TEXT-INDENT: -18pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif">&#183;</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Be
+      reviewed and approved by someone other than the person who prepared the
+      reconciliation</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 90pt; TEXT-INDENT: -18pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Symbol, serif">&#183;</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Document
+      explanations for reconciling items. These reconciling items shall be resolved
+      within ninety (90) calendar days of their original identification.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+
+          <tr valign="top" style="line-height: 1.25;">
+            <td style="width: 36pt;">&#160;</td>
+            <td style="width: 36pt;">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">2.</font></div>
+            </td>
+            <td>
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Funds
+                of the servicing entity shall be advanced as specified in the servicing
+                agreement in cases where there is an overdraft in an investor&#8217;s or a
+                lessee&#8217;s account and an advance is specified in the investor&#8217;s servicing
+                agreement.</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+
+          <tr valign="top" style="line-height: 1.25;">
+            <td style="width: 36pt;">&#160;</td>
+            <td style="width: 36pt;">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">3.</font></div>
+            </td>
+            <td>
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Each
+                custodial account shall be maintained at a federally insured depository
+                institution in trust for the applicable
+                investor.</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>II.</strong></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>PAYMENTS</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+
+          <tr valign="top" style="line-height: 1.25;">
+            <td style="width: 36pt;">&#160;</td>
+            <td style="width: 36pt;">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1.</font></div>
+            </td>
+            <td>
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Payments
+                shall be deposited into the custodial bank accounts and related bank
+                clearing accounts within two business days of
+                receipt.</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+
+          <tr valign="top" style="line-height: 1.25;">
+            <td style="width: 36pt;">&#160;</td>
+            <td style="width: 36pt;">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">2.</font></div>
+            </td>
+            <td>
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Payments
+                made in accordance with the lessee&#8217;s automobile lease documents shall be
+                posted to the applicable lessee&#8217;s records within two business days of
+                receipt.</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+
+          <tr valign="top" style="line-height: 1.25;">
+            <td style="width: 36pt;">&#160;</td>
+            <td style="width: 36pt;">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">3.</font></div>
+            </td>
+            <td>
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Payments
+                shall be allocated to rental income or other items in accordance
+                with the
+                lessee&#8217;s automobile lease
+                documents.</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+
+          <tr valign="top" style="line-height: 1.25;">
+            <td style="width: 36pt;">&#160;</td>
+            <td style="width: 36pt;">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">4.</font></div>
+            </td>
+            <td>
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Payments
+                identified as payoffs shall be allocated in accordance with the lessee&#8217;s
+                automobile lease documents.</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>III.</strong></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>DISBURSEMENTS</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+
+          <tr valign="top" style="line-height: 1.25;">
+            <td style="width: 36pt;">&#160;</td>
+            <td style="width: 36pt;">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1.</font></div>
+            </td>
+            <td>
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Disbursements
+                made via wire transfer on behalf of investors shall be made only
+                by
+                authorized personnel.</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+
+          <tr valign="top" style="line-height: 1.25;">
+            <td style="width: 36pt;">&#160;</td>
+            <td style="width: 36pt;">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">2.</font></div>
+            </td>
+            <td>
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Amounts
+                remitted to investors per the servicer&#8217;s investor reports shall agree with
+                cancelled checks, or other form of payment, or custodial bank
+                statements.</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>&#160;</div>
+    <div><br>&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; WIDTH: 100%; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">11</font></div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+    <div>&#160;</div>
+    <div><strong><font size="2">IV.</font></strong><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font></font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>AUTOMOBILE
+      LEASE ACCOUNTING INVESTOR ACCOUNTING AND REPORTING</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+
+          <tr valign="top" style="line-height: 1.25;">
+            <td style="width: 36pt;">&#160;</td>
+            <td style="width: 36pt;">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1.</font></div>
+            </td>
+            <td>
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Monthly
+                investor reports are sent to the indenture trustee on a monthly basis
+                listing the total book value of automobile leases and number of automobile
+                leases serviced.</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>V.</strong></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>AUTOMOBILE
+      LEASE ACCOUNTING</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+
+          <tr valign="top" style="line-height: 1.25;">
+            <td style="width: 36pt;">&#160;</td>
+            <td style="width: 36pt;">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1.</font></div>
+            </td>
+            <td>
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+                servicing entity&#8217;s automobile lease records shall agree with, or reconcile
+                to, the records of lessee with respect to the monthly payment and
+                remaining automobile lease term on a monthly
+                basis.</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>VI.</strong></font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><strong>DELINQUENCIES</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div>
+      <table align="center" border="0" cellpadding="0" cellspacing="0" id="hangingindent" width="100%">
+
+          <tr valign="top" style="line-height: 1.25;">
+            <td style="width: 36pt;">&#160;</td>
+            <td style="width: 36pt;">
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">1.</font></div>
+            </td>
+            <td>
+              <div style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Records
+                documenting collection efforts shall be maintained during the period
+                an
+                automobile lease is in default and shall be updated at least monthly.
+                Such
+                records shall describe the entity&#8217;s activities in monitoring delinquent
+                automobile leases, including, for example, phone calls, letters and
+                payment rescheduling plans in cases where the delinquency is deemed
+                temporary (e.g., illness or
+                unemployment).</font></div>
+            </td>
+          </tr>
+
+      </table>
+    </div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div>&#160;</div>
+    <div id="PGBRK" style="MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; MARGIN-RIGHT: 0pt">
+      <div id="FTR">
+        <div id="GLFTR" style="WIDTH: 100%" align="left">
+        </div>
+      </div>
+      <div id="PN" style="PAGE-BREAK-AFTER: always">
+        <div style="WIDTH: 100%; TEXT-ALIGN: center"><font style="DISPLAY: inline; FONT-SIZE: 8pt; FONT-FAMILY: Times New Roman">12</font></div>
+        <div style="WIDTH: 100%; TEXT-ALIGN: center">
+          <hr style="COLOR: black" noshade size="2">
+        </div>
+      </div>
+      <div id="HDR">
+        <div id="GLHDR" style="WIDTH: 100%" align="right">
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+
+
+
+
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-99.2
+<SEQUENCE>4
+<FILENAME>nalt05a10kex99_2.htm
+<DESCRIPTION>OFFICER'S CERTIFICATE OF THE SERVICER REGARDING COMPLIANCE, DATED AS OF 3/31/06
+<TEXT>
+<html>
+  <head>
+    <title>
+      Officer's Certificate of the Servicer Regarding Compliance, dated as of 3/31/06
+</title>
+<!-- Licensed to: nissan-->
+<!-- Document Created using EDGARizer HTML 3.0.4.0 -->
+<!-- Copyright 2006 EDGARfilings, Ltd., an IEC company.-->
+<!-- All rights reserved EDGARfilings.com -->
+</head>
+  <body bgcolor="#ffffff"><br>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 14pt; FONT-FAMILY: Times New Roman"><strong>NISSAN
+      MOTOR ACCEPTANCE CORPORATION</strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="center"><font style="DISPLAY: inline; FONT-SIZE: 12pt; FONT-FAMILY: Times New Roman"><strong><u>OFFICER'S
+      CERTIFICATE</u></strong></font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+      undersigned, Kazuhiko Kazama, Treasurer of NISSAN MOTOR ACCEPTANCE CORPORATION,
+      a California corporation (the &#8220;Company&#8221;), does hereby certify, in his capacity
+      as such corporate officer, as follows:</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(1)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">The
+      undersigned has caused a review of the activities of the Company, in its
+      capacity as Servicer, during the period </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">October
+      18, 2005 </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">through
+      March 31, 2006, to conducted under his supervision; and</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">(2)</font><font id="TAB2" style="COLOR: black; LETTER-SPACING: 27pt">&#160;</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">To
+      the
+      best of the undersigned&#8217;s knowledge, no Servicer Default has occurred during the
+      period </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">October&#160;25,
+      2005 </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">through
+      March 31, 2006.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">This
+      Officer&#8217;s Certificate is being furnished pursuant to Section 3.01(c) of the
+      Servicing Agreement, dated as of March 1, 1999, as amended, and Section 8.11(a)
+      of the 2005-A Servicing Supplement, dated as of </font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">October
+      25, 2005</font><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">,
+      by and
+      among Nissan-Infiniti LT, NILT Trust and the Company (the
+&#8220;Agreement&#8221;).</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">Capitalized
+      terms not otherwise defined herein have the meaning assigned to them in the
+      Agreement.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 72pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman">IN
+      WITNESS WHEREOF, I have set my hand effective as of the 31st day of March,
+      2006.</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 0pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify">&#160;</div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 234pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<u>/s/
+      Kazuhiko
+      Kazama</u>__________________</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 234pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;Kazuhiko
+      Kazama</font></div>
+    <div style="DISPLAY: block; MARGIN-LEFT: 234pt; TEXT-INDENT: 0pt; LINE-HEIGHT: 1.25; MARGIN-RIGHT: 0pt" align="justify"><font style="DISPLAY: inline; FONT-SIZE: 10pt; FONT-FAMILY: Times New Roman"><font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;<font id="TAB2" style="LETTER-SPACING: 9pt">&#160;&#160;&#160;</font>&#160;Treasurer</font></div>
+  </body>
+</html>
+
+
+
+
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
+-----END PRIVACY-ENHANCED MESSAGE-----
